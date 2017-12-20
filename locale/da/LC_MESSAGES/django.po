@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-20 19:11+0000\n"
+"POT-Creation-Date: 2017-12-20 22:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -478,7 +478,7 @@ msgstr ""
 msgid "Region"
 msgstr ""
 
-#: templates/hiscore/index.html:86
+#: templates/hiscore/index.html:86 templates/match/index.html:37
 msgid "Level"
 msgstr ""
 
@@ -630,6 +630,30 @@ msgstr ""
 msgid ""
 "Use this page to search for the active match details for summoners currently "
 "in game."
+msgstr ""
+
+#: templates/match/index.html:34
+msgid "Summoner"
+msgstr ""
+
+#: templates/match/index.html:35
+msgid "Champion"
+msgstr ""
+
+#: templates/match/index.html:36
+msgid "Spells"
+msgstr ""
+
+#: templates/match/index.html:38
+msgid "Solo Rank"
+msgstr ""
+
+#: templates/match/index.html:39
+msgid "Winratio/Total"
+msgstr ""
+
+#: templates/match/index.html:40
+msgid "Runes"
 msgstr ""
 
 #: templates/tools/index.html:7 templates/tools/index.html:8
