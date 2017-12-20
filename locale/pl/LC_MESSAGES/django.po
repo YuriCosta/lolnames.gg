@@ -1,678 +1,369 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Copyright (C) 2017 LOLNAMES.GG
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-20 22:18+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n"
-"%100<12 || n%100>=14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n"
-"%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: lolnamesgg/settings.py:167
 msgid "English"
 msgstr ""
 
-#: lolnamesgg/settings.py:168
 msgid "Danish"
 msgstr ""
 
-#: lolnamesgg/settings.py:169
 msgid "German"
 msgstr ""
 
-#: lolnamesgg/settings.py:170
 msgid "Spanish"
 msgstr ""
 
-#: lolnamesgg/settings.py:171
 msgid "French"
 msgstr ""
 
-#: lolnamesgg/settings.py:172
 msgid "Italian"
 msgstr ""
 
-#: lolnamesgg/settings.py:173
 msgid "Hungarian"
 msgstr ""
 
-#: lolnamesgg/settings.py:174
 msgid "Dutch"
 msgstr ""
 
-#: lolnamesgg/settings.py:175
 msgid "Norwegian"
 msgstr ""
 
-#: lolnamesgg/settings.py:176
 msgid "Polish"
 msgstr ""
 
-#: lolnamesgg/settings.py:177
 msgid "Portuguese"
 msgstr ""
 
-#: lolnamesgg/settings.py:178
 msgid "Romanian"
 msgstr ""
 
-#: lolnamesgg/settings.py:179
 msgid "Finnish"
 msgstr ""
 
-#: lolnamesgg/settings.py:180
 msgid "Swedish"
 msgstr ""
 
-#: lolnamesgg/settings.py:181
 msgid "Turkish"
 msgstr ""
 
-#: lolnamesgg/settings.py:182
 msgid "Russian"
 msgstr ""
 
-#: lolnamesgg/settings.py:183
 msgid "Serbian"
 msgstr ""
 
-#: lolnamesgg/settings.py:184
 msgid "Korean"
 msgstr ""
 
-#: lolnamesgg/settings.py:185
 msgid "Japanese"
 msgstr ""
 
-#: templates/base.html:75 templates/faq/index.html:4 templates/faq/index.html:5
-#: templates/generator/index.html:5 templates/generator/index.html:6
-#: templates/generator/index.html:11 templates/generator/index.html:12
-#: templates/get_id/index.html:5 templates/get_id/index.html:6
-#: templates/get_id/index.html:11 templates/get_id/index.html:12
-#: templates/get_name/index.html:5 templates/get_name/index.html:6
-#: templates/get_name/index.html:11 templates/get_name/index.html:12
-#: templates/hiscore/index.html:4 templates/hiscore/index.html:5
-#: templates/index.html:5 templates/index.html:6 templates/index.html:11
-#: templates/index.html:12 templates/lists/index.html:4
-#: templates/lists/index.html:5 templates/lists/table.html:4
-#: templates/lists/table.html:5 templates/match/index.html:5
-#: templates/match/index.html:6 templates/match/index.html:11
-#: templates/match/index.html:12 templates/tools/index.html:4
-#: templates/tools/index.html:5 templates/track/index.html:4
-#: templates/track/index.html:5
 msgid "LoL Names"
 msgstr "LoL Nick"
 
-#: templates/base.html:79 templates/index.html:5 templates/index.html:6
-#: templates/index.html:11 templates/index.html:12 templates/index.html:24
 msgid "Checker"
-msgstr ""
+msgstr "Szachownica"
 
-#: templates/base.html:82 templates/lists/index.html:4
-#: templates/lists/index.html:5 templates/lists/index.html:6
-#: templates/lists/index.html:18 templates/lists/table.html:4
-#: templates/lists/table.html:5 templates/lists/table.html:6
 msgid "Lists"
 msgstr "Listy"
 
-#: templates/base.html:85 templates/generator/index.html:5
-#: templates/generator/index.html:6 templates/generator/index.html:11
-#: templates/generator/index.html:12 templates/generator/index.html:26
 msgid "Generator"
 msgstr ""
 
-#: templates/base.html:88 templates/hiscore/index.html:66
 msgid "Highscores"
-msgstr ""
+msgstr "Wysokie noty"
 
-#: templates/base.html:91 templates/tools/index.html:4
-#: templates/tools/index.html:5 templates/tools/index.html:6
-#: templates/tools/index.html:18
 msgid "Tools"
-msgstr ""
+msgstr "Przybory"
 
-#: templates/base.html:94 templates/faq/index.html:4 templates/faq/index.html:5
-#: templates/faq/index.html:6 templates/faq/index.html:17
 msgid "FAQ"
 msgstr ""
 
-#: templates/base.html:102
 msgid "Languages"
 msgstr "Języki"
 
-#: templates/faq/index.html:6 templates/generator/index.html:7
-#: templates/generator/index.html:13 templates/get_id/index.html:7
-#: templates/get_id/index.html:13 templates/get_name/index.html:7
-#: templates/get_name/index.html:13 templates/index.html:7
-#: templates/index.html:13 templates/lists/index.html:6
-#: templates/lists/table.html:6 templates/match/index.html:7
-#: templates/match/index.html:13 templates/tools/index.html:6
-#: templates/track/index.html:7
-msgid ""
-"LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,"
-"league name checker,league of legends name checker,summoner name "
-"availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
-"LoL, League of Legends, nazwiska, generator, checker, lol nieaktywny, "
-"sprawdzenie nazwiska lol, sprawdzenie nazwy ligi, legenda sprawdzania "
-"nazwisk legionów, dostępność nazwiska, dostępność nazwy ligi, wyszukiwanie, "
-"nazwa lol przywoływacza, przywoływacza"
+msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
+msgstr "LoL, League of Legends, nazwiska, generator, checker, lol nieaktywny, sprawdzenie nazwiska lol, sprawdzenie nazwy ligi, legenda sprawdzania nazwisk legionów, dostępność nazwiska, dostępność nazwy ligi, wyszukiwanie, nazwa lol przywoływacza, przywoływacza"
 
-#: templates/faq/index.html:7 templates/faq/index.html:8
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Najczęściej zadawane pytania dotyczące nazwy przywoływacza"
 
-#: templates/faq/index.html:18
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
-"Najczęściej zadawane pytania na temat Legionów Legendarnych reguł zmiany "
-"nazw."
+msgstr "Najczęściej zadawane pytania na temat Legionów Legendarnych reguł zmiany nazw."
 
-#: templates/faq/index.html:22
 msgid "Close"
 msgstr "Zamknąć"
 
-#: templates/faq/index.html:23
-msgid ""
-"This section contains a wealth of information, related to <strong>LoL Names."
-"GG</strong> and its use. If you cannot find an answer to your question, feel "
-"free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" "
-"target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
-"Ta sekcja zawiera wiele informacji powiązanych z <strong>LoL Names.GG</"
-"strong> i jej wykorzystanie. <a href=\"https://www.reddit.com/message/"
-"compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">Jeśli nie możesz "
-"znaleźć odpowiedzi na swoje pytanie, skontaktuj się ze mną.</a>"
+msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
+msgstr "Ta sekcja zawiera wiele informacji powiązanych z <strong>LoL Names.GG</strong> i jej wykorzystanie. <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">Jeśli nie możesz znaleźć odpowiedzi na swoje pytanie, skontaktuj się ze mną.</a>"
 
-#: templates/faq/index.html:31
 msgid "Frequently Asked Questions"
 msgstr "Często Zadawane Pytania"
 
-#: templates/faq/index.html:35
 msgid "How frequently do the lists update?"
 msgstr "Jak często aktualizowane są listy?"
 
-#: templates/faq/index.html:40
-msgid ""
-"The lists will update about once every hour. A full rescan is done every "
-"week."
-msgstr ""
-"Listy będą aktualizowane raz w tygodniu. To dlatego, że trwa setki tysięcy "
-"żądań i wymaga buforowania."
+msgid "The lists will update about once every hour. A full rescan is done every week."
+msgstr "Listy będą aktualizowane raz w tygodniu. To dlatego, że trwa setki tysięcy żądań i wymaga buforowania."
 
-#: templates/faq/index.html:47
 msgid "Why can't I take a name on a new account?"
 msgstr "Dlaczego nie mogę podać nazwy na nowym koncie?"
 
-#: templates/faq/index.html:52
-msgid ""
-"If a name is already taken by an account you can only obtain it via a name "
-"change. These names are shown with a green background. If a name isn't taken "
-"by a current user you can take it on a brand new account. These names are "
-"shown with a blue background."
-msgstr ""
-"Jeśli nazwa została już pobrana przez konto, możesz ją uzyskać tylko przez "
-"zmianę nazwy. Te nazwy są wyświetlane na zielonym tle. Jeśli nazwa nie "
-"została podjęta przez obecnego użytkownika, możesz ją wziąć na zupełnie nowe "
-"konto. Te nazwy są wyświetlane na niebieskim tle."
+msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
+msgstr "Jeśli nazwa została już pobrana przez konto, możesz ją uzyskać tylko przez zmianę nazwy. Te nazwy są wyświetlane na zielonym tle. Jeśli nazwa nie została podjęta przez obecnego użytkownika, możesz ją wziąć na zupełnie nowe konto. Te nazwy są wyświetlane na niebieskim tle."
 
-#: templates/faq/index.html:59
 msgid "What if the account is banned?"
 msgstr "Co zrobić, jeśli konto jest zabronione?"
 
-#: templates/faq/index.html:64
-msgid ""
-"If the account is banned it may be shown as being free with a green "
-"background, however it will remain unavailible indefinitely unless Riot "
-"changes their policy on banned accounts."
-msgstr ""
-"Jeśli konto jest zabronione, może być uznane za wolne od zielonego tła, ale "
-"pozostanie dostępne w nieskończoność, chyba że Riot zmieni ich politykę w "
-"sprawie zablokowanych kont."
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgstr "Jeśli konto jest zabronione, może być uznane za wolne od zielonego tła, ale pozostanie dostępne w nieskończoność, chyba że Riot zmieni ich politykę w sprawie zablokowanych kont."
 
-#: templates/faq/index.html:73
 msgid "How can I get a 2 letter name?"
 msgstr "Jak uzyskać nazwę 2-litową?"
 
-#: templates/faq/index.html:78
-msgid ""
-"The minimum characters for a League of Legends name are 3. Put a space "
-"inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
-"Minimalne znaki nazwy Ligi legendy to 3. Umieść odstęp między literami: \"GG"
-"\" = \"G G\""
+msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
+msgstr "Minimalne znaki nazwy Ligi legendy to 3. Umieść odstęp między literami: \"GG\" = \"G G\""
 
-#: templates/faq/index.html:85
 msgid "What timezone is used?"
 msgstr "Jaki jest strefa czasowa?"
 
-#: templates/faq/index.html:90
-msgid ""
-"All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/"
-"worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" "
-"rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
-"Wszystkie strefy czasowe są w UTC. Użyj tego <a href=\"https://www."
-"timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" "
-"target=\"_blank\" rel=\"noopener\">konwertera strefy czasowej</a>, aby "
-"dostosować je do czasu lokalnego."
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Wszystkie strefy czasowe są w UTC. Użyj tego <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">konwertera strefy czasowej</a>, aby dostosować je do czasu lokalnego."
 
-#: templates/faq/index.html:101
 msgid "When exactly will the name become available?"
 msgstr "Kiedy dokładnie stanie się to możliwe?"
 
-#: templates/faq/index.html:106
-msgid ""
-"Normally names are cleaned up at midnight UTC. However, in some cases I've "
-"found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
+msgstr "Zwykle nazwy są czyszczone o północy UTC. Jednak w niektórych przypadkach stwierdziłem, że zajęło to 48 godzin. Sprawdzaj co kilka godzin w dniu, w którym jest na liście."
 
-#: templates/faq/index.html:113
 msgid "Can you remove a name from a list for me?"
 msgstr "Czy możesz usunąć nazwisko z listy?"
 
-#: templates/faq/index.html:118
 msgid "No. All the names are automatically scanned."
 msgstr "Nie. Wszystkie nazwy są automatycznie skanowane."
 
-#: templates/faq/index.html:125
 msgid "Where should I report an incorrect translation?"
 msgstr "Gdzie mam zgłosić nieprawidłowe tłumaczenie?"
 
-#: templates/faq/index.html:130 templates/faq/index.html:142
 msgid "Contact me here."
 msgstr "Skontaktuj się ze mną tutaj."
 
-#: templates/faq/index.html:137
 msgid "Where should I report a bug?"
 msgstr "Gdzie mam zgłosić błąd?"
 
-#: templates/faq/index.html:149
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Dlaczego prezenterzy Xayah i Rakan nie są dopuszczeni?"
 
-#: templates/faq/index.html:155
 msgid "Riot has said they will no longer reserve names of new champions."
 msgstr "Riot powiedział, że nie będą już rezerwować nazwisk nowych mistrzów."
 
-#: templates/faq/index.html:155
-msgid ""
-"However they banned the accounts of the old names so they will never expire."
+msgid "However they banned the accounts of the old names so they will never expire."
 msgstr "Jednak zabronili rachunkowości starych nazw, więc nigdy nie wygaśnie."
 
-#: templates/faq/index.html:162
 msgid "Disclaimer"
 msgstr "Zrzeczenie się"
 
-#: templates/generator/index.html:8 templates/generator/index.html:9
-#, python-format
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "Dodać specjalne znaki do '%(name)s' i zobaczyć, które są dostępne!"
 
-#: templates/generator/index.html:14 templates/generator/index.html:15
-msgid ""
-"The best League of Legends name generator! Use it to add special characters "
-"to any name and show which are available."
-msgstr ""
-"Najlepszy generator nazw League of Legends! Użyj go, aby dodać znaki "
-"specjalne do dowolnej nazwy i pokazu, które są dostępne."
+msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
+msgstr "Najlepszy generator nazw League of Legends! Użyj go, aby dodać znaki specjalne do dowolnej nazwy i pokazu, które są dostępne."
 
-#: templates/generator/index.html:29
 msgid "LoL Name Generator"
 msgstr "Generator nazw LoL"
 
-#: templates/generator/index.html:30
-msgid ""
-"The best League of Legends summoner name generator. The generator will "
-"automatically add special characters to League of Legends names and check to "
-"see whether they're free."
-msgstr ""
+msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
+msgstr "Najlepszy generator nazwisk League of Legends. Generator automatycznie doda znaki specjalne do nazw League of Legends i sprawdzi, czy są one darmowe."
 
-#: templates/generator/index.html:33 templates/hiscore/index.html:77
-#: templates/lists/index.html:25
 msgid "Go"
-msgstr ""
+msgstr "Szukaj"
 
-#: templates/generator/index.html:45 templates/get_id/index.html:44
-#: templates/get_name/index.html:47 templates/index.html:82
 msgid "ERROR:"
-msgstr ""
+msgstr "BŁĄD:"
 
-#: templates/generator/index.html:47
-msgid ""
-"This will add special characters to names and check to see if they're "
-"available."
-msgstr ""
+msgid "This will add special characters to names and check to see if they're available."
+msgstr "Spowoduje to dodanie znaków specjalnych do nazw i sprawdzenie, czy są one dostępne."
 
-#: templates/generator/index.html:48
-msgid ""
-"A list of all uppercase and lowercase special characters that are allowed in "
-"League of Legends summoner names and look like english letters."
-msgstr ""
+msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
+msgstr "Lista wszystkich wielkich i małych liter specjalnych, które są dozwolone w nazwiskach przywoływaczy League of Legends i wyglądają jak angielskie litery."
 
-#: templates/get_id/index.html:5 templates/get_id/index.html:6
-#: templates/get_id/index.html:7 templates/get_id/index.html:11
-#: templates/get_id/index.html:12 templates/get_id/index.html:13
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Wyszukiwarka identyfikatorów konta"
 
-#: templates/get_id/index.html:8 templates/get_id/index.html:9
-#, python-format
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "Zobacz identyfikator konta %(name)s i identyfikator przywoływacza!"
 
-#: templates/get_id/index.html:14 templates/get_id/index.html:15
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Wyszukaj identyfikator konta przywoływacza i identyfikator przywoływacza."
 
-#: templates/get_id/index.html:26
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "Wyszukiwarka identyfikatorów konta LoL"
 
-#: templates/get_id/index.html:27
-msgid ""
-"Enter a summoner name and find their account ID. If they name change the "
-"account ID will remain the same."
-msgstr ""
+msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
+msgstr "Wpisz nazwę przywoływacza i znajdź jego identyfikator konta. Jeśli zmienią nazwę, identyfikator konta pozostanie taki sam."
 
-#: templates/get_id/index.html:30 templates/get_name/index.html:30
-#: templates/index.html:35 templates/match/index.html:84
 msgid "Search"
 msgstr ""
 
-#: templates/get_id/index.html:35
-#, python-format
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
-msgstr ""
+msgstr "Ostatnia gra: %(date_game)s<br>Ostatnia aktywność: %(date_active)s<br>"
 
-#: templates/get_id/index.html:40
-#, python-format
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" nie jest używana!</h4>"
 
-#: templates/get_name/index.html:5 templates/get_name/index.html:6
-#: templates/get_name/index.html:7 templates/get_name/index.html:11
-#: templates/get_name/index.html:12 templates/get_name/index.html:13
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Wyszukaj według identyfikatora konta"
 
-#: templates/get_name/index.html:8 templates/get_name/index.html:9
-#, python-format
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "Zobacz, jaka nazwa przywoływacza należy do ID konta %(account_id)s!"
 
-#: templates/get_name/index.html:14 templates/get_name/index.html:15
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Wyszukaj nazwę przywoływacza, używając identyfikatora konta."
 
-#: templates/get_name/index.html:26
 msgid "LoL Name by Account ID"
+msgstr "Nazwa LoL według identyfikatora konta"
+
+msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
+msgstr "Wyszukaj nazwę użytkownika przy użyciu identyfikatora konta. Wprowadź identyfikator konta przywoływacza i znajdź jego nazwę użytkownika."
+
+msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
 msgstr ""
 
-#: templates/get_name/index.html:27
-msgid ""
-"Look up a username using an account ID. Enter a summoner's account ID and "
-"find their username."
-msgstr ""
-
-#: templates/get_name/index.html:34
-#, python-format
-msgid ""
-"<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last "
-"game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: "
-"%(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
-
-#: templates/get_name/index.html:43
-#, python-format
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" nie jest własnością!</h4>"
 
-#: templates/hiscore/index.html:6
-msgid ""
-"highest level league of legends,lol max level in game,high score,lol highest "
-"level,LoL,League of Legends,Names,top summoner level, highest summoner level,"
-"summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level "
-"leaderboards"
-msgstr ""
+msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
+msgstr "najwyższa liga legend, najwyższy poziom lol w grze, wysoki wynik, najwyższy poziom lol, LoL, League of Legends, Imiona, najwyższy poziom przywoływacza, najwyższy poziom przywoływacza, poziom przywoływacza, Wyszukiwarka, nazwa LoL Summoner, leaderboard, Summoner, summoner level tabele wyników"
 
-#: templates/hiscore/index.html:7 templates/hiscore/index.html:8
-#, python-format
 msgid "See the %(page_title)s!"
 msgstr ""
 
-#: templates/hiscore/index.html:68
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Najwyższy poziom przywoływaczy w League of Legends!"
 
-#: templates/hiscore/index.html:69
-msgid ""
-"Track who has the highest summoner level in League of Legends. The high "
-"scores can be shown as world wide or sorted by region. See the summoner "
-"level leaderboards."
-msgstr ""
+msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
+msgstr "Śledź, kto ma najwyższy poziom przywoływaczy w League of Legends. Najlepsze wyniki można pokazać jako ogólnoświatowe lub posortowane według regionu. Zobacz tabele liderów poziomu przywoływacza."
 
-#: templates/hiscore/index.html:84
 msgid "Summoner Name"
-msgstr ""
+msgstr "Nazwa przywoływacza"
 
-#: templates/hiscore/index.html:85
 msgid "Region"
 msgstr ""
 
-#: templates/hiscore/index.html:86 templates/match/index.html:37
 msgid "Level"
-msgstr ""
+msgstr "Poziom"
 
-#: templates/hiscore/index.html:87 templates/lists/table.html:25
 msgid "Recheck"
-msgstr ""
+msgstr "Sprawdź ponownie"
 
-#: templates/hiscore/index.html:109 templates/lists/table.html:41
-#: templates/lists/table.html:50 templates/lists/table.html:59
 msgid "Click to update"
-msgstr ""
+msgstr "Kliknij, aby zaktualizować"
 
-#: templates/index.html:8 templates/index.html:9
-#, python-format
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Zobacz, kiedy dostępna jest nazwa przywoływacza %(name)s!"
 
-#: templates/index.html:14 templates/index.html:15
-msgid ""
-"The best League of Legends names. Inactive name checker, generated lists and "
-"popular searches."
-msgstr ""
+msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
+msgstr "Najlepsze nazwy League of Legends. Nieaktywne sprawdzanie nazw, generowane listy i popularne wyszukiwania."
 
-#: templates/index.html:27
 msgid "LoL Name Checker"
 msgstr ""
 
-#: templates/index.html:28
-msgid ""
-"Finding a good username is hard, we make it easy! LoL Names GG provides a "
-"League of Legends name checker, a database of generated already available "
-"names and a list of upcoming names based off previous searches. LoL Names GG "
-"is the perfect place to get the best League of Legends summoner name. For "
-"example, view our list of three letter names or type in your dream League of "
-"Legends name and we'll let you know when it's available!"
-msgstr ""
+msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
+msgstr "Znalezienie dobrej nazwy użytkownika jest trudne, ułatwiamy to! Nazwy LoL GG udostępnia narzędzie sprawdzania nazw League of Legends, bazę wygenerowanych już dostępnych nazw oraz listę nadchodzących nazw opartych na poprzednich wyszukiwaniach. LoL Names GG to idealne miejsce, aby uzyskać najlepszą nazwę przywoływacza League of Legends. Możesz na przykład przejrzeć listę trzech liter lub wpisać swoje wymarzone imię League of Legends, a powiadomimy Cię, gdy będzie dostępna!"
 
-#: templates/index.html:29
 msgid "Use this website to find when a summoner name will expire."
+msgstr "Skorzystaj z tej strony internetowej, aby dowiedzieć się, kiedy wygasa nazwa przywoływacza."
+
+msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
 msgstr ""
 
-#: templates/index.html:40
-#, python-format
-msgid ""
-"<h4 class=\"text-center\">%(name)s is available!</h4> Last game: "
-"%(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date "
-"was: %(date_expire)s"
+msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr ""
 
-#: templates/index.html:48
-#, python-format
-msgid ""
-"<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last "
-"game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup "
-"date (if inactive): %(date_expire)s<br>"
-msgstr ""
-
-#: templates/index.html:63
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Dodaj do kalendarza"
 
-#: templates/index.html:65
-#, python-format
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
 msgstr ""
 
-#: templates/index.html:69
-#, fuzzy
-#| msgid ""
-#| "However they banned the accounts of the old names so they will never "
-#| "expire."
-msgid ""
-"If this name can't be taken now the account is almost certainly banned and "
-"the name will never expire."
+msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Jednak zabronili rachunkowości starych nazw, więc nigdy nie wygaśnie."
 
-#: templates/index.html:72
 msgid "Add Special Characters"
+msgstr "Dodaj znaki specjalne"
+
+msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
 msgstr ""
 
-#: templates/index.html:76
-#, python-format
-msgid ""
-"<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name "
-"currently isn't used.<br> It is available for new accounts."
-msgstr ""
-
-#: templates/lists/index.html:7 templates/lists/index.html:8
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Listy wszystkich najlepszych nazwisk przywoływaczy!"
 
-#: templates/lists/index.html:21
 msgid "Select a list and region"
-msgstr ""
+msgstr "Wybierz listę i region"
 
-#: templates/lists/index.html:22
-msgid ""
-"Regularly updated, curated lists of the best currently available League of "
-"Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
+msgstr "Regularnie aktualizowane, wyselekcjonowane listy najlepszych obecnie dostępnych nazwisk przywoływaczy League of Legend. Znajdź listy ze wszystkimi najlepszymi nazwiskami przywoływaczy."
 
-#: templates/lists/table.html:7 templates/lists/table.html:8
-#, python-format
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "Zobacz listę %(page_title)s i kiedy są dostępne!"
 
-#: templates/lists/table.html:22
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
-#: templates/lists/table.html:23
 msgid "Type"
-msgstr ""
+msgstr "Rodzaj"
 
-#: templates/lists/table.html:24
 msgid "Availability (days)"
-msgstr ""
+msgstr "Dostępność (dni)"
 
-#: templates/lists/table.html:34 templates/lists/table.html:47
 msgid "Name change only"
-msgstr ""
+msgstr "Tylko zmiana nazwy"
 
-#: templates/lists/table.html:56
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Nowe konta lub zmiana nazwy"
 
-#: templates/match/index.html:7 templates/match/index.html:8
-#: templates/match/index.html:9 templates/match/index.html:11
-#: templates/match/index.html:12 templates/match/index.html:13
-#: templates/match/index.html:14 templates/match/index.html:15
-#: templates/match/index.html:23
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Aktywne wyszukiwanie meczu"
 
-#: templates/match/index.html:24
-msgid ""
-"Use this page to search for the active match details for summoners currently "
-"in game."
-msgstr ""
+msgid "Use this page to search for the active match details for summoners currently in game."
+msgstr "Użyj tej strony, aby wyszukać szczegóły aktywnego meczu dla przywoływaczy aktualnie w grze."
 
-#: templates/match/index.html:34
 msgid "Summoner"
-msgstr ""
+msgstr "Przywoływacz"
 
-#: templates/match/index.html:35
 msgid "Champion"
-msgstr ""
+msgstr "Mistrz"
 
-#: templates/match/index.html:36
 msgid "Spells"
-msgstr ""
+msgstr "Czary"
 
-#: templates/match/index.html:38
 msgid "Solo Rank"
 msgstr ""
 
-#: templates/match/index.html:39
 msgid "Winratio/Total"
 msgstr ""
 
-#: templates/match/index.html:40
 msgid "Runes"
 msgstr ""
 
-#: templates/tools/index.html:7 templates/tools/index.html:8
-#: templates/tools/index.html:20
 msgid "Useful League of Legends tools"
-msgstr ""
+msgstr "Przydatne narzędzia League of Legends"
 
-#: templates/tools/index.html:21
 msgid "Summoner Level High Scores"
 msgstr ""
 
-#: templates/tools/index.html:22
 msgid "Lookup Active Game Details"
-msgstr ""
+msgstr "Wyszukiwanie aktywnych szczegółów gry"
 
-#: templates/tools/index.html:23 templates/track/index.html:4
-#: templates/track/index.html:5 templates/track/index.html:7
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Śledzenie zmian nazw"
 
-#: templates/track/index.html:8 templates/track/index.html:9
-#: templates/track/index.html:27 templates/track/index.html:30
-#, fuzzy
-#| msgid "FAQ questions about League of Legends summoner name change rules."
 msgid "Track League of Legends name changes!"
-msgstr ""
-"Najczęściej zadawane pytania na temat Legionów Legendarnych reguł zmiany "
-"nazw."
-
-#~ msgid ""
-#~ "LoLNames.GG isn't endorsed by Riot Games and doesn't reflect the views or "
-#~ "opinions of Riot Games or anyone officially involved in producing or "
-#~ "managing League of Legends. League of Legends and Riot Games are "
-#~ "trademarks or registered trademarks of Riot Games, Inc. League of Legends "
-#~ "© Riot Games, Inc."
-#~ msgstr ""
-#~ "LoLNames.GG nie jest zatwierdzone przez Riot Games i nie odzwierciedla "
-#~ "opinii i opinii Riot Games ani nikogo oficjalnie zaangażowanego w "
-#~ "tworzenie lub zarządzanie League of Legends. League of Legends i Riot "
-#~ "Games są znakami towarowymi lub zastrzeżonymi znakami towarowymi Riot "
-#~ "Games, Inc. League of Legends © Riot Games, Inc."
+msgstr "Najczęściej zadawane pytania na temat Legionów Legendarnych reguł zmiany nazw."
