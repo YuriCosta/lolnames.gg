@@ -1,0 +1,576 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-01 19:30+1030\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\templates\base.html:82 .\templates\faq\index.html:4
+#: .\templates\faq\index.html:5 .\templates\generator\index.html:5
+#: .\templates\generator\index.html:6 .\templates\generator\index.html:14
+#: .\templates\generator\index.html:15 .\templates\get_id\index.html:5
+#: .\templates\get_id\index.html:6 .\templates\get_id\index.html:14
+#: .\templates\get_id\index.html:15 .\templates\get_name\index.html:5
+#: .\templates\get_name\index.html:7 .\templates\get_name\index.html:15
+#: .\templates\get_name\index.html:16 .\templates\index.html:5
+#: .\templates\index.html:6 .\templates\index.html:14 .\templates\index.html:15
+#: .\templates\languages\index.html:4 .\templates\languages\index.html:5
+#: .\templates\lists\index.html:4 .\templates\lists\index.html:5
+#: .\templates\lists\table.html:4 .\templates\lists\table.html:5
+#: .\templates\tools\index.html:4 .\templates\tools\index.html:5
+msgid "LoL Names"
+msgstr "LoL Noms"
+
+#: .\templates\base.html:86 .\templates\index.html:5 .\templates\index.html:6
+#: .\templates\index.html:14 .\templates\index.html:15
+#: .\templates\index.html:44
+msgid "Checker"
+msgstr "Vérificateur"
+
+#: .\templates\base.html:90 .\templates\lists\index.html:4
+#: .\templates\lists\index.html:5 .\templates\lists\index.html:7
+#: .\templates\lists\index.html:27 .\templates\lists\table.html:4
+#: .\templates\lists\table.html:5 .\templates\lists\table.html:7
+msgid "Lists"
+msgstr "Listes"
+
+#: .\templates\base.html:94 .\templates\generator\index.html:5
+#: .\templates\generator\index.html:6 .\templates\generator\index.html:14
+#: .\templates\generator\index.html:15 .\templates\generator\index.html:44
+msgid "Generator"
+msgstr "Générateur"
+
+#: .\templates\base.html:98 .\templates\faq\index.html:4
+#: .\templates\faq\index.html:5 .\templates\faq\index.html:7
+#: .\templates\faq\index.html:65
+msgid "FAQ"
+msgstr ""
+
+#: .\templates\base.html:102 .\templates\languages\index.html:4
+#: .\templates\languages\index.html:5 .\templates\languages\index.html:7
+#: .\templates\languages\index.html:45
+msgid "Languages"
+msgstr "Langues"
+
+#: .\templates\faq\index.html:7 .\templates\generator\index.html:8
+#: .\templates\generator\index.html:17 .\templates\get_id\index.html:8
+#: .\templates\get_id\index.html:17 .\templates\get_name\index.html:9
+#: .\templates\get_name\index.html:18 .\templates\index.html:8
+#: .\templates\index.html:17 .\templates\languages\index.html:7
+#: .\templates\lists\index.html:7 .\templates\lists\table.html:7
+#: .\templates\tools\index.html:7
+msgid ""
+"LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,"
+"league name checker,league of legends name checker,summoner name "
+"availability,league name availability,Search,LoL Summoner name,Summoner"
+msgstr ""
+"LoL, League of Legends, noms, générateur, checker, lol inactif, lol name "
+"checker, checker du nom de la ligue, légende des légendes, checker, "
+"disponibilité du nom de l'invocateur, disponibilité du nom de la ligue, "
+"recherche, lol nom invocateur, invocateur"
+
+#: .\templates\faq\index.html:8 .\templates\faq\index.html:9
+msgid "Frequently Asked Questions about summoner names"
+msgstr "Questions fréquemment posées sur les noms de convocateurs"
+
+#: .\templates\faq\index.html:66
+msgid "FAQ questions about League of Legends summoner name change rules."
+msgstr ""
+"Foire aux questions sur les règles de changement de nom de convocation de "
+"League of Legends."
+
+#: .\templates\faq\index.html:70
+msgid "Close"
+msgstr "Fermer"
+
+#: .\templates\faq\index.html:71
+msgid ""
+"This section contains a wealth of information, related to <strong>LoL Names."
+"GG</strong> and its use. If you cannot find an answer to your question, feel "
+"free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" "
+"target=\"_blank\" rel=\"noopener\">contact me</a>."
+msgstr ""
+"Cette section contient une foule d'informations, liées à <strong> LoL Names."
+"GG </ strong> et son utilisation. Si vous ne trouvez pas une réponse à votre "
+"question, n'hésitez pas à <a href=\"https://www.reddit.com/message/compose/?"
+"to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">me contacter</a>."
+
+#: .\templates\faq\index.html:79
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquemment posées"
+
+#: .\templates\faq\index.html:84
+msgid "How frequently do the lists update?"
+msgstr "À quelle fréquence les listes se mettent-elles à jour?"
+
+#: .\templates\faq\index.html:89
+msgid ""
+"The lists will update about once every hour. A full rescan is done every "
+"week."
+msgstr ""
+"Les listes seront mises à jour une fois par semaine. C'est parce qu'il faut "
+"des centaines de milliers de demandes et doit être mis en cache."
+
+#: .\templates\faq\index.html:97
+msgid "Why can't I take a name on a new account?"
+msgstr "Pourquoi ne puis-je pas prendre un nom sur un nouveau compte?"
+
+#: .\templates\faq\index.html:102
+msgid ""
+"If a name is already taken by an account you can only obtain it via a name "
+"change. These names are shown with a green background. If a name isn't taken "
+"by a current user you can take it on a brand new account. These names are "
+"shown with a blue background."
+msgstr ""
+"Si un nom est déjà pris par un compte, vous ne pouvez l'obtenir que par un "
+"changement de nom. Ces noms sont affichés avec un fond vert. Si un nom n'est "
+"pas pris par un utilisateur actuel, vous pouvez l'utiliser sur un nouveau "
+"compte. Ces noms sont affichés avec un fond bleu."
+
+#: .\templates\faq\index.html:110
+msgid "What if the account is banned?"
+msgstr "Et si le compte est interdit?"
+
+#: .\templates\faq\index.html:115
+msgid ""
+"If the account is banned it may be shown as being free with a green "
+"background, however it will remain unavailible indefinitely unless Riot "
+"changes their policy on banned accounts."
+msgstr ""
+"Si le compte est interdit, il peut être montré comme étant gratuit avec un "
+"fond vert, mais il restera indéfiniment indéfini, sauf si Riot modifie sa "
+"politique sur les comptes interdits."
+
+#: .\templates\faq\index.html:123
+msgid "How can I get a 2 letter name?"
+msgstr "Comment puis-je obtenir un nom de 2 lettres?"
+
+#: .\templates\faq\index.html:128
+msgid ""
+"The minimum characters for a League of Legends name are 3. Put a space "
+"inbetween the letters: \"GG\" = \"G G\""
+msgstr ""
+"Les caractères minimaux pour un nom League of Legends sont 3. Placez un "
+"espace entre les lettres: \"GG\" = \"G G\""
+
+#: .\templates\faq\index.html:136
+msgid "What timezone is used?"
+msgstr "Quel fuseau horaire est utilisé?"
+
+#: .\templates\faq\index.html:141
+msgid ""
+"All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/"
+"worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" "
+"rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr ""
+"Tous les fuseaux horaires sont en UTC. Utilisez ce <a href=\"https://www."
+"timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" "
+"target=\"_blank\" rel=\"noopener\">convertisseur de fuseau horaire</a> pour "
+"les ajuster à votre heure locale."
+
+#: .\templates\faq\index.html:153
+msgid "When exactly will the name become available?"
+msgstr "Quand exactement le nom sera-t-il disponible?"
+
+#: .\templates\faq\index.html:158
+msgid ""
+"Normally names are cleaned up at midnight UTC. However, in some cases I've "
+"found it has taken 48 hours. Check every few hours on the day it is listed."
+msgstr ""
+
+#: .\templates\faq\index.html:166
+msgid "Can you remove a name from a list for me?"
+msgstr "Pouvez-vous supprimer un nom d'une liste pour moi?"
+
+#: .\templates\faq\index.html:171
+msgid "No. All the names are automatically scanned."
+msgstr "Non. Tous les noms sont automatiquement analysés."
+
+#: .\templates\faq\index.html:179
+msgid "Where should I report an incorrect translation?"
+msgstr "Où dois-je signaler une traduction incorrecte?"
+
+#: .\templates\faq\index.html:185 .\templates\faq\index.html:199
+msgid "Contact me here."
+msgstr "Contactez-moi ici."
+
+#: .\templates\faq\index.html:193
+msgid "Where should I report a bug?"
+msgstr "Où dois-je signaler un bug?"
+
+#: .\templates\faq\index.html:207
+msgid "Why are no pre Xayah and Rakan champion names allowed?"
+msgstr ""
+"Pourquoi les noms des champions de Xayah et Rakan ne sont-ils pas autorisés?"
+
+#: .\templates\faq\index.html:214
+msgid "Riot has said they will no longer reserve names of new champions."
+msgstr ""
+"Riot a déclaré qu'ils ne réserveraient plus les noms de nouveaux champions."
+
+#: .\templates\faq\index.html:214
+msgid ""
+"However they banned the accounts of the old names so they will never expire."
+msgstr ""
+"Cependant, ils ont interdit les comptes des anciens noms afin qu'ils ne "
+"viennent jamais expirer."
+
+#: .\templates\faq\index.html:222
+msgid "Disclaimer"
+msgstr "Avertissement"
+
+#: .\templates\faq\index.html:227
+msgid ""
+"LoLNames.GG isn't endorsed by Riot Games and doesn't reflect the views or "
+"opinions of Riot Games or anyone officially involved in producing or "
+"managing League of Legends. League of Legends and Riot Games are trademarks "
+"or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, "
+"Inc."
+msgstr ""
+"LoLNames.GG n'est pas approuvé par Riot Games et ne reflète pas les opinions "
+"ou les opinions de Riot Games ou toute personne impliquée officiellement "
+"dans la production ou la gestion de League of Legends. League of Legends and "
+"Riot Games sont des marques commerciales ou des marques déposées de Riot "
+"Games, Inc. League of Legends © Riot Games, Inc."
+
+#: .\templates\generator\index.html:10 .\templates\generator\index.html:12
+#, python-format
+msgid "Add special characters to '%(name)s' and see which are available!"
+msgstr ""
+"Ajoutez des caractères spéciaux à '%(name)s' et voyez qui sont disponibles!"
+
+#: .\templates\generator\index.html:19 .\templates\generator\index.html:21
+msgid ""
+"The best League of Legends name generator! Use it to add special characters "
+"to any name and show which are available."
+msgstr ""
+"Le meilleur générateur de nom League of Legends! Utilisez-le pour ajouter "
+"des caractères spéciaux à n'importe quel nom et indiquez qui sont "
+"disponibles."
+
+#: .\templates\generator\index.html:47
+msgid "LoL Name Generator"
+msgstr "LoL générateur de noms"
+
+#: .\templates\generator\index.html:48
+msgid ""
+"The best League of Legends summoner name generator. The generator will "
+"automatically add special characters to League of Legends names and check to "
+"see whether they're free."
+msgstr ""
+"Le meilleur générateur de nom invocateur League of Legends. Le générateur "
+"ajoute automatiquement des caractères spéciaux aux noms de League of Legends "
+"et vérifie s'il est gratuit."
+
+#: .\templates\generator\index.html:52 .\templates\lists\index.html:35
+msgid "Go"
+msgstr "Chercher"
+
+#: .\templates\generator\index.html:71
+msgid ""
+"This will add special characters to names and check to see if they're "
+"available."
+msgstr ""
+"Cela ajoutera des caractères spéciaux aux noms et vérifiera si ils sont "
+"disponibles."
+
+#: .\templates\generator\index.html:72
+msgid ""
+"A list of all uppercase and lowercase special characters that are allowed in "
+"League of Legends summoner names and look like english letters."
+msgstr ""
+"Une liste de tous les caractères spéciaux majuscules et minuscules autorisés "
+"dans les noms des invocables League of Legends et ressemblant à des lettres "
+"anglaises."
+
+#: .\templates\get_id\index.html:5 .\templates\get_id\index.html:6
+#: .\templates\get_id\index.html:8 .\templates\get_id\index.html:14
+#: .\templates\get_id\index.html:15 .\templates\get_id\index.html:17
+msgid "Account ID Finder"
+msgstr "Détecteur d'identifiant de compte"
+
+#: .\templates\get_id\index.html:10 .\templates\get_id\index.html:12
+#, python-format
+msgid "See %(name)s's Account ID and Summoner ID!"
+msgstr "Voir l'ID de compte de %(name)s et l'identifiant d'invocateur!"
+
+#: .\templates\get_id\index.html:19 .\templates\get_id\index.html:21
+msgid "Search for a summoner's Account ID and Summoner ID."
+msgstr "Recherchez l'ID de compte d'un invocateur et l'ID Invocateur."
+
+#: .\templates\get_id\index.html:42
+msgid "LoL Account ID Finder"
+msgstr "LoL Détecteur d'identifiant de compte"
+
+#: .\templates\get_id\index.html:43
+msgid ""
+"Enter a summoner name and find their account ID. If they name change the "
+"account ID will remain the same."
+msgstr ""
+"Entrez un nom d'invocateur et trouvez l'identifiant de votre compte. Si "
+"elles changent de nom, l'identifiant de compte restera le même."
+
+#: .\templates\get_id\index.html:48 .\templates\get_name\index.html:50
+#: .\templates\index.html:60
+msgid "Search"
+msgstr ""
+
+#: .\templates\get_id\index.html:60
+#, python-format
+msgid ""
+"<h4 class=\"text-center\">\"%(name)s\" was found!</h4> Last game: "
+"%(date_game)s<br> Last active: %(date_active)s<br> Account ID: <a class="
+"\"text-white\" href=\"/%(LANGUAGE_CODE)s/SearchAccountID/%(region)s/"
+"%(account_id)s/\" target=\"_blank\" rel=\"noopener\">%(account_id)s</a>"
+msgstr ""
+
+#: .\templates\get_id\index.html:70
+#, python-format
+msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
+msgstr ""
+
+#: .\templates\get_id\index.html:74 .\templates\get_name\index.html:74
+#: .\templates\index.html:114
+msgid "ERROR:"
+msgstr "ERREUR:"
+
+#: .\templates\get_name\index.html:5 .\templates\get_name\index.html:7
+#: .\templates\get_name\index.html:9 .\templates\get_name\index.html:15
+#: .\templates\get_name\index.html:16 .\templates\get_name\index.html:18
+msgid "Search by Account ID"
+msgstr "Recherche par identifiant de compte"
+
+#: .\templates\get_name\index.html:11 .\templates\get_name\index.html:13
+#, python-format
+msgid "See what summoner name belongs to account ID %(account_id)s!"
+msgstr ""
+"Voyez ce que le nom invocateur appartient à l'identifiant %(account_id)s!"
+
+#: .\templates\get_name\index.html:20 .\templates\get_name\index.html:22
+msgid "Search for a summoner name using an account ID."
+msgstr "Recherchez un nom d'invocateur à l'aide d'un identifiant de compte."
+
+#: .\templates\get_name\index.html:43
+msgid "LoL Name by Account ID"
+msgstr "LoL nom par ID de compte"
+
+#: .\templates\get_name\index.html:44
+msgid ""
+"Look up a username using an account ID. Enter a summoner's account ID and "
+"find their username."
+msgstr ""
+"Recherchez un nom d'utilisateur en utilisant un identifiant de compte. "
+"Entrez l'identifiant d'un invocateur et trouvez leur nom d'utilisateur."
+
+#: .\templates\get_name\index.html:62
+#, python-format
+msgid ""
+"<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last "
+"game: %(date_game)s<br> Last active: %(date_active)s<br> Account Name: "
+"%(name)s"
+msgstr ""
+
+#: .\templates\get_name\index.html:70
+#, python-format
+msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
+msgstr ""
+
+#: .\templates\index.html:10 .\templates\index.html:12
+#, python-format
+msgid "See when the summoner name %(name)s is available!"
+msgstr "Voyez quand le nom de l'invocateur %(name)s est disponible!"
+
+#: .\templates\index.html:19 .\templates\index.html:21
+msgid ""
+"The best League of Legends names. Inactive name checker, generated lists and "
+"popular searches."
+msgstr ""
+"Les meilleurs noms de League of Legends. Vérificateur de nom inactif, listes "
+"générées et recherches populaires."
+
+#: .\templates\index.html:47
+msgid "LoL Name Checker"
+msgstr "LoL vérificateur de nom"
+
+#: .\templates\index.html:48
+msgid ""
+"Finding a good username is hard, we make it easy! LoL Names GG provides a "
+"League of Legends name checker, a database of generated already available "
+"names and a list of upcoming names based off previous searches. LoL Names GG "
+"is the perfect place to get the best League of Legends summoner name. For "
+"example, view our list of three letter names or type in your dream League of "
+"Legends name and we'll let you know when it's available!"
+msgstr ""
+"Trouver un bon nom d'utilisateur est difficile, nous le facilitons! LoL "
+"Names GG fournit un contrôleur de nom League of Legends, une base de données "
+"des noms déjà disponibles générés et une liste de noms à venir basée sur les "
+"recherches précédentes. LoL Names GG est l'endroit idéal pour obtenir le "
+"meilleur nom de convocation de League of Legends. Par exemple, consultez "
+"notre liste de noms de trois lettres ou tapez votre nom de League of Legends "
+"de rêve et nous vous informerons quand il sera disponible!"
+
+#: .\templates\index.html:70
+#, python-format
+msgid ""
+"<h4 class=\"text-center\">%(name)s is available!</h4> Last game: "
+"%(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date "
+"was: %(date_expire)s"
+msgstr ""
+"<h4 class=\"text-center\">%(name)s est disponible!</h4>Dernier jeu: "
+"%(date_last)s<br>Il a fallu %(months)s mois pour le nettoyage<br>La date de "
+"nettoyage était: %(date_expire)s"
+
+#: .\templates\index.html:78
+#, python-format
+msgid ""
+"<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last "
+"game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup "
+"date (if inactive): %(date_expire)s<br>"
+msgstr ""
+"<h4 class=\"text-center\">%(name)s est disponible dans %(days)s jours.</"
+"h4>Dernier jeu: %(date_last)s<br>Il faut %(months)s mois pour le "
+"nettoyage<br>Date de nettoyage (si inactif): %(date_expire)s<br>"
+
+#: .\templates\index.html:93
+msgid "Add to Calendar"
+msgstr ""
+
+#: .\templates\index.html:95
+#, python-format
+msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
+msgstr ""
+
+#: .\templates\index.html:99
+#, fuzzy
+#| msgid ""
+#| "However they banned the accounts of the old names so they will never "
+#| "expire."
+msgid ""
+"If this name can't be taken now the account is almost certainly banned and "
+"the name will never expire."
+msgstr ""
+"Cependant, ils ont interdit les comptes des anciens noms afin qu'ils ne "
+"viennent jamais expirer."
+
+#: .\templates\index.html:104
+msgid "Add Special Characters"
+msgstr ""
+
+#: .\templates\index.html:108
+#, python-format
+msgid ""
+"<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name "
+"currently isn't used.<br> It is available for new accounts."
+msgstr ""
+"<h4 class=\"text-center\">%(summoner_name)s est disponible!</h4>Ce nom n'est "
+"actuellement pas utilisé.<br>Il est disponible pour les nouveaux comptes."
+
+#: .\templates\languages\index.html:8 .\templates\languages\index.html:9
+msgid "LoL Names is available in 19 different languages!"
+msgstr "Les noms LoL sont disponibles dans 19 langues différentes!"
+
+#: .\templates\languages\index.html:46
+msgid "Select a language"
+msgstr "Sélectionnez une langue"
+
+#: .\templates\lists\index.html:8 .\templates\lists\index.html:9
+msgid "Lists of all the best summoner names!"
+msgstr "Listes de tous les meilleurs noms d'invocateurs!"
+
+#: .\templates\lists\index.html:30
+msgid "Select a list and region"
+msgstr "Sélectionnez une liste et une région"
+
+#: .\templates\lists\index.html:31
+msgid ""
+"Regularly updated, curated lists of the best currently available League of "
+"Legend summoner names. Find lists with all the best summoner names."
+msgstr ""
+"Des listes organisées de façon régulière et récurrente des meilleurs noms "
+"invocateurs actuellement disponibles de League of Legend. Trouvez des listes "
+"avec tous les meilleurs noms invocateurs."
+
+#: .\templates\lists\table.html:9 .\templates\lists\table.html:11
+#, python-format
+msgid "See a list of %(page_title)s and when they're available!"
+msgstr "Voir une liste de %(page_title)s et quand ils sont disponibles!"
+
+#: .\templates\lists\table.html:42
+msgid "Name"
+msgstr "Nom"
+
+#: .\templates\lists\table.html:43
+msgid "Type"
+msgstr ""
+
+#: .\templates\lists\table.html:44
+msgid "Availability (days)"
+msgstr "Disponibilité (jours)"
+
+#: .\templates\lists\table.html:45
+msgid "Recheck"
+msgstr "Vérifier à nouveau"
+
+#: .\templates\lists\table.html:54 .\templates\lists\table.html:66
+msgid "Name change only"
+msgstr "Changement de nom uniquement"
+
+#: .\templates\lists\table.html:61 .\templates\lists\table.html:69
+#: .\templates\lists\table.html:77
+msgid "Click to update"
+msgstr "Cliquez pour mettre à jour"
+
+#: .\templates\lists\table.html:74
+msgid "New accounts or name change"
+msgstr "Nouveau compte ou changement de nom"
+
+#: .\templates\tools\index.html:4 .\templates\tools\index.html:5
+#: .\templates\tools\index.html:7 .\templates\tools\index.html:27
+msgid "Tools"
+msgstr "Outils"
+
+#: .\templates\tools\index.html:8 .\templates\tools\index.html:9
+#: .\templates\tools\index.html:30
+msgid "Useful League of Legends tools"
+msgstr "Outils utiles de League of Legends"
+
+#~ msgid "Welcome to LoL Names!"
+#~ msgstr "Bienvenue chez LoL Noms!"
+
+#~ msgid ""
+#~ "It seems to be region specific and done at random times throughout the "
+#~ "day. Check every few hours on the day it is listed. In some cases I've "
+#~ "found it has taken 48 hours."
+#~ msgstr ""
+#~ "Il semble être spécifique à la région et fait à des moments aléatoires "
+#~ "tout au long de la journée. Vérifiez toutes les quelques heures le jour "
+#~ "où il est répertorié. Dans certains cas, j'ai constaté qu'il a pris 48 "
+#~ "heures."
+
+#~ msgid ""
+#~ "<h4 class=\"text-center\">%(name)s is available in 0-%(days)s days.</h4> "
+#~ "Last active (Riot): %(date_last)s<br> It takes %(months)s months for "
+#~ "cleanup from last game<br> <div class=\"text-area1\"> There is a good "
+#~ "chance it is free now but due to changes Riot made to this account the "
+#~ "exact time is impossible to tell. It will be cleaned up on "
+#~ "%(date_expire)s at the latest. </div>"
+#~ msgstr ""
+#~ "<h4 class=\"text-center\">%(name)s est disponible dans 0-%(days)s jours.</"
+#~ "h4>Dernière activité (émeute): %(date_last)s<br>Il faut %(months)s mois "
+#~ "pour le nettoyage du dernier jeu<br> <div class=\"text-area1\">Il y a de "
+#~ "bonnes chances que ce soit gratuit maintenant, mais en raison des "
+#~ "changements qu'avait faits Riot sur ce compte, l'heure exacte est "
+#~ "impossible à dire. Il sera nettoyé le %(date_expire)s au plus tard.</div>"
