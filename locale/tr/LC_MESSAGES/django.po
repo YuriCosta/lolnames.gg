@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-01 19:30+1030\n"
+"POT-Creation-Date: 2017-12-20 19:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,79 +18,165 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: .\templates\base.html:82 .\templates\faq\index.html:4
-#: .\templates\faq\index.html:5 .\templates\generator\index.html:5
-#: .\templates\generator\index.html:6 .\templates\generator\index.html:14
-#: .\templates\generator\index.html:15 .\templates\get_id\index.html:5
-#: .\templates\get_id\index.html:6 .\templates\get_id\index.html:14
-#: .\templates\get_id\index.html:15 .\templates\get_name\index.html:5
-#: .\templates\get_name\index.html:7 .\templates\get_name\index.html:15
-#: .\templates\get_name\index.html:16 .\templates\index.html:5
-#: .\templates\index.html:6 .\templates\index.html:14 .\templates\index.html:15
-#: .\templates\languages\index.html:4 .\templates\languages\index.html:5
-#: .\templates\lists\index.html:4 .\templates\lists\index.html:5
-#: .\templates\lists\table.html:4 .\templates\lists\table.html:5
-#: .\templates\tools\index.html:4 .\templates\tools\index.html:5
+#: lolnamesgg/settings.py:167
+msgid "English"
+msgstr ""
+
+#: lolnamesgg/settings.py:168
+msgid "Danish"
+msgstr ""
+
+#: lolnamesgg/settings.py:169
+msgid "German"
+msgstr ""
+
+#: lolnamesgg/settings.py:170
+msgid "Spanish"
+msgstr ""
+
+#: lolnamesgg/settings.py:171
+msgid "French"
+msgstr ""
+
+#: lolnamesgg/settings.py:172
+msgid "Italian"
+msgstr ""
+
+#: lolnamesgg/settings.py:173
+msgid "Hungarian"
+msgstr ""
+
+#: lolnamesgg/settings.py:174
+msgid "Dutch"
+msgstr ""
+
+#: lolnamesgg/settings.py:175
+msgid "Norwegian"
+msgstr ""
+
+#: lolnamesgg/settings.py:176
+msgid "Polish"
+msgstr ""
+
+#: lolnamesgg/settings.py:177
+msgid "Portuguese"
+msgstr ""
+
+#: lolnamesgg/settings.py:178
+msgid "Romanian"
+msgstr ""
+
+#: lolnamesgg/settings.py:179
+msgid "Finnish"
+msgstr ""
+
+#: lolnamesgg/settings.py:180
+msgid "Swedish"
+msgstr ""
+
+#: lolnamesgg/settings.py:181
+msgid "Turkish"
+msgstr ""
+
+#: lolnamesgg/settings.py:182
+msgid "Russian"
+msgstr ""
+
+#: lolnamesgg/settings.py:183
+msgid "Serbian"
+msgstr ""
+
+#: lolnamesgg/settings.py:184
+msgid "Korean"
+msgstr ""
+
+#: lolnamesgg/settings.py:185
+msgid "Japanese"
+msgstr ""
+
+#: templates/base.html:75 templates/faq/index.html:4 templates/faq/index.html:5
+#: templates/generator/index.html:5 templates/generator/index.html:6
+#: templates/generator/index.html:11 templates/generator/index.html:12
+#: templates/get_id/index.html:5 templates/get_id/index.html:6
+#: templates/get_id/index.html:11 templates/get_id/index.html:12
+#: templates/get_name/index.html:5 templates/get_name/index.html:6
+#: templates/get_name/index.html:11 templates/get_name/index.html:12
+#: templates/hiscore/index.html:4 templates/hiscore/index.html:5
+#: templates/index.html:5 templates/index.html:6 templates/index.html:11
+#: templates/index.html:12 templates/lists/index.html:4
+#: templates/lists/index.html:5 templates/lists/table.html:4
+#: templates/lists/table.html:5 templates/match/index.html:5
+#: templates/match/index.html:6 templates/match/index.html:11
+#: templates/match/index.html:12 templates/tools/index.html:4
+#: templates/tools/index.html:5 templates/track/index.html:4
+#: templates/track/index.html:5
 msgid "LoL Names"
 msgstr ""
 
-#: .\templates\base.html:86 .\templates\index.html:5 .\templates\index.html:6
-#: .\templates\index.html:14 .\templates\index.html:15
-#: .\templates\index.html:44
+#: templates/base.html:79 templates/index.html:5 templates/index.html:6
+#: templates/index.html:11 templates/index.html:12 templates/index.html:24
 msgid "Checker"
 msgstr ""
 
-#: .\templates\base.html:90 .\templates\lists\index.html:4
-#: .\templates\lists\index.html:5 .\templates\lists\index.html:7
-#: .\templates\lists\index.html:27 .\templates\lists\table.html:4
-#: .\templates\lists\table.html:5 .\templates\lists\table.html:7
+#: templates/base.html:82 templates/lists/index.html:4
+#: templates/lists/index.html:5 templates/lists/index.html:6
+#: templates/lists/index.html:18 templates/lists/table.html:4
+#: templates/lists/table.html:5 templates/lists/table.html:6
 msgid "Lists"
 msgstr ""
 
-#: .\templates\base.html:94 .\templates\generator\index.html:5
-#: .\templates\generator\index.html:6 .\templates\generator\index.html:14
-#: .\templates\generator\index.html:15 .\templates\generator\index.html:44
+#: templates/base.html:85 templates/generator/index.html:5
+#: templates/generator/index.html:6 templates/generator/index.html:11
+#: templates/generator/index.html:12 templates/generator/index.html:26
 msgid "Generator"
 msgstr ""
 
-#: .\templates\base.html:98 .\templates\faq\index.html:4
-#: .\templates\faq\index.html:5 .\templates\faq\index.html:7
-#: .\templates\faq\index.html:65
+#: templates/base.html:88 templates/hiscore/index.html:66
+msgid "Highscores"
+msgstr ""
+
+#: templates/base.html:91 templates/tools/index.html:4
+#: templates/tools/index.html:5 templates/tools/index.html:6
+#: templates/tools/index.html:18
+msgid "Tools"
+msgstr ""
+
+#: templates/base.html:94 templates/faq/index.html:4 templates/faq/index.html:5
+#: templates/faq/index.html:6 templates/faq/index.html:17
 msgid "FAQ"
 msgstr ""
 
-#: .\templates\base.html:102 .\templates\languages\index.html:4
-#: .\templates\languages\index.html:5 .\templates\languages\index.html:7
-#: .\templates\languages\index.html:45
+#: templates/base.html:102
 msgid "Languages"
 msgstr ""
 
-#: .\templates\faq\index.html:7 .\templates\generator\index.html:8
-#: .\templates\generator\index.html:17 .\templates\get_id\index.html:8
-#: .\templates\get_id\index.html:17 .\templates\get_name\index.html:9
-#: .\templates\get_name\index.html:18 .\templates\index.html:8
-#: .\templates\index.html:17 .\templates\languages\index.html:7
-#: .\templates\lists\index.html:7 .\templates\lists\table.html:7
-#: .\templates\tools\index.html:7
+#: templates/faq/index.html:6 templates/generator/index.html:7
+#: templates/generator/index.html:13 templates/get_id/index.html:7
+#: templates/get_id/index.html:13 templates/get_name/index.html:7
+#: templates/get_name/index.html:13 templates/index.html:7
+#: templates/index.html:13 templates/lists/index.html:6
+#: templates/lists/table.html:6 templates/match/index.html:7
+#: templates/match/index.html:13 templates/tools/index.html:6
+#: templates/track/index.html:7
 msgid ""
 "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,"
 "league name checker,league of legends name checker,summoner name "
 "availability,league name availability,Search,LoL Summoner name,Summoner"
 msgstr ""
 
-#: .\templates\faq\index.html:8 .\templates\faq\index.html:9
+#: templates/faq/index.html:7 templates/faq/index.html:8
 msgid "Frequently Asked Questions about summoner names"
 msgstr ""
 
-#: .\templates\faq\index.html:66
+#: templates/faq/index.html:18
 msgid "FAQ questions about League of Legends summoner name change rules."
 msgstr ""
 
-#: .\templates\faq\index.html:70
+#: templates/faq/index.html:22
 msgid "Close"
 msgstr ""
 
-#: .\templates\faq\index.html:71
+#: templates/faq/index.html:23
 msgid ""
 "This section contains a wealth of information, related to <strong>LoL Names."
 "GG</strong> and its use. If you cannot find an answer to your question, feel "
@@ -98,25 +184,25 @@ msgid ""
 "target=\"_blank\" rel=\"noopener\">contact me</a>."
 msgstr ""
 
-#: .\templates\faq\index.html:79
+#: templates/faq/index.html:31
 msgid "Frequently Asked Questions"
 msgstr ""
 
-#: .\templates\faq\index.html:84
+#: templates/faq/index.html:35
 msgid "How frequently do the lists update?"
 msgstr ""
 
-#: .\templates\faq\index.html:89
+#: templates/faq/index.html:40
 msgid ""
 "The lists will update about once every hour. A full rescan is done every "
 "week."
 msgstr ""
 
-#: .\templates\faq\index.html:97
+#: templates/faq/index.html:47
 msgid "Why can't I take a name on a new account?"
 msgstr ""
 
-#: .\templates\faq\index.html:102
+#: templates/faq/index.html:52
 msgid ""
 "If a name is already taken by an account you can only obtain it via a name "
 "change. These names are shown with a green background. If a name isn't taken "
@@ -124,235 +210,268 @@ msgid ""
 "shown with a blue background."
 msgstr ""
 
-#: .\templates\faq\index.html:110
+#: templates/faq/index.html:59
 msgid "What if the account is banned?"
 msgstr ""
 
-#: .\templates\faq\index.html:115
+#: templates/faq/index.html:64
 msgid ""
 "If the account is banned it may be shown as being free with a green "
 "background, however it will remain unavailible indefinitely unless Riot "
 "changes their policy on banned accounts."
 msgstr ""
 
-#: .\templates\faq\index.html:123
+#: templates/faq/index.html:73
 msgid "How can I get a 2 letter name?"
 msgstr ""
 
-#: .\templates\faq\index.html:128
+#: templates/faq/index.html:78
 msgid ""
 "The minimum characters for a League of Legends name are 3. Put a space "
 "inbetween the letters: \"GG\" = \"G G\""
 msgstr ""
 
-#: .\templates\faq\index.html:136
+#: templates/faq/index.html:85
 msgid "What timezone is used?"
 msgstr ""
 
-#: .\templates\faq\index.html:141
+#: templates/faq/index.html:90
 msgid ""
 "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/"
 "worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" "
 "rel=\"noopener\">timezone converter</a> to adjust them to your local time."
 msgstr ""
 
-#: .\templates\faq\index.html:153
+#: templates/faq/index.html:101
 msgid "When exactly will the name become available?"
 msgstr ""
 
-#: .\templates\faq\index.html:158
+#: templates/faq/index.html:106
 msgid ""
 "Normally names are cleaned up at midnight UTC. However, in some cases I've "
 "found it has taken 48 hours. Check every few hours on the day it is listed."
 msgstr ""
 
-#: .\templates\faq\index.html:166
+#: templates/faq/index.html:113
 msgid "Can you remove a name from a list for me?"
 msgstr ""
 
-#: .\templates\faq\index.html:171
+#: templates/faq/index.html:118
 msgid "No. All the names are automatically scanned."
 msgstr ""
 
-#: .\templates\faq\index.html:179
+#: templates/faq/index.html:125
 msgid "Where should I report an incorrect translation?"
 msgstr ""
 
-#: .\templates\faq\index.html:185 .\templates\faq\index.html:199
+#: templates/faq/index.html:130 templates/faq/index.html:142
 msgid "Contact me here."
 msgstr ""
 
-#: .\templates\faq\index.html:193
+#: templates/faq/index.html:137
 msgid "Where should I report a bug?"
 msgstr ""
 
-#: .\templates\faq\index.html:207
+#: templates/faq/index.html:149
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr ""
 
-#: .\templates\faq\index.html:214
+#: templates/faq/index.html:155
 msgid "Riot has said they will no longer reserve names of new champions."
 msgstr ""
 
-#: .\templates\faq\index.html:214
+#: templates/faq/index.html:155
 msgid ""
 "However they banned the accounts of the old names so they will never expire."
 msgstr ""
 
-#: .\templates\faq\index.html:222
+#: templates/faq/index.html:162
 msgid "Disclaimer"
 msgstr ""
 
-#: .\templates\faq\index.html:227
-msgid ""
-"LoLNames.GG isn't endorsed by Riot Games and doesn't reflect the views or "
-"opinions of Riot Games or anyone officially involved in producing or "
-"managing League of Legends. League of Legends and Riot Games are trademarks "
-"or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, "
-"Inc."
-msgstr ""
-
-#: .\templates\generator\index.html:10 .\templates\generator\index.html:12
+#: templates/generator/index.html:8 templates/generator/index.html:9
 #, python-format
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
 
-#: .\templates\generator\index.html:19 .\templates\generator\index.html:21
+#: templates/generator/index.html:14 templates/generator/index.html:15
 msgid ""
 "The best League of Legends name generator! Use it to add special characters "
 "to any name and show which are available."
 msgstr ""
 
-#: .\templates\generator\index.html:47
+#: templates/generator/index.html:29
 msgid "LoL Name Generator"
 msgstr ""
 
-#: .\templates\generator\index.html:48
+#: templates/generator/index.html:30
 msgid ""
 "The best League of Legends summoner name generator. The generator will "
 "automatically add special characters to League of Legends names and check to "
 "see whether they're free."
 msgstr ""
 
-#: .\templates\generator\index.html:52 .\templates\lists\index.html:35
+#: templates/generator/index.html:33 templates/hiscore/index.html:77
+#: templates/lists/index.html:25
 msgid "Go"
 msgstr ""
 
-#: .\templates\generator\index.html:71
+#: templates/generator/index.html:45 templates/get_id/index.html:44
+#: templates/get_name/index.html:47 templates/index.html:82
+msgid "ERROR:"
+msgstr ""
+
+#: templates/generator/index.html:47
 msgid ""
 "This will add special characters to names and check to see if they're "
 "available."
 msgstr ""
 
-#: .\templates\generator\index.html:72
+#: templates/generator/index.html:48
 msgid ""
 "A list of all uppercase and lowercase special characters that are allowed in "
 "League of Legends summoner names and look like english letters."
 msgstr ""
 
-#: .\templates\get_id\index.html:5 .\templates\get_id\index.html:6
-#: .\templates\get_id\index.html:8 .\templates\get_id\index.html:14
-#: .\templates\get_id\index.html:15 .\templates\get_id\index.html:17
+#: templates/get_id/index.html:5 templates/get_id/index.html:6
+#: templates/get_id/index.html:7 templates/get_id/index.html:11
+#: templates/get_id/index.html:12 templates/get_id/index.html:13
 msgid "Account ID Finder"
 msgstr ""
 
-#: .\templates\get_id\index.html:10 .\templates\get_id\index.html:12
+#: templates/get_id/index.html:8 templates/get_id/index.html:9
 #, python-format
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr ""
 
-#: .\templates\get_id\index.html:19 .\templates\get_id\index.html:21
+#: templates/get_id/index.html:14 templates/get_id/index.html:15
 msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr ""
 
-#: .\templates\get_id\index.html:42
+#: templates/get_id/index.html:26
 msgid "LoL Account ID Finder"
 msgstr ""
 
-#: .\templates\get_id\index.html:43
+#: templates/get_id/index.html:27
 msgid ""
 "Enter a summoner name and find their account ID. If they name change the "
 "account ID will remain the same."
 msgstr ""
 
-#: .\templates\get_id\index.html:48 .\templates\get_name\index.html:50
-#: .\templates\index.html:60
+#: templates/get_id/index.html:30 templates/get_name/index.html:30
+#: templates/index.html:35 templates/match/index.html:84
 msgid "Search"
 msgstr ""
 
-#: .\templates\get_id\index.html:60
+#: templates/get_id/index.html:35
 #, python-format
-msgid ""
-"<h4 class=\"text-center\">\"%(name)s\" was found!</h4> Last game: "
-"%(date_game)s<br> Last active: %(date_active)s<br> Account ID: <a class="
-"\"text-white\" href=\"/%(LANGUAGE_CODE)s/SearchAccountID/%(region)s/"
-"%(account_id)s/\" target=\"_blank\" rel=\"noopener\">%(account_id)s</a>"
+msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr ""
 
-#: .\templates\get_id\index.html:70
+#: templates/get_id/index.html:40
 #, python-format
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr ""
 
-#: .\templates\get_id\index.html:74 .\templates\get_name\index.html:74
-#: .\templates\index.html:114
-msgid "ERROR:"
-msgstr ""
-
-#: .\templates\get_name\index.html:5 .\templates\get_name\index.html:7
-#: .\templates\get_name\index.html:9 .\templates\get_name\index.html:15
-#: .\templates\get_name\index.html:16 .\templates\get_name\index.html:18
+#: templates/get_name/index.html:5 templates/get_name/index.html:6
+#: templates/get_name/index.html:7 templates/get_name/index.html:11
+#: templates/get_name/index.html:12 templates/get_name/index.html:13
 msgid "Search by Account ID"
 msgstr ""
 
-#: .\templates\get_name\index.html:11 .\templates\get_name\index.html:13
+#: templates/get_name/index.html:8 templates/get_name/index.html:9
 #, python-format
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
-#: .\templates\get_name\index.html:20 .\templates\get_name\index.html:22
+#: templates/get_name/index.html:14 templates/get_name/index.html:15
 msgid "Search for a summoner name using an account ID."
 msgstr ""
 
-#: .\templates\get_name\index.html:43
+#: templates/get_name/index.html:26
 msgid "LoL Name by Account ID"
 msgstr ""
 
-#: .\templates\get_name\index.html:44
+#: templates/get_name/index.html:27
 msgid ""
 "Look up a username using an account ID. Enter a summoner's account ID and "
 "find their username."
 msgstr ""
 
-#: .\templates\get_name\index.html:62
+#: templates/get_name/index.html:34
 #, python-format
 msgid ""
 "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last "
-"game: %(date_game)s<br> Last active: %(date_active)s<br> Account Name: "
-"%(name)s"
+"game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: "
+"%(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
 msgstr ""
 
-#: .\templates\get_name\index.html:70
+#: templates/get_name/index.html:43
 #, python-format
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr ""
 
-#: .\templates\index.html:10 .\templates\index.html:12
+#: templates/hiscore/index.html:6
+msgid ""
+"highest level league of legends,lol max level in game,high score,lol highest "
+"level,LoL,League of Legends,Names,top summoner level, highest summoner level,"
+"summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level "
+"leaderboards"
+msgstr ""
+
+#: templates/hiscore/index.html:7 templates/hiscore/index.html:8
+#, python-format
+msgid "See the %(page_title)s!"
+msgstr ""
+
+#: templates/hiscore/index.html:68
+msgid "The top summoner level in League of Legends!"
+msgstr ""
+
+#: templates/hiscore/index.html:69
+msgid ""
+"Track who has the highest summoner level in League of Legends. The high "
+"scores can be shown as world wide or sorted by region. See the summoner "
+"level leaderboards."
+msgstr ""
+
+#: templates/hiscore/index.html:84
+msgid "Summoner Name"
+msgstr ""
+
+#: templates/hiscore/index.html:85
+msgid "Region"
+msgstr ""
+
+#: templates/hiscore/index.html:86
+msgid "Level"
+msgstr ""
+
+#: templates/hiscore/index.html:87 templates/lists/table.html:25
+msgid "Recheck"
+msgstr ""
+
+#: templates/hiscore/index.html:109 templates/lists/table.html:41
+#: templates/lists/table.html:50 templates/lists/table.html:59
+msgid "Click to update"
+msgstr ""
+
+#: templates/index.html:8 templates/index.html:9
 #, python-format
 msgid "See when the summoner name %(name)s is available!"
 msgstr ""
 
-#: .\templates\index.html:19 .\templates\index.html:21
+#: templates/index.html:14 templates/index.html:15
 msgid ""
 "The best League of Legends names. Inactive name checker, generated lists and "
 "popular searches."
 msgstr ""
 
-#: .\templates\index.html:47
+#: templates/index.html:27
 msgid "LoL Name Checker"
 msgstr ""
 
-#: .\templates\index.html:48
+#: templates/index.html:28
 msgid ""
 "Finding a good username is hard, we make it easy! LoL Names GG provides a "
 "League of Legends name checker, a database of generated already available "
@@ -362,7 +481,11 @@ msgid ""
 "Legends name and we'll let you know when it's available!"
 msgstr ""
 
-#: .\templates\index.html:70
+#: templates/index.html:29
+msgid "Use this website to find when a summoner name will expire."
+msgstr ""
+
+#: templates/index.html:40
 #, python-format
 msgid ""
 "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: "
@@ -370,7 +493,7 @@ msgid ""
 "was: %(date_expire)s"
 msgstr ""
 
-#: .\templates\index.html:78
+#: templates/index.html:48
 #, python-format
 msgid ""
 "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last "
@@ -378,94 +501,104 @@ msgid ""
 "date (if inactive): %(date_expire)s<br>"
 msgstr ""
 
-#: .\templates\index.html:93
+#: templates/index.html:63
 msgid "Add to Calendar"
 msgstr ""
 
-#: .\templates\index.html:95
+#: templates/index.html:65
 #, python-format
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
 msgstr ""
 
-#: .\templates\index.html:99
+#: templates/index.html:69
 msgid ""
 "If this name can't be taken now the account is almost certainly banned and "
 "the name will never expire."
 msgstr ""
 
-#: .\templates\index.html:104
+#: templates/index.html:72
 msgid "Add Special Characters"
 msgstr ""
 
-#: .\templates\index.html:108
+#: templates/index.html:76
 #, python-format
 msgid ""
 "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name "
 "currently isn't used.<br> It is available for new accounts."
 msgstr ""
 
-#: .\templates\languages\index.html:8 .\templates\languages\index.html:9
-msgid "LoL Names is available in 19 different languages!"
-msgstr ""
-
-#: .\templates\languages\index.html:46
-msgid "Select a language"
-msgstr ""
-
-#: .\templates\lists\index.html:8 .\templates\lists\index.html:9
+#: templates/lists/index.html:7 templates/lists/index.html:8
 msgid "Lists of all the best summoner names!"
 msgstr ""
 
-#: .\templates\lists\index.html:30
+#: templates/lists/index.html:21
 msgid "Select a list and region"
 msgstr ""
 
-#: .\templates\lists\index.html:31
+#: templates/lists/index.html:22
 msgid ""
 "Regularly updated, curated lists of the best currently available League of "
 "Legend summoner names. Find lists with all the best summoner names."
 msgstr ""
 
-#: .\templates\lists\table.html:9 .\templates\lists\table.html:11
+#: templates/lists/table.html:7 templates/lists/table.html:8
 #, python-format
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr ""
 
-#: .\templates\lists\table.html:42
+#: templates/lists/table.html:22
 msgid "Name"
 msgstr ""
 
-#: .\templates\lists\table.html:43
+#: templates/lists/table.html:23
 msgid "Type"
 msgstr ""
 
-#: .\templates\lists\table.html:44
+#: templates/lists/table.html:24
 msgid "Availability (days)"
 msgstr ""
 
-#: .\templates\lists\table.html:45
-msgid "Recheck"
-msgstr ""
-
-#: .\templates\lists\table.html:54 .\templates\lists\table.html:66
+#: templates/lists/table.html:34 templates/lists/table.html:47
 msgid "Name change only"
 msgstr ""
 
-#: .\templates\lists\table.html:61 .\templates\lists\table.html:69
-#: .\templates\lists\table.html:77
-msgid "Click to update"
-msgstr ""
-
-#: .\templates\lists\table.html:74
+#: templates/lists/table.html:56
 msgid "New accounts or name change"
 msgstr ""
 
-#: .\templates\tools\index.html:4 .\templates\tools\index.html:5
-#: .\templates\tools\index.html:7 .\templates\tools\index.html:27
-msgid "Tools"
+#: templates/match/index.html:7 templates/match/index.html:8
+#: templates/match/index.html:9 templates/match/index.html:11
+#: templates/match/index.html:12 templates/match/index.html:13
+#: templates/match/index.html:14 templates/match/index.html:15
+#: templates/match/index.html:23
+msgid "Active Match Lookup"
 msgstr ""
 
-#: .\templates\tools\index.html:8 .\templates\tools\index.html:9
-#: .\templates\tools\index.html:30
+#: templates/match/index.html:24
+msgid ""
+"Use this page to search for the active match details for summoners currently "
+"in game."
+msgstr ""
+
+#: templates/tools/index.html:7 templates/tools/index.html:8
+#: templates/tools/index.html:20
 msgid "Useful League of Legends tools"
+msgstr ""
+
+#: templates/tools/index.html:21
+msgid "Summoner Level High Scores"
+msgstr ""
+
+#: templates/tools/index.html:22
+msgid "Lookup Active Game Details"
+msgstr ""
+
+#: templates/tools/index.html:23 templates/track/index.html:4
+#: templates/track/index.html:5 templates/track/index.html:7
+msgid "Track Name Changes"
+msgstr ""
+
+#: templates/track/index.html:8 templates/track/index.html:9
+#: templates/track/index.html:27 templates/track/index.html:30
+msgid "Track League of Legends name changes!"
 msgstr ""
