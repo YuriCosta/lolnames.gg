@@ -36,7 +36,7 @@ Click the link to the text file with the translations
 
 ###### Step 2
 
-Use you text editor of choice to add translations. The line with `msgid ""` will have the English text and all you need to do is write the translations between the quotes where it says `msgstr ""`. You can [learn more about .po files here](https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html) if you'd like but that isn't necessary to contribute.
+Use your text editor of choice to add translations. The line with `msgid ""` will have the English text and all you need to do is write the translations between the quotes where it says `msgstr ""`. You can [learn more about .po files here](https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html) if you'd like but that isn't necessary to contribute.
 
 
 ###### Step 3
