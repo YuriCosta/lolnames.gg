@@ -234,7 +234,7 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Cerca un nome utente usando un ID utente. Inserisci un ID Utente di un evocatore per trovare il loro nome utente."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr "<h4 class=\"text-center\">ID Utente \"%(account_id)s\" è stato trovato!</h4> Ultima partita: &(date_game)s<br> Ultimo accesso: %(date_active)s<br> Nome attuale: %(name)s<br> Nome precedente: <i>Prossimamente!</i><br> Livello attuale: %(level)s"
+msgstr "<h4 class=\"text-center\">ID Utente \"%(account_id)s\" è stato trovato!</h4> Ultima partita: %(date_game)s<br> Ultimo accesso: %(date_active)s<br> Nome attuale: %(name)s<br> Nome precedente: <i>Prossimamente!</i><br> Livello attuale: %(level)s"
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" non appartiene a nessuno!</h4>"
