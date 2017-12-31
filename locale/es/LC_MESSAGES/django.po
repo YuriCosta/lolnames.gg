@@ -9,187 +9,187 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 msgid "German"
-msgstr ""
+msgstr "Alemán"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 msgid "Dutch"
-msgstr ""
+msgstr "Neerlandés"
 
 msgid "Norwegian"
-msgstr ""
+msgstr "Noruego"
 
 msgid "Polish"
-msgstr ""
+msgstr "Polaco"
 
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugués"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Rumano"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finés"
 
 msgid "Swedish"
-msgstr ""
+msgstr "Suizo"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 msgid "Russian"
-msgstr ""
+msgstr "Ruso"
 
 msgid "Serbian"
-msgstr ""
+msgstr "Serbio"
 
 msgid "Korean"
-msgstr ""
+msgstr "Coreano"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japonés"
 
 msgid "LoL Names"
-msgstr ""
+msgstr "Nombres de LoL"
 
 msgid "Checker"
-msgstr ""
+msgstr "Chequeador"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listas"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generador"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Mayores Puntajes"
 
 msgid "Tools"
-msgstr ""
+msgstr "Herramientas"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
-msgstr ""
+msgstr "Lenguajes"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL, League of Legends, Nombres, Generador, Chequeador, inactivos lol, chequeador de nombres lol, chequeador de nombres league, chequeador de nombres league of legends, disponibilidad nombres de invocador, disponibilidad nombres league, Buscar, Nombres de Invocador LoL, Invocador"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Preguntas Frecuentes acerca de los nombres de invocador"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "Preguntas Frecuentes acerca de las reglas para el cambio de nombre de invocador de League of Legends"
 
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Esta sección contiene información acerca de <strong>LoL Names.GG</strong> y su uso. Si no puedes encontrar la respuesta a tu pregunta, siéntete libre de <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contactarme</a>."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Preguntas Frecuentes"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "¿Con qué frecuencia se actualizan las listas?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Las listas se actualizan aproximadamente una vez por hora. Un escaneo completo se hace cada semana"
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "¿Por qué no podría elegir un nombre para una cuenta nueva?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Si un nombre ya fue usado en una cuenta solo puedes obtenerlo mediante un cambio de nombre. Estos nombres son mostrados con un fondo verde. Si un nombre no ha sido tomado por un usuario entonces puedes elegirlo para una cuenta nueva. Estos nombres se muestran con un fondo azul."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "¿Y qué si la cuenta está baneada?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Si la cuenta está baneada entonces va a ser mostrada como libre con un fondo verde, pero no va a volver a estar disponible nunca a no ser que Riot cambie su política de cuentas baneadas."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "¿Cómo puedo tenes un nombre de 2 letras?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
+msgstr "El mínimo de caracteres para un nombre de League of Legends es 3. Pon un especio entre las letras: \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "¿Cuál es la zona horaria usada?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Todos los horarios están especificados en UTC. Usa este <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">conversor de zonas horarias</a> para ajustarlos a tu hora local"
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "¿Cuándo exactamente estará disponible un nombre?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Normalmente los nombres son limpiados a la medianoche en horario UTC. Pero, en algunos casos he encontrado que ha tardado 48 horas. Fíjate cada pocas horas el día que muestra."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "¿Puedes borrar un nombre de la lista por mí?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "No. Todos los nombres son escaneados automáticamente."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "¿Dónde debería reportar una traducción incorrecta?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Contáctame aquí."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "¿Dónde debería reportar un bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "¿Por qué no están permitidos los campeones antes de Xayah y Rakan?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot ya dijo que no va a reservar los nombres de nuevos campeones."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Igualmente han baneado las cuentas con los nombres anteriores asi que nunca expirarán"
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Renuncia de Garantías"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "Añade caracteres especiales a '%(name)' para ver cuáles están disponibles!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "El mejor generador de nombres para League of Legends! Úsalo para añadir caracteres especiales a cualquier nombre y ver cuáles están disponibles"
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "Generador de Nombres de LoL"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "El mejor generador de nombres de invocador de League of Legends. El generador añadirá automáticamente caracteres especiales a nombres de League of Legends para verificar si están libres"
 
 msgid "Go"
-msgstr ""
+msgstr "Ya"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "ERROR:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Esto añadirá caracteres especiales a nombres y verificará si están disponibles"
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr ""
