@@ -32,6 +32,7 @@ Click the link to the text file with the translations
 | sr |  [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) |
 | sv |  [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) |
 | tr |  [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) |
+|    |  [All Others](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/blank_template.po) |
 
 
 ###### Step 2
