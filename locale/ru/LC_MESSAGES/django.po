@@ -8,63 +8,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "English"
-msgstr ""
-
-msgid "Danish"
-msgstr ""
-
-msgid "German"
-msgstr ""
-
-msgid "Spanish"
-msgstr ""
-
-msgid "French"
-msgstr ""
-
-msgid "Italian"
-msgstr ""
-
-msgid "Hungarian"
-msgstr ""
-
-msgid "Dutch"
-msgstr ""
-
-msgid "Norwegian"
-msgstr ""
-
-msgid "Polish"
-msgstr ""
-
-msgid "Portuguese"
-msgstr ""
-
-msgid "Romanian"
-msgstr ""
-
-msgid "Finnish"
-msgstr ""
-
-msgid "Swedish"
-msgstr ""
-
-msgid "Turkish"
-msgstr ""
-
-msgid "Russian"
-msgstr ""
-
-msgid "Serbian"
-msgstr ""
-
-msgid "Korean"
-msgstr ""
-
-msgid "Japanese"
-msgstr ""
-
 msgid "LoL Names"
 msgstr "Имена LoL"
 
