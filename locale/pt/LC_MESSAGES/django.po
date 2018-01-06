@@ -27,25 +27,25 @@ msgid "Tools"
 msgstr "Ferramentas"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
 msgstr "Idiomas"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr "LoL, League of Legends, Names, Generator, Checker, lol inactive, lol name checker, checker do nome da liga, liga ou legends name checker, disponibilidade do nome do convocador, disponibilidade do nome da liga, Pesquisar, LoL Invocador name, Invocador"
+msgstr "LoL, League of Legends, Nomes, Gerador, Verificador, lol Inativo, lol Verificador de nome, Verificador do nome da liga, League of Legends Verificador de nome, disponibilidade do nome do convocador, disponibilidade do nome da liga, Pesquisar, LoL Nome de Invocador, Invocador"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Perguntas freqüentes sobre nomes de invocadores"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr "Perguntas frequentes sobre as regras de troca de nome invocável da League of Legends."
+msgstr "Perguntas frequentes sobre as regras de troca de nome de invocador no League of Legends."
 
 msgid "Close"
-msgstr "Feche"
+msgstr "Fechar"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Esta seção contém uma riqueza de informações, relacionadas a <strong> LoL Names.GG </strong> e seu uso. <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">Ef þú getur ekki fundið svarið við spurningunni þinni skaltu ekki hika við að hafa samband við mig</a>."
+msgstr "Esta seção contém uma riqueza de informações, relacionadas a <strong> LoL Names.GG </strong> e seu uso. <a href=\"Se você não conseguir achar uma resposta para sua pergunta, sinta-se livre para me contactar https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\."
 
 msgid "Frequently Asked Questions"
 msgstr "Perguntas freqüentes"
@@ -54,22 +54,22 @@ msgid "How frequently do the lists update?"
 msgstr "Com que frequência as listas são atualizadas?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "De lister zullen atualize ongeveer één keer per uur. Uma rastreabilidade completa é feita todas as semanas."
+msgstr "As listas vão atualizar a cada uma hora. Um escaneamento é feito toda semana ."
 
 msgid "Why can't I take a name on a new account?"
-msgstr "Por que não posso tomar um nome em uma nova conta?"
+msgstr "Por que não posso colar um nome em uma nova conta?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "Hvis et navn er allerede taget ved e konto, kan du kun få det via en navnskift. Estes nomes são mostrados com um fundo verde. Se um nome não for tomado por um usuário atual, você pode levá-lo a uma nova conta. Estes nomes são mostrados com um fundo azul."
+msgstr "Se o nome já foi obtido por uma conta, você só pode obter ele via troca de nick. Esses nomes são mostrados em um fundo verde. Se um nome ainda não foi usado por um usuário, você pode pegar em uma conta nova, esses nomes são mostrados em um fundo azul"
 
 msgid "What if the account is banned?"
-msgstr "Wat als de account está proibida?"
+msgstr "E se a conta foi banida?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr "Hvis den konto er banned, kan den blive vist som værende fri med en grøn baggrund, homens det vil forblive uindstilleligt på ubestemt tid, medmindre Riot ændrer deres politik på banned konti."
+msgstr "Se a conta foi banida pode ser mostrada como livre em um fundo verde, entretanto, só irá continuar inabilitavel indefinitivamente a não ser que a Riot mude suas políticas sobre contas banidas."
 
 msgid "How can I get a 2 letter name?"
-msgstr "Como posso obter um nome de 2 cartas?"
+msgstr "Como posso obter um nome de 2 Letras?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
 msgstr "Os caracteres mínimos para um nome League of Legends são 3. Coloque um espaço entre as letras: \"GG\" = \"G G\""
@@ -87,10 +87,10 @@ msgid "Normally names are cleaned up at midnight UTC. However, in some cases I'v
 msgstr "Normalmente, os nomes são limpos à meia-noite da UTC. No entanto, em alguns casos, descobri que ele levou 48 horas. Verifique todas as poucas horas no dia em que está listado."
 
 msgid "Can you remove a name from a list for me?"
-msgstr "Kan du fjerne et navn fra en lista para meg?"
+msgstr "Você pode remover um nome da lista por mim?"
 
 msgid "No. All the names are automatically scanned."
-msgstr "Não. Alle de namen zijn automatisch gescand."
+msgstr "Não. Todos os nomes são automaticamente escaneados."
 
 msgid "Where should I report an incorrect translation?"
 msgstr "Onde devo denunciar uma tradução incorreta?"
@@ -120,7 +120,7 @@ msgid "The best League of Legends name generator! Use it to add special characte
 msgstr "O melhor gerador de nome League of Legends! Use-o para adicionar caracteres especiais a qualquer nome e mostre o que está disponível."
 
 msgid "LoL Name Generator"
-msgstr "LoL Nome Generator"
+msgstr "LoL Nome Gerador"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
 msgstr "O melhor Gerador de Nomes da League of Legends Invocador. O gerador adiciona automaticamente caracteres especiais aos nomes da League of Legends e verifique se eles são gratuitos."
@@ -150,10 +150,10 @@ msgid "LoL Account ID Finder"
 msgstr "LoL Finder ID de conta"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "Insira um nome de convocação e encontre a identificação da sua conta. Se eles mudarem nome, a identificação da conta permanecerá a mesma."
+msgstr "Insira um nome de invocador e encontre a identificação da sua conta. Se eles mudarem nome, a identificação da conta permanecerá a mesma."
 
 msgid "Search"
-msgstr ""
+msgstr "Procurar"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Último jogo: %(date_game)s<br>Último ativo: %(date_active)s<br>"
@@ -189,7 +189,7 @@ msgid "See the %(page_title)s!"
 msgstr "Veja %(page_title)s!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr "O melhor nível de convocação na League of Legends!"
+msgstr "O melhor nível de invocação na League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Acompanhe quem tem o melhor nível na League of Legends. As altas pontuações podem ser mostradas em todo o mundo ou ordenadas por região. Veja as tabelas de classificação do nível invocador."
@@ -219,7 +219,7 @@ msgid "LoL Name Checker"
 msgstr "LoL Verificador de Nome"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "Encontrar um nome de usuário bom é difícil, nós facilitamos! Nomes LoL GG fornece um verificador de nomes League of Legends, um banco de dados de nomes já disponíveis gerados e uma lista de nomes futuros com base em pesquisas anteriores. LoL Names GG é o lugar perfeito para obter o melhor nome da League of Legends Summoner. Para o eksempel, vejam a lista sobre o tre bogstaver navn eller skriv i din drøm League of Legends navn og vi vil fortælle dig når det er tilgjengelig!"
+msgstr "Encontrar um nome de usuário bom é difícil, nós facilitamos! Nomes LoL GG fornece um verificador de nomes League of Legends, um banco de dados de nomes já disponíveis gerados e uma lista de nomes futuros com base em pesquisas anteriores. LoL Names GG é o lugar perfeito para obter o melhor nome da League of Legends Summoner. Por exemplo, veja nossa lista de nome de 3 letras ou digite seu nome sonhado em League of legends e nós deixaremos você saber quando estiver livre"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr "Use este site para descobrir quando um nome invocável expirará."
@@ -282,19 +282,19 @@ msgid "Summoner"
 msgstr "Invocador"
 
 msgid "Champion"
-msgstr ""
+msgstr "Campeão"
 
 msgid "Spells"
-msgstr ""
+msgstr "Feitiços"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Rank Solo"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Taxa de vitórias/Total"
 
 msgid "Runes"
-msgstr ""
+msgstr "Runas"
 
 msgid "Useful League of Legends tools"
 msgstr "Ferramentas úteis da League of Legends"
@@ -306,7 +306,7 @@ msgid "Lookup Active Game Details"
 msgstr "Pesquisar detalhes do jogo ativo"
 
 msgid "Track Name Changes"
-msgstr "Alterações no nome da faixa"
+msgstr "Siga Mudanças de nomes"
 
 msgid "Track League of Legends name changes!"
-msgstr "Perguntas frequentes sobre as regras de troca de nome invocável da League of Legends."
+msgstr "Perguntas frequentes sobre as regras de troca de nome invocador da League of Legends."
