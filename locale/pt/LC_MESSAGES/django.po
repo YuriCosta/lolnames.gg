@@ -45,7 +45,7 @@ msgid "Close"
 msgstr "Fechar"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Esta seção contém uma riqueza de informações, relacionadas a <strong> LoL Names.GG </strong> e seu uso. <a href=\"Se você não conseguir achar uma resposta para sua pergunta, sinta-se livre para me contactar https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\."
+msgstr "Esta seção contém uma riqueza de informações, relacionadas a <strong>LoL Names.GG</strong> e seu uso. <a href=\"Se você não conseguir achar uma resposta para sua pergunta, sinta-se livre para <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">me contactar</a>."
 
 msgid "Frequently Asked Questions"
 msgstr "Perguntas freqüentes"
