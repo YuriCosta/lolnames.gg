@@ -170,7 +170,7 @@ msgid "Search by Account ID"
 msgstr "Buscar con ID de cuenta"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr "Ver cuál nombre de invocador correspone al ID de cuenta"
+msgstr "Ver cuál nombre de invocador correspone al ID de cuenta %(account_id)s"
 
 msgid "Search for a summoner name using an account ID."
 msgstr "Buscar un nombre de invocador usando el ID de cuenta"
@@ -183,11 +183,11 @@ msgstr "Buscar un usuario usando un ID de cuenta. Escribir el ID de cuenta de un
 
 # Google translate
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">Account ID \"%(account_id)s\" fue encontrado!</h4> Último juego: %(date_game)s<br> Última actividad: %(date_active)s<br> Nombre actual: %(name)s<br> Nombres anteriores: <i>¡Próximamente!</i><br> Nivel actual: %(level)s"
 
 # Google translate
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" no es propiedad!</h4>"
 
 # Google translate
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
