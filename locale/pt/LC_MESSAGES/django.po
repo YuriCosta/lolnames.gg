@@ -54,7 +54,7 @@ msgid "How frequently do the lists update?"
 msgstr "Com que frequência as listas são atualizadas?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "As listas vão atualizar a cada uma hora. Um escaneamento é feito toda semana ."
+msgstr "As listas são atualizadas a cada uma hora. Um escaneamento é feito toda semana ."
 
 msgid "Why can't I take a name on a new account?"
 msgstr "Por que não posso colar um nome em uma nova conta?"
