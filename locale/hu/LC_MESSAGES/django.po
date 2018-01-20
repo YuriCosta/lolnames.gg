@@ -9,304 +9,304 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "LoL Names"
-msgstr ""
+msgstr "LoL Nevek"
 
 msgid "Checker"
-msgstr ""
+msgstr "Név ellenőrző"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listák"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generátor"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Toplisták"
 
 msgid "Tools"
-msgstr ""
+msgstr "Eszközök"
 
 msgid "FAQ"
-msgstr ""
+msgstr "GYIK"
 
 msgid "Languages"
-msgstr ""
+msgstr "Nyelvek"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL,League of Legends,Nevek,Generátor,Ellenőrző,lol inaktív,lol név ellenőrző,league név ellenőrző, league of legends név ellenőrző,idézői név ellenőrző,league név elérhetőség,Keresés,LoL idézői név,Idéző"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Gyakran Ismételt Kérdések az idézői nevekkel kapcsolatban"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "GYIK LoL idézői névváltoztatás szabályaival kapcsolatban"
 
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Ez az oldal információval szolgál a <strong>LoL Names.GG</strong> használatával kapcsolatban. Ha nem találsz választ a kérdésedre, nyugodtan <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\"> keress fel</a>."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Gyakran Ismételt Kérdések"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Milyen gyakran frissülnek a listák?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Körülbelül óránként. Egy teljes újraellenőrzést pedig hetente végrehajtunk."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Miért nem választhatok egy bizonyos nevet új felhasználónál?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Ha egy név már foglalt, akkor csak névváltoztatással elérhető. Ezeket zöld színnel mutatjuk. Kék színnel pedig azokat, melyeket egy friss felhasználóval is nyugodtan választhatsz."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Mi van akkor, ha a felhasználó ki van tiltva?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Akkor szintén zöld színnel jelezzük, de nem lesz elérhető (hacsak a Riot nem változtat ezen)"
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Hogyan lehet két karakterből álló nevem?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
+msgstr "Minimum 3 karakter kell, hogy legyen. Tegyél közéjük spacet, hogy ezt kiküszöböld, pl: \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Milyen időzónát használtok?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "UTC. Használd ezt az <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">időzóna átváltót</a>, ha szükséges."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "Mikor lesz pontosan elérhető a név?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Általában éjfélkor. Néhány esetben viszont akár 48 óra is lehet. Ellenőrizd néhány óránként."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Letörölnél egy nevet a listáról a kedvemért?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Nem. Automatikusan ellenőrizzük őket."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Hol jelentsek pontatlan fordítást?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Itt."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Hol jelentsek bugokat?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Miért nem lehet Xayah és Rakan előtti neveket használni?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "A Riot azt mondta, hogy nem fogják új championok nevét lefoglalni."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Azonban bannolták az előző felhasználókat ilyen nevekkel, tehát ezeket sosem lehet használni."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "Adj speciálás karaktereket hozzá: '%(name)s', és nézd meg melyik elérhető."
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "A legjobb Leauge of Legends név generátor! Használatával hozzáadhatsz speciális karaktereket egy névhez, hogy megnézd elérhetőek-e így."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Név Generátor"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "A legjobb League of Legends név generátor. Automatikusan speciális karaktereket ad hozzá a névhez, és megnézi így elérhető-e."
 
 msgid "Go"
-msgstr ""
+msgstr "Ok"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "HIBA: "
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Hozzáadunk speciális karaktereket, és megnézzük elérhető-e így a név."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Egy lista az összes speciális karakterről, melyek engedélyezve vannak a League of Legends nevekben, és angol karaktereknek néznek ki."
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Felhasználó ID Kereső"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "Nézzük %(name)s Felhasználó ID-jét és Idézői ID-jét."
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Keresés egy idéző Felhasználó, vagy Idézői ID-jére."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "LoL Felhasználó ID Kereső"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Írj be egy idézői nevet, és keresd meg a felhasználó ID-jét. Ha nevet váltanak, ez nem változik."
 
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
-msgstr ""
+msgstr "Utolsó meccs: %(date_game)s<br>Utoljára aktív: %(date_active)s<br>"
 
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" nincs használatban!</h4>"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Keresés Felhasználó ID alapján"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "Nézd meg milyen idézői név tartozik a következő felhasználói ID-hez: %(account_id)s"
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Keress rá egy idézői névre felhasználói ID alapján."
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "LoL Név felhasználói ID alapján."
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Keresd meg a felhasználónevet egy felhasználói ID-vel. Írd be egy idéző felhasználó ID-jét, és találd meg a felhasználónevüket."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">Felhasználó ID \"%(account_id)s\" megtalálva!</h4> Utolsó meccs: %(date_game)s<br> Utoljára aktív: %(date_active)s<br> Jelenlegi név: %(name)s<br> Előző nevek: <i>Hamarosan!</i><br> Jelenlegi szint: %(level)s"
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" nincs használatban!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr ""
+msgstr "legnagyobb szint league of legends, lol max szint játékban,toplista,lol max szint,LoL,League of Legends,Nevek,top idéző szint, legnagyobb idéző szint,idéző szint,Keresés,LoL idézői név,toplista,idéző,idéző szint toplista"
 
 msgid "See the %(page_title)s!"
-msgstr ""
+msgstr "Nézzük a %(page_title)s"
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "A legnagyobb szint a League of Legendsben!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Kövesd nyomon, hogy kinek a legnagyobb a szintje a League of Legendsben. Régió alapján rendezheted, vagy az egész világot nézheted. Tekintsd meg a szint toplistát."
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Idézői Név"
 
 msgid "Region"
-msgstr ""
+msgstr "Régió"
 
 msgid "Level"
-msgstr ""
+msgstr "Szint"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Újraellenőriz"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Kattints a frissítésért"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Nézd meg mikor lesz a %(name)s név elérhető."
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr ""
+msgstr "A legjobb League of Legends nevek. Inaktív név ellenőrző, generált listák és gyakori keresések."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Név Ellenőrző"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Egy jó nevet találni nehéz, mi könnyűvé tesszük! Lol Names GG egy League of Legends név ellenőrzővel szolgál, egy elérhető nevekből álló, és nemsokára elérhető nevekből álló adatbázissal. Lol Names GG a tökéletes hely, hogy megtaláld a legjobb neveket. Például, nézd meg a 3 karakterből álló elérhető neveket."
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Használd ezt az oldalt, hogy ellenőrizd mikor jár le egy név."
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s elérhető!</h4> Utolsó meccs: %(date_last)s<br> %(months)s hónapba került, hogy elérhető legyen.<br> Elérhetővé vált: %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s elérhető lesz %(days)s napon belül.</h4> Utolsó meccs: %(date_last)s<br> %(months)s hónap kell, hogy elérhető legyen<br> Ha inaktív marad, akkor elérhető lesz: %(date_expire)s<br>"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Naptárba"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s valószínűleg elérhető!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Ha ezt a nevet nem tudod használni, több mint valószínű hogy a felhasználó ki van tiltva, és sosem fogod tudni ezt a nevet használni."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Adj hozzá speciális karaktereket"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(summoner_name)s elérhető!</h4> Ez a név jelenleg nem használt.<br> Elérhető új felhasználóknak."
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "A legjobb nevek listája!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Válassz egy listát és régiót."
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Folyamatosan frissített lista a legjobb League of Legends nevekről."
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "Láss egy listát a %(page_title)s, és hogy mikor elérhetők!"
 
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 msgid "Type"
-msgstr ""
+msgstr "Típus"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Elérhetőség (napok)"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Csak névváltoztatással"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Új felhasználó vagy névváltoztatás"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Aktív meccs keresés"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Használd ezt az oldalt, hogy aktív meccsekről találj információkat!"
 
 msgid "Summoner"
-msgstr ""
+msgstr "Idéző"
 
 msgid "Champion"
-msgstr ""
+msgstr "Hős"
 
 msgid "Spells"
-msgstr ""
+msgstr "Képességek"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Egyéni rang"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Győzelmi arány / Összes"
 
 msgid "Runes"
-msgstr ""
+msgstr "Rúnák"
 
 msgid "Useful League of Legends tools"
-msgstr ""
+msgstr "Hasznos League of Legends eszközök"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Szint toplista"
 
 msgid "Lookup Active Game Details"
-msgstr ""
+msgstr "Aktív meccs részletei"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Kövesd a névváltoztatásokat"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Kövesd a League of Legends névváltoztatásokat!"
