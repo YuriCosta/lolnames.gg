@@ -67,3 +67,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Italian - [OmegaDestroyer67](https://www.reddit.com/user/OmegaDestroyer67)
   * French - [roisorcier](https://www.reddit.com/user/roisorcier)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu)
+  * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
