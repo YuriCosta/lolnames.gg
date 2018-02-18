@@ -34,7 +34,7 @@ Click the link to the text file with the translations
 | sr |  [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) |
 | sv |  [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) |
 | th |  [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) |
-| tl |  [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) |
+| tl |  [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) |
 | tr |  [Turkish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tr/LC_MESSAGES/django.po) |
 | uk |  [Ukrainian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/uk/LC_MESSAGES/django.po) |
 | vi |  [Vietnamese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/vi/LC_MESSAGES/django.po) |
