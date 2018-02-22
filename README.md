@@ -17,6 +17,7 @@ Click the link to the text file with the translations
 | da |  [Danish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/da/LC_MESSAGES/django.po) |
 | de |  [German](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/de/LC_MESSAGES/django.po) |
 | es |  [Spanish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/es/LC_MESSAGES/django.po) |
+| et |  [Estonian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/et/LC_MESSAGES/django.po) |
 | fi |  [Finnish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fi/LC_MESSAGES/django.po) |
 | fr |  [French](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/fr/LC_MESSAGES/django.po) |
 | hu |  [Hungarian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/hu/LC_MESSAGES/django.po) |
@@ -68,3 +69,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * French - [roisorcier](https://www.reddit.com/user/roisorcier)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu)
   * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
+  * Estonian - [shaw™](https://twitter.com/ShawiAE)

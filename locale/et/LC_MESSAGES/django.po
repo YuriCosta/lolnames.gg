@@ -1,0 +1,312 @@
+# Copyright (C) 2017 LOLNAMES.GG
+# This file is distributed under the same license as the PACKAGE package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "LoL Names"
+msgstr "LoL Nimed"
+
+msgid "Checker"
+msgstr "Verifikaator"
+
+msgid "Lists"
+msgstr "Nimekirjad"
+
+msgid "Generator"
+msgstr "Generaator"
+
+msgid "Highscores"
+msgstr "Edetabel"
+
+msgid "Tools"
+msgstr "Tööriistad"
+
+msgid "FAQ"
+msgstr "Tihti Küsitud Küsimused"
+
+msgid "Languages"
+msgstr "Keelevalik"
+
+msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
+msgstr "LoL, League of Legends, Nimed, Generaator, Verifikaator, lol inaktiivne, lol nimeverifikaator, league of legends nimede verifikaator, kasutajanime kättesaadavus, league nime kättesaadavus, Otsing, LoL kasutajanimi, Kasutaja"
+
+msgid "Frequently Asked Questions about summoner names"
+msgstr "Tihti Küsitud Küsimused kasutajanimede kohta"
+
+msgid "FAQ questions about League of Legends summoner name change rules."
+msgstr "FAQ küsimused League of Legends kasutajanime muutuse kohta."
+
+msgid "Close"
+msgstr "Sulge"
+
+msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
+msgstr "See sektsioon sisaldab rikaliku teavet  <strong>LoL Names.GG</strong> ja selle kasutuse kohta. Kui sa ei suuda leida oma küsimusele vastust, kontakteeruge minuga <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">siin</a>."
+
+msgid "Frequently Asked Questions"
+msgstr "Tihti Küsitud Küsimused"
+
+msgid "How frequently do the lists update?"
+msgstr "Kui tihti nimekirjad uuenduvad?"
+
+msgid "The lists will update about once every hour. A full rescan is done every week."
+msgstr "Nimekirjad uuenduvad umbes korra tunnis. Täielik uuestiskaneering toimub iga nädal."
+
+msgid "Why can't I take a name on a new account?"
+msgstr "Miks ma ei saa nime võtta uuel kasutajal?"
+
+msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
+msgstr "Kui nimi on juba kasutuses, saab seda omastada vaid nimemuutuse kaudu. Need nimed on tähistatud rohelise taustaga. Kui nimi ei ole võetud olemasoleva kasutaja poolt, siis seda saab võtta täiesti uuel kasutajal. Need nimed on tähistatud sinise taustaga."
+
+msgid "What if the account is banned?"
+msgstr "Mis siis kui kasutaja on bannitud?"
+
+msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
+msgstr "Kui kasutaja on bannitud, võib selle nimi näidata end rohelise taustaga, kuid nimi on jäädavalt kättesaamatu kuni Riot muudab oma bannipoliitikat."
+
+msgid "How can I get a 2 letter name?"
+msgstr "Kuidas saan endale 2-tähelise nime?"
+
+msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
+msgstr "Miinimum tähemärkide arv League of Legends nime jaoks on 3. Pane tühik kahe tähe vahele: \"GG\" = \"G G\""
+
+msgid "What timezone is used?"
+msgstr "Mis ajatsooni on kasutatud?"
+
+msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
+msgstr "Kõik ajatsoonid on UTC. Kasuta seda <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">ajatsooni muundurit</a>, et muuta UTC oma kohalikuks ajaks."
+
+msgid "When exactly will the name become available?"
+msgstr "Millal täpselt muutub nimi kättesaadavaks?"
+
+msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
+msgstr "Tavaliselt on nimed vabastatud keskööl UTC kella järgi. Mõnel puhul aga läheb sellega aga 48 tundi. Kontrolli iga paari tunni tagant tähistatud päeval."
+
+msgid "Can you remove a name from a list for me?"
+msgstr "Kas te võiksite eemaldada mõne nime nimekirjast minu jaoks?"
+
+msgid "No. All the names are automatically scanned."
+msgstr "Ei. Kõik nimed on automaatselt skaneeritud."
+
+msgid "Where should I report an incorrect translation?"
+msgstr "Kuhu peaksin teavitama väärast tõlkest?"
+
+msgid "Contact me here."
+msgstr "Kontakteeru minuga siin."
+
+msgid "Where should I report a bug?"
+msgstr "Kuhu peaksin teavitama veast?"
+
+msgid "Why are no pre Xayah and Rakan champion names allowed?"
+msgstr "Miks ei ole ühtegi tegelasnime enne Xayahit ja Rakani lubatud?"
+
+msgid "Riot has said they will no longer reserve names of new champions."
+msgstr "Riot on maininud, et uute tegelaste nimesid enam ei reserveerita."
+
+msgid "However they banned the accounts of the old names so they will never expire."
+msgstr "Kuid vanad kasutajad tegelasnimedega banniti, et need ei aeguks ega muutuks kättesaadavaks."
+
+msgid "Disclaimer"
+msgstr "Hoiatus"
+
+msgid "Add special characters to '%(name)s' and see which are available!"
+msgstr "Lisa eritähemärgid '%(nime)de(le)' ja vaata, millised on vabad!"
+
+msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
+msgstr "Parim League of Legends nimegeneraator! Kasuta seda, et lisada erimärke ükskõik millisele nimele, et näha vabade variantide olemasolu."
+
+msgid "LoL Name Generator"
+msgstr "LoL Nimegeneraator"
+
+msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
+msgstr "Parim League of Legends kasutajanime generaator. See generaator lisab automaatselt erimärgid League of Legends nimedele ja testib nende kättesaadavust."
+
+msgid "Go"
+msgstr "Mine"
+
+msgid "ERROR:"
+msgstr "VIGA:"
+
+msgid "This will add special characters to names and check to see if they're available."
+msgstr "See lisab erimärgid nimedele ja testib nimede kättesaadavust."
+
+msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
+msgstr "Nimekiri kõigist erilistest suur- ja väiketähtedest, mis on League of Legends kasutajanimes lubatud ning näevad välja nagu tavalised tähed."
+
+msgid "Account ID Finder"
+msgstr "Kasutaja ID Leidja"
+
+msgid "See %(name)s's Account ID and Summoner ID!"
+msgstr "Vaata %(nime)s' Kasutaja ID!"
+
+msgid "Search for a summoner's Account ID and Summoner ID."
+msgstr "Otsi Kasutaja ID."
+
+msgid "LoL Account ID Finder"
+msgstr "LoL Kasutaja ID Leidja"
+
+msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
+msgstr "Sisesta kasutajanimi ja leia kasutaja ID. Nimemuutuse puhul jääb ID samaks."
+
+msgid "Search"
+msgstr "Otsing"
+
+msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
+msgstr "Viimane mäng: %(date_game)s<br>Viimati aktiivne: %(date_active)s<br>"
+
+msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" ei ole kasutuses!</h4>"
+
+msgid "Search by Account ID"
+msgstr "Otsi Kasutaja ID kaudu"
+
+msgid "See what summoner name belongs to account ID %(account_id)s!"
+msgstr "Vaata, mis kasutajanimi kuulub kasutaja ID %(account_id)s!"
+
+msgid "Search for a summoner name using an account ID."
+msgstr "Otsi kasutajanime kasutades kasutaja ID."
+
+msgid "LoL Name by Account ID"
+msgstr "LoL Nimi Kasutaja ID kaudu"
+
+msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
+msgstr "Otsi üles kasutajanimi kasutades kasutaja ID. Sisesta kasutaja ID ja leia nende nimi."
+
+msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
+msgstr "<h4 class=\"text-center\">Kasutaja ID \"%(account_id)s\" leiti!</h4> Viimane mäng: %(date_game)s<br> Viimati aktiivne: %(date_active)s<br> Hetkenimi: %(name)s<br> Eelnevad nimed: <i>Coming soon!</i><br> Hetkelevel: %(level)s"
+
+msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ei ole kasutuses!</h4>"
+
+msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
+msgstr "kõrgeim level league of legends, lol max lel mängus, edetabel, lol kõrgeim level, LoL, League of Legends,Nimed,top kasutajalevel, kõrgeim kasutajalevel, kasutaja level,Otsing,LoL Kasutajanimi,edetabel,kasutaja,kasutajaleveli edetabel"
+
+msgid "See the %(page_title)s!"
+msgstr "Vaata %(page_title)i!"
+
+msgid "The top summoner level in League of Legends!"
+msgstr "Top kasutajalevel League of Legendsis!"
+
+msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
+msgstr "Jälgi, kellel on kõrgeim kasutajalevel League of Legendsis. Edetabelit saab vaadata ülemaailmselt või regiooni järgi. Vaata kasutajalevelite edetabelit."
+
+msgid "Summoner Name"
+msgstr "Kasutajanimi"
+
+msgid "Region"
+msgstr "Regioon"
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Recheck"
+msgstr "Taaskontrolli"
+
+msgid "Click to update"
+msgstr "Vajuta uuendamiseks"
+
+msgid "See when the summoner name %(name)s is available!"
+msgstr "Näe, millal kasutajanimi %(name)s on vaba!"
+
+msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
+msgstr "Parimad League of Legends nimed. Mitteaktiivsete nimede verifikaator, genereeritud nimekirjad ja populaarsed otsingud."
+
+msgid "LoL Name Checker"
+msgstr "LoL Nimeverifikaator"
+
+msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
+msgstr "Hea kasutajanime leidmine on raske, me teeme selle lihtsaks! LoL Nimed GG pakub League of Legends nimeverifikaatorit, genereeritud andmebaasi juba vabadest ja tulevastest nimedest su vanemate otsingute põhjal. LoL Nimed GG on perfektne koht, kust saada parim League of Legends kasutajanimi. Näiteks vaata meie nimekirja kolmetähelistest nimedest või sisesta enda unistuste League of Legends nimi ja me anname teada, kui see vabaneb!"
+
+msgid "Use this website to find when a summoner name will expire."
+msgstr "Kasuta seda veebilehte, et leida kasutajanimede aegumisaega."
+
+msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
+msgstr "<h4 class=\"text-center\">%(name)s on vaba!</h4> Viimane mäng: %(date_last)s<br> Läks %(months) kuud vabanemiseks.<br> Vabanemisaeg oli: %(date_expire)s"
+
+msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
+msgstr "<h4 class=\"text-center\">%(name)s on vaba %(days)s päeva pärast.</h4> Viimane mäng: %(date_last)s<br> Vabanemiseks läheb %(months)s kuud<br> Vabanemisaeg (kui mitteaktiivne): %(date_expire)s<br>"
+
+msgid "Add to Calendar"
+msgstr "Lisa kalendrisse"
+
+msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
+msgstr "<h4 class=\"text-center\">%(name)s on arvatavasti vaba!</h4>"
+
+msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
+msgstr "Kui see nimi ei ole kättesaadav praegu, siis see kasutaja on peaaegu kindlasti bannitud ning nimi ei vabane kunagi."
+
+msgid "Add Special Characters"
+msgstr "Lisa Erimärke"
+
+msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
+msgstr "<h4 class=\"text-center\">%(summoner_name)s on vaba!</h4> See nimi ei ole praegu kasutuses.<br> Nimi on vaba uutele kasutajatele."
+
+msgid "Lists of all the best summoner names!"
+msgstr "Nimekiri kõigist parimatest kasutajanimedest!"
+
+msgid "Select a list and region"
+msgstr "Vali nimekiri ja regioon"
+
+msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
+msgstr "Regulaarselt uuendatud, kureeritud nimekirjad praegustest parimatest League of Legends kasutajanimedest. Leia nimekirjad kõigist parimatest kasutajanimedest."
+
+msgid "See a list of %(page_title)s and when they're available!"
+msgstr "Näe nimekirja %(page_title)s ja millal need on kättesaadavad!"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Type"
+msgstr "Tüüp"
+
+msgid "Availability (days)"
+msgstr "Olemasolu (päevad)"
+
+msgid "Name change only"
+msgstr "Ainult nimemuutus"
+
+msgid "New accounts or name change"
+msgstr "Uued kasutajad või nimemuutus"
+
+msgid "Active Match Lookup"
+msgstr "Aktiivse Mängu Otsing"
+
+msgid "Use this page to search for the active match details for summoners currently in game."
+msgstr "Kasuta seda lehte, et otsida mängudetaile kasutajale praegu käimasolevas mängus."
+
+msgid "Summoner"
+msgstr "Kasutaja"
+
+msgid "Champion"
+msgstr "Karakter"
+
+msgid "Spells"
+msgstr "Loits"
+
+msgid "Solo Rank"
+msgstr "Solo Rank"
+
+msgid "Winratio/Total"
+msgstr "Võiduprotsent/Kõik"
+
+msgid "Runes"
+msgstr "Ruunid"
+
+msgid "Useful League of Legends tools"
+msgstr "Kasulikud League of Legends tööriistad"
+
+msgid "Summoner Level High Scores"
+msgstr "Kasutajanimede Edetabel"
+
+msgid "Lookup Active Game Details"
+msgstr "Aktiivse Mängu Detailide Otsing"
+
+msgid "Track Name Changes"
+msgstr "Jälgi Nimemuutusi"
+
+msgid "Track League of Legends name changes!"
+msgstr "Jälgi League of Legends nime muutusi!"
