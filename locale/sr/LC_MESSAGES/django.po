@@ -9,52 +9,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "LoL Names"
-msgstr ""
+msgstr "LOL Imena"
 
 msgid "Checker"
-msgstr ""
+msgstr "Provera"
 
 msgid "Lists"
-msgstr ""
+msgstr "Liste"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Rekordi"
 
 msgid "Tools"
-msgstr ""
+msgstr "Alatke"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
-msgstr ""
+msgstr "Jezici"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
 msgstr ""
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Nedavno postavljana pitanja za imena"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "Nedavno postavljana pitanja za LOL pravila za promenu imena"
 
 msgid "Close"
-msgstr ""
+msgstr "Zatvori"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Ova stranica sadrži gomilu informacija vezanu za <strong>LoL Names.GG</strong> i njegovu ulogu. Ako ne nađeš odgovor na pitanje, slobodno postavi jedno!"
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Nedavno postavljana pitanja"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Kolko se često ažuriraju liste?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Liste se ažuriraju svakih sat vremena. Potpun apdejt je jednom  nedeljno."
 
 msgid "Why can't I take a name on a new account?"
 msgstr ""
@@ -63,16 +63,16 @@ msgid "If a name is already taken by an account you can only obtain it via a nam
 msgstr ""
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "šta ako je nalog banovan"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
 msgstr ""
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Kako da napravim ime od 2 slova?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
+msgstr "Staviš razmak između! Npr. \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
 msgstr ""
@@ -90,16 +90,16 @@ msgid "Can you remove a name from a list for me?"
 msgstr ""
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Ne. Sva imena su automatski skenirana"
 
 msgid "Where should I report an incorrect translation?"
 msgstr ""
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Kontaktiraj me ovde"
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Gde da prijavim grešku?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr ""
@@ -111,7 +111,7 @@ msgid "However they banned the accounts of the old names so they will never expi
 msgstr ""
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Upozorenje"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr ""
@@ -120,16 +120,16 @@ msgid "The best League of Legends name generator! Use it to add special characte
 msgstr ""
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL generator imena"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
 msgstr ""
 
 msgid "Go"
-msgstr ""
+msgstr "Kreni"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "Greška"
 
 msgid "This will add special characters to names and check to see if they're available."
 msgstr ""
@@ -153,7 +153,7 @@ msgid "Enter a summoner name and find their account ID. If they name change the 
 msgstr ""
 
 msgid "Search"
-msgstr ""
+msgstr "Traži"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr ""
@@ -195,34 +195,34 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Ime"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Level"
-msgstr ""
+msgstr "Nivo"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Proveri opet"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Klikni da ažuriraš"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Pogledaj kada je ime slobodno!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
 msgstr ""
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LOL Provera imena"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Traženje dobrog imena je teško, al ovde to nije problem! LOL NAMES GG ti dozvoljava da proveriš dostupnost imena, bazu podataka već dostupnih imena i uskoro dostupna imena. Savršeno mesto da nađeš najbolje ime za LOL! Napiši svoje omiljeno ime i mi ćemo ti reći kada će biti dostupno!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Koristi ovaj sajt da saznaš kad će ime da bude dostpuno"
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
 msgstr ""
@@ -231,82 +231,82 @@ msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> La
 msgstr ""
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Dodaj u kalendar"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name) je verovatno dostupno!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Ako ne možete promeniti u ovo ime nalog je verovatno banovan i ime nikad neće biti dostupno"
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Dodaj kvačice na slova"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(summoner_name) je slobodno!</h4> Ovo ime se ne koristi.<br> Dostupno je ya nove naloge."
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Liste najboljih imena"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Izaberi listu i region"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Regularno ažurirane liste najboljih trenutno dostupnih LOL imena. Vučiću pederu"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "POgledaj listu %(page_title) i kad će biti dostupni!"
 
 msgid "Name"
-msgstr ""
+msgstr "Ime"
 
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Dostupnost (dani)"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Samo promena imena"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Novi nalog ili promena imena"
 
 msgid "Active Match Lookup"
 msgstr ""
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Ovu stranicu"
 
 msgid "Summoner"
-msgstr ""
+msgstr "Summoner"
 
 msgid "Champion"
-msgstr ""
+msgstr "Heroj"
 
 msgid "Spells"
-msgstr ""
+msgstr "Magije"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Solo rank"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Stopa pobeda/Ukupno"
 
 msgid "Runes"
-msgstr ""
+msgstr "Rune"
 
 msgid "Useful League of Legends tools"
-msgstr ""
+msgstr "Korisne LOL alatke"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Najveći nivoi Summonera"
 
 msgid "Lookup Active Game Details"
-msgstr ""
+msgstr "Pogledaj detalje trenutnih partija"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Prati promene imena!"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Prati promene imena u LOLu!"
