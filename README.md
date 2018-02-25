@@ -70,3 +70,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu)
   * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
+  * Serbian - Новица Трифковић
