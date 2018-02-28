@@ -9,304 +9,304 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "LoL Names"
-msgstr ""
+msgstr "LoL Namn"
 
 msgid "Checker"
-msgstr ""
+msgstr "Kolla upp tillgänglighet hiss"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listor"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Topplista"
 
 msgid "Tools"
-msgstr ""
+msgstr "Verktyg"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
-msgstr ""
+msgstr "Språk"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL, League of Legends, Namn, Generator, Kolla upp, lol inaktiv, lol namn kollare, league namn kollare, league of legends namn kollare, summoner namn tillgänglighet, league namn tillgänglighet, Sök, LoL Summoner namn, Summoner"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Ofta förekommande frågor om summoner namn"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "FAQ om League of Legends summoner namn ändringsregler"
 
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Den här sektionen innehåller viktig information, relaterad till <strong>Lol Names.GG</strong> och dess användning. Om du inte kan hitta svaret till din fråga, vänligen <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">kontakta mig</a>."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Ofta frågade frågor"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Hur ofta uppdateras listorna?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Listorna updateras ungefär en gång i timmen. En full re-scan sker en gång i veckan."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Varför kan jag inte ta ett namn på ett nytt konto?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Om namnet redan är taget av ett konto så kan du endast få det via namnändring. Dessa namn är visade med en grön bakgrund. Om namnet inte är taget av ett konto så kan du ta det på ett helt nytt konto. Dessa namn är visade med en blå bakgrund."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Vad om kontot är bannat?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Om kontot är bannat så kan det visas som tillgängligt med grön bakgrund, men det kommer ändå att vara otagbart för alltid förutom om Riot skulle ändra sin policy om bannade konton."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Hur kan jag få ett namn med 2 bokstäver?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
+msgstr "Det kortaste namnet som är möjligt att ha innehåller 3 tecken, därför måste du sätta ett mellanslag mellan bokstäverna: \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Vilken tidszon används?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Alla tidzoner är UTC. Använd denna <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">tidzon konverteraren</a> för att kolla din lokala tid."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "När exakt kommer namnet bli tillgängligt?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Nomralt sätt så är namn rensade vid midnatt UTC. Dock, i vissa fall så kan det ta upp till 48 timmar. Kolla flera gånger på den dagen som namnet frisläpps."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Kan du ta bort ett namn från listan för mig?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Nej. Alla namn är autimatiskt skannade."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Var skall jag rapportera en felaktig översättning?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Kontakta mig här."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Var skall jag rapportera en bugg?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Varför är inga namn innan Xayah och Rakan tillåtna?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot har sagt att de inte kommer resarvera namn av nya champions."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Dock så har de bannat konton med namn av champions innan, alltså kommer de aldrig vara tillgängliga."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Ansvarsfriskrivning"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "Lägg till specialla tecken till '%(name)s' och se vilka som är tillgängliga!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "Den bästa League of Legends namn-generatorn! Använd den för att lägga till speciella tecken till något namn och se vilka som är tillgängliga."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Namn-generator"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "Den bästa League of Legends summoner namn-generator. Generatorn kommer automatiskt tilläga speciella tecken till League of Legends namn och kolla om de är tillgängliga."
 
 msgid "Go"
-msgstr ""
+msgstr "Kolla"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "ERROR:"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Det här kommer att lägga till speciella tecken till namn och se om de är tillgängliga."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "En lista av all stora och små speciella tecken som är tillåtna i League of Legends summoner namn och ser ut som engelska bokstäver."
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Konto-ID upphittare"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "Se %(name)s Konto-ID och Summoner-ID!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Sök för en summoners Konto-ID och Summoner-ID."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "LoL Konto-ID upphittare"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Skriv in en summoners namn och hitta dess konto-ID. Om de ändrar sitt namn så kommer Konto-ID fortfarande vara samma."
 
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
-msgstr ""
+msgstr "Senaste game: %(date_game)s<br>Senast aktiv: %(date_active)s<br>"
 
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" används ej!</h4>"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Sök med Konto-ID"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "Se vilket summoner-namn som tillhör konto-ID %(account_id)s!"
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Sök för ett summoner-namn med ett konto-ID"
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "LoL namn med konto-ID"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Kolla upp ett användarnamn med konto-ID. Skriv in en summoners konto-ID och hitta deras användarnamn."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">Konto-ID \"%(account_id)s\" hittades!</h4> Senaste game: %(date_game)s<br> Senast aktiv: %(date_active)s<br> Nuvarande namn: %(name)s<br> Föregående Namn: <i>Kommer snart!</i><br> Nuvarande level: %(level)s"
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ägs inte!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr ""
+msgstr "högsta level league of legends,lol max level i spel, high score,lol högsta level,LoL,Leaugue of Legends,Namn,top summoner level,högsta summoner level,summoner level,Sök,LoL Summoner namn,topplista,Summoner,summoner level topplista"
 
 msgid "See the %(page_title)s!"
-msgstr ""
+msgstr "Se %(page_title)s!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Den högsta summoner level i League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Spåra vem som har den högsta summoner level i League of Legends. Topplistan kan visas som högst i världen eller sorterad av region. Se summoner level topplistan."
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Summoner namn"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Recheck"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Klicka för att uppdatera"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Se när namnet %(name) är tillgängligt!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr ""
+msgstr "De bästa League of Legends namnen. Inaktiv namnupkollare, genererade listor av populära sökningar."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Namnkollare"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "Att hitta ett bra namn är svårt, vi gör det enkelt! LoL Names GG ger en League of Legends namnuppkollare, en databas av genererade namn som redan är tillgängliga och en lista av namn som håller på att bli tillgängliga baserat på sökningar. LoL Names GG är den perfekta platsen för att få de bästa summoner namnen. Till exempel, kolla vår lista av namn med tre bokstäver, eller skriv in ditt drömnamn och se när det är tillgängligt!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Används denna sidan för att hitta när ett namn kommer utgå."
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s är tillgängligt!</h4> Senaste game: %(date_last)s<br> Det tog %(months)s månader för cleanup<br> Cleanup datum var: %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s är tillgängligt om %(days)s dagar.</h4> Senaste game: %(date_last)s<br> Det tar %(months)s månader för cleanup<br> Cleanup datum (om inaktiv): %(date_expire)s<br>"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Lägg till i kalender"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s är antagligen tillgängligt!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "Om namnet inte kan bli taget nu så är kontot nästintill säkert bannat och namnet kommer aldrig blig tillgängligt."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Lägg till speciella tecken"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(summoner_name)s är tillgängligt!</h4> Detta namnet är inte använt just nu.<br> Det är tillgängligt för nya konton."
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "Lista över de bästa summoner namnen!"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Välj en lista och region"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Regelbundet uppdaterad, sorterade listor av de bästa tillgängliga League of Legends namnen. Hitta listor med alla de bästa summoner namnen"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "Se en lista av %(page_title)s och när de är tillgängliga!"
 
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Tillgänglighet (dagar)"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Namnändring bara"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Nya konton eller namnändrning"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Nuvarande Matchsökning"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Använd denna sidan för att hitta nuvarande matchdetaljer för spelare i ett game."
 
 msgid "Summoner"
-msgstr ""
+msgstr "Summoner"
 
 msgid "Champion"
-msgstr ""
+msgstr "Champion"
 
 msgid "Spells"
-msgstr ""
+msgstr "Spells"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Solo Rank"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Winratio/Totalt"
 
 msgid "Runes"
-msgstr ""
+msgstr "Runes"
 
 msgid "Useful League of Legends tools"
-msgstr ""
+msgstr "Användbara League of Legends verktyg"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "Summoner Level Topplista"
 
 msgid "Lookup Active Game Details"
-msgstr ""
+msgstr "Hitta Nuvararande Spel"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "Spåra Namnändringar"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Spåra League of Legends namnändringar!"
