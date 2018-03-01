@@ -12,7 +12,7 @@ msgid "LoL Names"
 msgstr "LoL Namn"
 
 msgid "Checker"
-msgstr "Kolla upp tillgänglighet hiss"
+msgstr "Kolla upp"
 
 msgid "Lists"
 msgstr "Listor"
@@ -90,16 +90,16 @@ msgid "Can you remove a name from a list for me?"
 msgstr "Kan du ta bort ett namn från listan för mig?"
 
 msgid "No. All the names are automatically scanned."
-msgstr "Nej. Alla namn är autimatiskt skannade."
+msgstr "Nej. Alla namn är automatiskt skannade."
 
 msgid "Where should I report an incorrect translation?"
-msgstr "Var skall jag rapportera en felaktig översättning?"
+msgstr "Var ska jag rapportera en felaktig översättning?"
 
 msgid "Contact me here."
 msgstr "Kontakta mig här."
 
 msgid "Where should I report a bug?"
-msgstr "Var skall jag rapportera en bugg?"
+msgstr "Var ska jag rapportera en bugg?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Varför är inga namn innan Xayah och Rakan tillåtna?"
