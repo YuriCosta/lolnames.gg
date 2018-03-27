@@ -9,304 +9,304 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "LoL Names"
-msgstr ""
+msgstr "LoL İsimleri"
 
 msgid "Checker"
-msgstr ""
+msgstr " Kontrol Edici"
 
 msgid "Lists"
-msgstr ""
+msgstr "Listeler"
 
 msgid "Generator"
-msgstr ""
+msgstr "Oluşturucu"
 
 msgid "Highscores"
-msgstr ""
+msgstr "Yüksek Skorlar"
 
 msgid "Tools"
-msgstr ""
+msgstr "Araçlar"
 
 msgid "FAQ"
-msgstr ""
+msgstr "SSS"
 
 msgid "Languages"
-msgstr ""
+msgstr "Diller"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL,League of Legends,Isimler,Dönüştürücü,Kontrol Edici,LoL İnaktif , Lol isim kontrol edici , lig isim kontrol edici , league of legends isim kontrol edici , sihirdar ismi uygunluğu , lig ismi uygunluğu , arama , LoL sihirdar isimleri , Sihirdar"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr ""
+msgstr "Kullanıcı isimleri hakkında sıkça sorulan sorular"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
-msgstr ""
+msgstr "League of Legends kullanıcı ismi değişikliği kuralları hakkında sıkça sorulan sorular"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr ""
+msgstr "Bu bölüm,  <strong>LoL Names.GG</strong> ve nasıl kullanıldığı hakkındadır. Eğer aradığınızı bulamadıysanız buradan <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">bana ulaşın</a>."
 
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Sıkça Sorulan Sorular"
 
 msgid "How frequently do the lists update?"
-msgstr ""
+msgstr "Listeler ne sıklıkla güncellenir?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
+msgstr "Listeler her saat başı güncellenir. Bütün tekrar tarama 1 haftada tamamlanır."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Yeni hesapta neden isim alamıyorum ?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Eğer isim zaten bir hesapta alındıysa sadece isim değiştirmekle alabilirsin , bu isimlerin arkası yeşil olarak gösterilir. Eğer isim isim kullanıcı tarafından alınmadıysa yeni bir hesapta alabilirsin. Bu isimlerin arkası mavi olarak gösterilir."
 
 msgid "What if the account is banned?"
-msgstr ""
+msgstr "Hesap banlıysa ne olur ?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Eğer hesap banlıysa yeşil gözükecektir , Riot banlı hesaplarla alakalı politikasını değiştirmediği sürece alınamaz."
 
 msgid "How can I get a 2 letter name?"
-msgstr ""
+msgstr "Nasıl 2 harfli isim alabilirim ?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr ""
+msgstr "League of Legends isimleri için en az 3 karakter gereklidir. Harflerin arasına boşluk koyabilirsin:\"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Hangi Saat Kullanıyor"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Bütün saatler EGEZ(UTC)'e uygundur. bunu kullanın <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">zaman çevirici</a> kendi saatinizi görmek için."
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "İsimler ne zaman müsait oluyor?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Normalde isimler gece yarısı EGEZ(UTC)'de temizlenir. Ancak, bazı durumlarda 48 saat geçtiğini fark ettim. Listelenen günde birkaç saat kontrol edin"
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Benim için bu ismi listeden silebilir misin?"
 
 msgid "No. All the names are automatically scanned."
-msgstr ""
+msgstr "Hayır , bütün isimler otomatik olarak taranır."
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Yanlış çeviriyi nereden bildirebilirim ?"
 
 msgid "Contact me here."
-msgstr ""
+msgstr "Bana buradan ulaşabilirsin."
 
 msgid "Where should I report a bug?"
-msgstr ""
+msgstr "Hataları nereden bildirmeliyim?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Neden Xayah ve Rakan uyumlu çift isimler izinli?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot, artık yeni şampiyonların isimlerini ayırmayacaklarını söyledi."
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Fakat eski isimleri banladılar ve bu ban sona ermeyecek."
 
 msgid "Disclaimer"
-msgstr ""
+msgstr "Feragatname"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "bu isime '%(name)s' özel karakterler ekle ve hangisi uygun gör! "
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "En iyi League of Legends isim oluşturucu! Özel karakterlerle kullanın ve hangilerinin uygun olduğunu görün."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL İsim oluşturucu"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "En iyi League of Legends isim oluşturucusu , oluşturucu otomatik olarak League of Legends isimleri için özel karakterler ekler ve hangisinin kullanıma uygun olduğunu & bedava olduğunu gösterir."
 
 msgid "Go"
-msgstr ""
+msgstr "Git"
 
 msgid "ERROR:"
-msgstr ""
+msgstr "HATA"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Bu isime özel karakterler ekleyecek ve uygunsa gösterecek"
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Efsaneler Ligi efsane adlarına izin verilen ve ingilizce harfler gibi görünen tüm büyük ve küçük harflerin bir listesi"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Hesap ID Bulucu"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "Bu ismin %(name)s'Hesap ID ve Sihirdar ID!'sını gör. "
 
 msgid "Search for a summoner's Account ID and Summoner ID."
-msgstr ""
+msgstr "Sihirdar için Account ID ve Sihirdar ID ara"
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "LoL Hesap ID Bulucu"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Sihirdar ismini gir ve hesap ID'sını bul, Eğer ismini değiştirdiyse ID aynı kalır."
 
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
-msgstr ""
+msgstr "Son Oyun: %(date_game)s<br>Son Aktivite: %(date_active)s<br>"
 
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" ismi kullanımda değil!</h4>"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Hesap ID ara"
 
-msgid "See what summoner name belongs to account ID %(account_id)s!"
+msgid "Account ID'nın kime ait olduğunu görme %(account_id)s!"
 msgstr ""
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Hesap ismiyle beraber hesap ID arayın"
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "Hesap ID'den LoL ismi"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Bir hesap kimliğini kullanarak bir kullanıcı adı arayın. Bir sihirdarın hesap kimliğini girin ve kullanıcı adlarını bulun."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">Hesap ID \"%(account_id)s\" bulundu!</h4> Son oyun: %(date_game)s<br> Son Aktiflik: %(date_active)s<br> Şuanki ismi: %(name)s<br> Önceki ismi <i>Yakında geliyor!</i><br> Şuanki seviyesi: %(level)s"
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" sahip değil.</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr ""
+msgstr "league of legends en yüksek levle , lol oyundaki en yüksek level , yüksek skor, en yüksek level , LoL , League of Legends, isimler , en yüksek leveller , en yüksek sihirdar levelleri , Ara , LoL Sihirdar isimleri , Sıralama , Shiirdar , Seviye Sıralaması"
 
 msgid "See the %(page_title)s!"
-msgstr ""
+msgstr " %(page_title)'ı görüntüle!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "League Of  Legendsteki en yüksek level"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr ""
 
 msgid "Summoner Name"
-msgstr ""
+msgstr "Sihirdar Ismi"
 
 msgid "Region"
-msgstr ""
+msgstr "Bölge"
 
 msgid "Level"
-msgstr ""
+msgstr "Seviye"
 
 msgid "Recheck"
-msgstr ""
+msgstr "Tekrar kontrol et"
 
 msgid "Click to update"
-msgstr ""
+msgstr "Güncellemek için tıkla"
 
 msgid "See when the summoner name %(name)s is available!"
-msgstr ""
+msgstr "Sihirdar ismi uygunken görüntüle."
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr ""
+msgstr "En iyi League Of Legends Isimleri. İnaktif isim kontrol edici , hazır listeler ve popüler aramalar"
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Isim kontrol edici"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr ""
+msgstr "İyi bir isim bulmak zor , biz bunu kolaylaştırıyoruz! LoL Names GG bir League Of Legends ürünüdür , veri tabanı zaten mevcut olan kullanılabilir isimlerden oluşur ve aramalara göre yenileri eklenir. LoL Names GG güzel bir isim bulmak için harika bir yer. Örnek olarak bizim 3 harfli isimlerimize bakabilir veya hayalindeki ismi aratabilirsin.  müsait olduğunda sana söyleyelim!"
 
 msgid "Use this website to find when a summoner name will expire."
-msgstr ""
+msgstr "Kullanıma açık sihirdar isimlerini bitmeden bulmak için bu siteyi kullanın"
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)'s uygun !</h4> Son oyun %(date_last)s<br> yaklaşık %(months)s aydır uygun gözüküyor <br> En son kontrol : %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s ismi %(days)s gündür kullanıma uygun.</h4> Son oyun: %(date_last)s<br> Temizlenmesi %(months)s sürecek<br> Temizlenme tarihi (eğer inaktifse): %(date_expire)s<br>"
 
 msgid "Add to Calendar"
-msgstr ""
+msgstr "Takvime ekle"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name)s büyük ihtimalle uygun!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
-msgstr ""
+msgstr "eğer bu isim alınamıyorsa hesap banlanmıştır ve isim hiç alınamayacaktır."
 
 msgid "Add Special Characters"
-msgstr ""
+msgstr "Özel karakter ekle"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(summoner_name)s ismi uygun!</h4> Şuan kullanılmıyor.<br> Yeni hesap açıp almak için müsait."
 
 msgid "Lists of all the best summoner names!"
-msgstr ""
+msgstr "En iyi sihirdar isimlerini listele"
 
 msgid "Select a list and region"
-msgstr ""
+msgstr "Liste ve bölge seç"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr ""
+msgstr "Düzenli olarak güncellenen, mevcut en iyi League of Legend sihirdar isimlerini listeler. En iyi sihirdar isimleri ile listeleri bulun."
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr ""
+msgstr "Uygun hesapların listesini burada gör !"
 
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 msgid "Availability (days)"
-msgstr ""
+msgstr "Uygunluk (günler)"
 
 msgid "Name change only"
-msgstr ""
+msgstr "Sadece isim değiştirme"
 
 msgid "New accounts or name change"
-msgstr ""
+msgstr "Yeni hesap veya isim değiştirme"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Aktif maça bakma"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr ""
+msgstr "Sihirdarın aktif maç detayları için bu sayfayı kullanın"
 
 msgid "Summoner"
-msgstr ""
+msgstr "Sihirdar"
 
 msgid "Champion"
-msgstr ""
+msgstr "Şampiyon"
 
 msgid "Spells"
-msgstr ""
+msgstr "Yetenekler"
 
 msgid "Solo Rank"
-msgstr ""
+msgstr "Solo Rank"
 
 msgid "Winratio/Total"
-msgstr ""
+msgstr "Kazanma oranı/Toplam"
 
 msgid "Runes"
-msgstr ""
+msgstr "Rünler"
 
 msgid "Useful League of Legends tools"
-msgstr ""
+msgstr "Kullanışlı League of Legends Araçları"
 
 msgid "Summoner Level High Scores"
-msgstr ""
+msgstr "yüksek sihirdar level skorları"
 
 msgid "Lookup Active Game Details"
-msgstr ""
+msgstr "aktif oyun detaylarına bak"
 
 msgid "Track Name Changes"
-msgstr ""
+msgstr "isim değiştirmeyi kontrol et"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Değiştirilmiş isimleri kontrol et!"
