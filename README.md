@@ -73,3 +73,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Serbian - Новица Трифковић
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
   * Turkish - Beta
+  * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
