@@ -1,4 +1,4 @@
-# Copyright (C) 2017 LOLNAMES.GG
+# Copyright (C) 2017-2018 LOLNAMES.GG
 # This file is distributed under the same license as the PACKAGE package.
 #
 #, fuzzy
@@ -8,23 +8,116 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Summoner name..."
+msgstr ""
+
+msgid "Invalid name"
+msgstr ""
+
+msgid "Invalid characters: "
+msgstr ""
+
+msgid "Maximum 16 characters"
+msgstr ""
+
+msgid "Must be two or more characters"
+msgstr ""
+
+msgid "Names can't contain 'riot'"
+msgstr ""
+
+msgid "This is a problem with Riot's servers"
+msgstr ""
+
+msgid "New Account"
+msgstr "계정 ID별로 LoL 이름"
+
+msgid "Name Change"
+msgstr "이름 변경 만"
+
+msgid "Generator"
+msgstr "발전기"
+
+msgid "None available for %(name)s, out of %(num_variants)s variants."
+msgstr ""
+
+msgid "Summoner name not in use"
+msgstr ""
+
+msgid "Account ID Lookup"
+msgstr "계정 ID 찾기"
+
+msgid "Account ID"
+msgstr "계정 ID 찾기"
+
+msgid "Lookup name by Account ID"
+msgstr "계정 ID별로 LoL 이름"
+
+msgid "Invalid Account ID"
+msgstr "계정 ID로 검색"
+
+msgid "Summoner Level High Scores"
+msgstr ""
+
+msgid "All Upcoming Names"
+msgstr ""
+
+msgid "Recently Available Names"
+msgstr ""
+
+msgid "Two Letter Names"
+msgstr "LoL 소환사 이름"
+
+msgid "Three Letter Names"
+msgstr ""
+
+msgid "Four Letter Names"
+msgstr "LoL 소환사 이름"
+
+msgid "All Available Names"
+msgstr ""
+
+msgid "Lists"
+msgstr "기울기"
+
+msgid "No active game for %(name)s"
+msgstr ""
+
+msgid "No summoner with name \"%(name)s\" on %(region)s."
+msgstr ""
+
 msgid "LoL Names"
 msgstr "LoL 소환사 이름"
 
 msgid "Checker"
 msgstr "체커"
 
-msgid "Lists"
-msgstr "기울기"
-
-msgid "Generator"
-msgstr "발전기"
-
 msgid "Highscores"
 msgstr ""
 
 msgid "Tools"
 msgstr "도구들"
+
+msgid "Lookup Match Details"
+msgstr ""
+
+msgid "Track Name Changes"
+msgstr ""
+
+msgid "Lookup Account ID"
+msgstr "LoL 계정 ID 찾기"
+
+msgid "Search by Account ID"
+msgstr "계정 ID로 검색"
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Summoner Levels"
+msgstr ""
+
+msgid "Summoner Icons"
+msgstr ""
 
 msgid "FAQ"
 msgstr "자주하는 질문"
@@ -33,7 +126,10 @@ msgid "Languages"
 msgstr "언어"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr "LoL, 전설의 리그, 이름, 생성기, 검사기, 롤 비활성, 롤 이름 검사기,리그 이름 검사기, 범례 이름 검사기 리그, 소환사 이름가용성, 리그 이름 유효성, 검색, LoL 소속사 이름, Summoner"
+msgstr ""
+"LoL, 전설의 리그, 이름, 생성기, 검사기, 롤 비활성, 롤 이름 검사기,리그 이름 "
+"검사기, 범례 이름 검사기 리그, 소환사 이름가용성, 리그 이름 유효성, 검색, "
+"LoL 소속사 이름, Summoner"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "소환사 이름에 대해 자주 묻는 질문"
@@ -45,7 +141,11 @@ msgid "Close"
 msgstr "닫다"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "이 섹션에는이 웹 사이트 및 그 사용과 관련된 풍부한 정보가 포함되어 있습니다. <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">질문에 대한 답을 찾을 수 없다면 언제든지 저에게 연락하십시오.</a>"
+msgstr ""
+"이 섹션에는이 웹 사이트 및 그 사용과 관련된 풍부한 정보가 포함되어 있습니다. "
+"<a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target="
+"\"_blank\" rel=\"noopener\">질문에 대한 답을 찾을 수 없다면 언제든지 저에게 "
+"연락하십시오.</a>"
 
 msgid "Frequently Asked Questions"
 msgstr "자주 묻는 질문"
@@ -54,31 +154,42 @@ msgid "How frequently do the lists update?"
 msgstr "목록은 얼마나 자주 업데이트됩니까?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "목록은 일주일에 한 번 업데이트됩니다. 이것은 수백 가지가 걸리기 때문입니다. 수천 개의 요청과 캐시가 필요합니다."
+msgstr ""
+"목록은 일주일에 한 번 업데이트됩니다. 이것은 수백 가지가 걸리기 때문입니다. "
+"수천 개의 요청과 캐시가 필요합니다."
 
 msgid "Why can't I take a name on a new account?"
 msgstr "새 계정에서 이름을 사용할 수없는 이유는 무엇입니까?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr "이미 계정에서 이름을 가져온 경우 이름을 통해서만 구할 수 있습니다변화. 이 이름은 녹색 배경으로 표시됩니다. 이름을 찍지 않은 경우현재 사용자가 새로운 계정으로 가져갈 수 있습니다. 이 이름들은파란색 배경으로 표시합니다."
+msgstr ""
+"이미 계정에서 이름을 가져온 경우 이름을 통해서만 구할 수 있습니다변화. 이 이"
+"름은 녹색 배경으로 표시됩니다. 이름을 찍지 않은 경우현재 사용자가 새로운 계정"
+"으로 가져갈 수 있습니다. 이 이름들은파란색 배경으로 표시합니다."
 
 msgid "What if the account is banned?"
 msgstr "계정이 금지되면 어떻게됩니까?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr "계정이 금지 된 경우 녹색으로 표시 될 수 있습니다. 하지만, 폭동이 일어나지 않으면 무기한으로 사용할 수 없게됩니다. 금지 된 계정에 대한 정책을 변경합니다."
+msgstr ""
+"계정이 금지 된 경우 녹색으로 표시 될 수 있습니다. 하지만, 폭동이 일어나지 않"
+"으면 무기한으로 사용할 수 없게됩니다. 금지 된 계정에 대한 정책을 변경합니다."
 
 msgid "How can I get a 2 letter name?"
 msgstr "2 자의 이름을 어떻게 얻을 수 있습니까?"
 
 msgid "The minimum characters for a League of Legends name are 3. Put a space inbetween the letters: \"GG\" = \"G G\""
-msgstr "Legends of Legends의 최소 이름은 3입니다.편지 사이에 : \"GG\" = \"G G\""
+msgstr ""
+"Legends of Legends의 최소 이름은 3입니다.편지 사이에 : \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
 msgstr "어떤 시간대가 사용됩니까?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr "모든 시간대는 UTC로 표시됩니다. 이 <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">시간대 변환기를</a> 사용하여 현지 시간으로 조정하십시오."
+msgstr ""
+"모든 시간대는 UTC로 표시됩니다. 이 <a href=\"https://www.timeanddate.com/"
+"worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" "
+"rel=\"noopener\">시간대 변환기를</a> 사용하여 현지 시간으로 조정하십시오."
 
 msgid "When exactly will the name become available?"
 msgstr "이름이 언제쯤 유효할까요?"
@@ -117,13 +228,17 @@ msgid "Add special characters to '%(name)s' and see which are available!"
 msgstr "'%(name)s'에 특수 문자를 추가하여 사용할 수있는 문자를 확인하십시오!"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr "전설의 유명한 리그 생성기! 그것을 사용하여 모든 이름에 특수 문자를 추가하고 사용할 수있는 문자를 보여줍니다."
+msgstr ""
+"전설의 유명한 리그 생성기! 그것을 사용하여 모든 이름에 특수 문자를 추가하고 "
+"사용할 수있는 문자를 보여줍니다."
 
 msgid "LoL Name Generator"
 msgstr "LoL 소환사 이름 생성기"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr "전설의 유명한 리그 생성기! 그것을 사용하여 모든 이름에 특수 문자를 추가하고 사용할 수있는 문자를 보여줍니다."
+msgstr ""
+"전설의 유명한 리그 생성기! 그것을 사용하여 모든 이름에 특수 문자를 추가하고 "
+"사용할 수있는 문자를 보여줍니다."
 
 msgid "Go"
 msgstr "수색"
@@ -135,7 +250,18 @@ msgid "This will add special characters to names and check to see if they're ava
 msgstr "그러면 특수 문자가 이름에 추가되고 사용할 수 있는지 확인합니다."
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr "League of Legends의 소환사 이름에 허용되는 모든 대문자 및 소문자 특수 문자 목록과 영어 문자처럼 보이는 문자."
+msgstr ""
+"League of Legends의 소환사 이름에 허용되는 모든 대문자 및 소문자 특수 문자 목"
+"록과 영어 문자처럼 보이는 문자."
+
+msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
+msgstr ""
+
+msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
+msgstr ""
+
+msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
+msgstr ""
 
 msgid "Account ID Finder"
 msgstr "계정 ID 찾기"
@@ -150,7 +276,9 @@ msgid "LoL Account ID Finder"
 msgstr "LoL 계정 ID 찾기"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr "소환사 이름을 입력하고 계정 ID를 찾으십시오. 이름이 변경되면 계정 ID는 동일하게 유지됩니다."
+msgstr ""
+"소환사 이름을 입력하고 계정 ID를 찾으십시오. 이름이 변경되면 계정 ID는 동일하"
+"게 유지됩니다."
 
 msgid "Search"
 msgstr ""
@@ -160,9 +288,6 @@ msgstr ""
 
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr ""
-
-msgid "Search by Account ID"
-msgstr "계정 ID로 검색"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "계정 아이디 %(account_id)s에 소속 된 이름이 무엇인지 확인하십시오!"
@@ -174,7 +299,9 @@ msgid "LoL Name by Account ID"
 msgstr "계정 ID별로 LoL 이름"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr "계정 ID를 사용하여 사용자 이름을 찾습니다. 소환의 계정 ID를 입력하고 사용자 이름을 찾으십시오."
+msgstr ""
+"계정 ID를 사용하여 사용자 이름을 찾습니다. 소환의 계정 ID를 입력하고 사용자 "
+"이름을 찾으십시오."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
 msgstr ""
@@ -185,13 +312,16 @@ msgstr ""
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr ""
 
-msgid "See the %(page_title)s!"
+msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
 msgstr ""
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
+msgstr ""
+
+msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
@@ -213,22 +343,36 @@ msgid "See when the summoner name %(name)s is available!"
 msgstr "%(name)s이라는 소환사 이름이 언제 나왔는지 확인하십시오!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr "최고의 리그 오브 레전드 이름. 비활성 이름 검사기, 생성 된 목록 및 인기있는 검색."
+msgstr ""
+"최고의 리그 오브 레전드 이름. 비활성 이름 검사기, 생성 된 목록 및 인기있는 검"
+"색."
 
 msgid "LoL Name Checker"
 msgstr "LoL 소명사 검사기"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
-msgstr "좋은 사용자 이름을 찾는 것이 어렵습니다. LoL Names GG는 리그 오브 레전드 (Legends of Legends) 이름 검사기, 이미 생성 된 이름의 데이터베이스 및 이전 검색을 기반으로 예정된 이름 목록을 제공합니다. LoL Names GG는 최고의 전설 소집사 명을 얻는 완벽한 장소입니다. 예를 들어, 우리의 3 글자 이름 목록을 보거나 당신의 꿈 리그 오브 레전드 (League of Legends) 이름을 입력하면 사용 가능한 시점을 알려 드리겠습니다!"
+msgstr ""
+"좋은 사용자 이름을 찾는 것이 어렵습니다. LoL Names GG는 리그 오브 레전드 "
+"(Legends of Legends) 이름 검사기, 이미 생성 된 이름의 데이터베이스 및 이전 검"
+"색을 기반으로 예정된 이름 목록을 제공합니다. LoL Names GG는 최고의 전설 소집"
+"사 명을 얻는 완벽한 장소입니다. 예를 들어, 우리의 3 글자 이름 목록을 보거나 "
+"당신의 꿈 리그 오브 레전드 (League of Legends) 이름을 입력하면 사용 가능한 시"
+"점을 알려 드리겠습니다!"
 
 msgid "Use this website to find when a summoner name will expire."
 msgstr ""
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr "<h4 class=\"text-center\">%(name)s을 사용할 수 있습니다!</h4>마지막 경기 : %(date_last)s<br>정리를 위해 %(months)s 개월이 걸렸습니다.<br>정리 날짜 : %(date_expire)s"
+msgstr ""
+"<h4 class=\"text-center\">%(name)s을 사용할 수 있습니다!</h4>마지막 경기 : "
+"%(date_last)s<br>정리를 위해 %(months)s 개월이 걸렸습니다.<br>정리 날짜 : "
+"%(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr "<h4 class=\"text-center\">%(name)s은 %(days)s 일 동안 사용할 수 있습니다.</h4>마지막 경기 : %(date_last)s<br>정리에 %(months)s 개월이 걸립니다.<br>정리 날짜 (비활성 상태 인 경우) : %(date_expire)s<br>"
+msgstr ""
+"<h4 class=\"text-center\">%(name)s은 %(days)s 일 동안 사용할 수 있습니다.</"
+"h4>마지막 경기 : %(date_last)s<br>정리에 %(months)s 개월이 걸립니다.<br>정리 "
+"날짜 (비활성 상태 인 경우) : %(date_expire)s<br>"
 
 msgid "Add to Calendar"
 msgstr ""
@@ -243,7 +387,9 @@ msgid "Add Special Characters"
 msgstr ""
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr "<h4 class=\"text-center\">%(summoner_name)s을 사용할 수 있습니다!</h4>이 이름은 현재 사용되지 않습니다.<br>새 계정에서 사용할 수 있습니다."
+msgstr ""
+"<h4 class=\"text-center\">%(summoner_name)s을 사용할 수 있습니다!</h4>이 이름"
+"은 현재 사용되지 않습니다.<br>새 계정에서 사용할 수 있습니다."
 
 msgid "Lists of all the best summoner names!"
 msgstr "모든 최고의 소환사 명단의 목록!"
@@ -252,7 +398,9 @@ msgid "Select a list and region"
 msgstr "목록 및 지역 선택"
 
 msgid "Regularly updated, curated lists of the best currently available League of Legend summoner names. Find lists with all the best summoner names."
-msgstr "현재 이용 가능한 최고의 전설적 소환 인 명단을 정기적으로 업데이트하고 큐레이드 한 목록. 최고의 소환사 이름을 가진 목록을 찾으십시오."
+msgstr ""
+"현재 이용 가능한 최고의 전설적 소환 인 명단을 정기적으로 업데이트하고 큐레이"
+"드 한 목록. 최고의 소환사 이름을 가진 목록을 찾으십시오."
 
 msgid "See a list of %(page_title)s and when they're available!"
 msgstr "이름 목록 및 사용 가능한시기를 확인하십시오! (%(page_title)s)"
@@ -296,17 +444,27 @@ msgstr ""
 msgid "Runes"
 msgstr ""
 
-msgid "Useful League of Legends tools"
-msgstr "유용한 리그 오브 레전드 도구"
-
-msgid "Summoner Level High Scores"
+msgid "Summoner Icon Statistics"
 msgstr ""
 
-msgid "Lookup Active Game Details"
+msgid "Icon"
 msgstr ""
 
-msgid "Track Name Changes"
+msgid "Number"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Summoner Level Statistics"
+msgstr ""
+
+msgid "Summoner level distribution by region"
+msgstr ""
+
+msgid "Number of Summoners"
 msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "리그 오브 레전드 소환사 이름 변경 규칙에 관해 자주 묻는 질문들."
+
