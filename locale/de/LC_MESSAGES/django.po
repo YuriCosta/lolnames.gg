@@ -1,4 +1,4 @@
-# Copyright (C) 2017 LOLNAMES.GG
+# Copyright (C) 2017-2018 LOLNAMES.GG
 # This file is distributed under the same license as the PACKAGE package.
 #
 #, fuzzy
@@ -8,16 +8,88 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "LoL Names"
+msgid "Summoner name..."
+msgstr "Beschwörernamen"
+
+msgid "Invalid name"
+msgstr ""
+
+msgid "Invalid characters: "
+msgstr ""
+
+msgid "Maximum 16 characters"
+msgstr ""
+
+msgid "Must be two or more characters"
+msgstr ""
+
+msgid "Names can't contain 'riot'"
+msgstr ""
+
+msgid "This is a problem with Riot's servers"
+msgstr ""
+
+msgid "New Account"
+msgstr "LoL Name nach Konto-ID"
+
+msgid "Name Change"
+msgstr "Namensänderungen verfolgen"
+
+msgid "Generator"
+msgstr ""
+
+msgid "None available for %(name)s, out of %(num_variants)s variants."
+msgstr ""
+
+msgid "Summoner name not in use"
+msgstr "Beschwörernamen"
+
+msgid "Account ID Lookup"
+msgstr ""
+
+msgid "Account ID"
+msgstr "Suche nach Account ID"
+
+msgid "Lookup name by Account ID"
+msgstr "LoL Name nach Konto-ID"
+
+msgid "Invalid Account ID"
+msgstr "Suche nach Account ID"
+
+msgid "Summoner Level High Scores"
+msgstr "Beschwörernamen Bestenliste"
+
+msgid "All Upcoming Names"
+msgstr ""
+
+msgid "Recently Available Names"
+msgstr ""
+
+msgid "Two Letter Names"
 msgstr "LoL Beschwörernamen"
 
-msgid "Checker"
+msgid "Three Letter Names"
+msgstr ""
+
+msgid "Four Letter Names"
+msgstr "LoL Beschwörernamen"
+
+msgid "All Available Names"
 msgstr ""
 
 msgid "Lists"
 msgstr "Listen"
 
-msgid "Generator"
+msgid "No active game for %(name)s"
+msgstr ""
+
+msgid "No summoner with name \"%(name)s\" on %(region)s."
+msgstr ""
+
+msgid "LoL Names"
+msgstr "LoL Beschwörernamen"
+
+msgid "Checker"
 msgstr ""
 
 msgid "Highscores"
@@ -25,6 +97,27 @@ msgstr "Bestenliste"
 
 msgid "Tools"
 msgstr "Werkzeuge"
+
+msgid "Lookup Match Details"
+msgstr ""
+
+msgid "Track Name Changes"
+msgstr "Namensänderungen verfolgen"
+
+msgid "Lookup Account ID"
+msgstr "LoL Name nach Konto-ID"
+
+msgid "Search by Account ID"
+msgstr "Suche nach Account ID"
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Summoner Levels"
+msgstr "Beschwörernamen Bestenliste"
+
+msgid "Summoner Icons"
+msgstr "Beschwörernamen"
 
 msgid "FAQ"
 msgstr ""
@@ -137,6 +230,15 @@ msgstr "Dies wird Sonderzeichen zu den Namen hinzufügen und prüfen, ob sie ver
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr "Eine Liste aller Groß- und Kleinbuchstaben, die in den League of Legends Beschwörernamen erlaubt sind und wie englische Buchstaben aussehen."
 
+msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
+msgstr ""
+
+msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
+msgstr ""
+
+msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
+msgstr ""
+
 msgid "Account ID Finder"
 msgstr ""
 
@@ -161,9 +263,6 @@ msgstr "Letztes Spiel: %(date_game)s<br>Zuletzt aktiv: %(date_active)s<br>"
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" ist nicht benutzt!</h4>"
 
-msgid "Search by Account ID"
-msgstr "Suche nach Account ID"
-
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Sehen Sie, welcher Beschwörername zur Konto-ID %(account_id)s gehört!"
 
@@ -185,13 +284,16 @@ msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ist nicht in Besitz!</h4>"
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr ""
 
-msgid "See the %(page_title)s!"
-msgstr ""
+msgid "See the top %(number)s summoner levels in the world!"
+msgstr "Das höchste Beschwörerlevel in League of Legends"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Das höchste Beschwörerlevel in League of Legends"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
+msgstr ""
+
+msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
@@ -296,17 +398,26 @@ msgstr "Winrate/Total"
 msgid "Runes"
 msgstr "Runen"
 
-msgid "Useful League of Legends tools"
-msgstr "Nützliche League of Legends Werkzeuge"
-
-msgid "Summoner Level High Scores"
-msgstr "Beschwörernamen Bestenliste"
-
-msgid "Lookup Active Game Details"
+msgid "Summoner Icon Statistics"
 msgstr ""
 
-msgid "Track Name Changes"
-msgstr "Namensänderungen verfolgen"
+msgid "Icon"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Summoner Level Statistics"
+msgstr "Beschwörernamen Bestenliste"
+
+msgid "Summoner level distribution by region"
+msgstr ""
+
+msgid "Number of Summoners"
+msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "Verfolge League of Legends Namensänderungen!"

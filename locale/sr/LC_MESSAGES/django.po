@@ -1,4 +1,4 @@
-# Copyright (C) 2017 LOLNAMES.GG
+# Copyright (C) 2017-2018 LOLNAMES.GG
 # This file is distributed under the same license as the PACKAGE package.
 #
 #, fuzzy
@@ -8,23 +8,116 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Summoner name..."
+msgstr "Ime"
+
+msgid "Invalid name"
+msgstr ""
+
+msgid "Invalid characters: "
+msgstr ""
+
+msgid "Maximum 16 characters"
+msgstr ""
+
+msgid "Must be two or more characters"
+msgstr ""
+
+msgid "Names can't contain 'riot'"
+msgstr ""
+
+msgid "This is a problem with Riot's servers"
+msgstr ""
+
+msgid "New Account"
+msgstr ""
+
+msgid "Name Change"
+msgstr "Prati promene imena!"
+
+msgid "Generator"
+msgstr "Generator"
+
+msgid "None available for %(name)s, out of %(num_variants)s variants."
+msgstr ""
+
+msgid "Summoner name not in use"
+msgstr "Ime"
+
+msgid "Account ID Lookup"
+msgstr ""
+
+msgid "Account ID"
+msgstr ""
+
+msgid "Lookup name by Account ID"
+msgstr ""
+
+msgid "Invalid Account ID"
+msgstr ""
+
+msgid "Summoner Level High Scores"
+msgstr "Najveći nivoi Summonera"
+
+msgid "All Upcoming Names"
+msgstr ""
+
+msgid "Recently Available Names"
+msgstr ""
+
+msgid "Two Letter Names"
+msgstr "LOL Imena"
+
+msgid "Three Letter Names"
+msgstr ""
+
+msgid "Four Letter Names"
+msgstr "LOL Imena"
+
+msgid "All Available Names"
+msgstr ""
+
+msgid "Lists"
+msgstr "Liste"
+
+msgid "No active game for %(name)s"
+msgstr ""
+
+msgid "No summoner with name \"%(name)s\" on %(region)s."
+msgstr ""
+
 msgid "LoL Names"
 msgstr "LOL Imena"
 
 msgid "Checker"
 msgstr "Provera"
 
-msgid "Lists"
-msgstr "Liste"
-
-msgid "Generator"
-msgstr "Generator"
-
 msgid "Highscores"
 msgstr "Rekordi"
 
 msgid "Tools"
 msgstr "Alatke"
+
+msgid "Lookup Match Details"
+msgstr "Pogledaj detalje trenutnih partija"
+
+msgid "Track Name Changes"
+msgstr "Prati promene imena!"
+
+msgid "Lookup Account ID"
+msgstr ""
+
+msgid "Search by Account ID"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Summoner Levels"
+msgstr "Najveći nivoi Summonera"
+
+msgid "Summoner Icons"
+msgstr "Summoner"
 
 msgid "FAQ"
 msgstr "FAQ"
@@ -137,6 +230,15 @@ msgstr ""
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr ""
 
+msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
+msgstr ""
+
+msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
+msgstr ""
+
+msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
+msgstr ""
+
 msgid "Account ID Finder"
 msgstr ""
 
@@ -161,9 +263,6 @@ msgstr ""
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr ""
 
-msgid "Search by Account ID"
-msgstr ""
-
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr ""
 
@@ -185,13 +284,16 @@ msgstr ""
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr ""
 
-msgid "See the %(page_title)s!"
+msgid "See the top %(number)s summoner levels in the world!"
 msgstr ""
 
 msgid "The top summoner level in League of Legends!"
 msgstr ""
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
+msgstr ""
+
+msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr ""
 
 msgid "Summoner Name"
@@ -296,17 +398,26 @@ msgstr "Stopa pobeda/Ukupno"
 msgid "Runes"
 msgstr "Rune"
 
-msgid "Useful League of Legends tools"
-msgstr "Korisne LOL alatke"
+msgid "Summoner Icon Statistics"
+msgstr ""
 
-msgid "Summoner Level High Scores"
+msgid "Icon"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Summoner Level Statistics"
 msgstr "Najveći nivoi Summonera"
 
-msgid "Lookup Active Game Details"
-msgstr "Pogledaj detalje trenutnih partija"
+msgid "Summoner level distribution by region"
+msgstr ""
 
-msgid "Track Name Changes"
-msgstr "Prati promene imena!"
+msgid "Number of Summoners"
+msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "Prati promene imena u LOLu!"
