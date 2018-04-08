@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2018 LOLNAMES.GG
+# Copyright (C) 2017 LOLNAMES.GG
 # This file is distributed under the same license as the PACKAGE package.
 #
 #, fuzzy
@@ -8,116 +8,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Summoner name..."
-msgstr "Kasutajanimi"
-
-msgid "Invalid name"
-msgstr ""
-
-msgid "Invalid characters: "
-msgstr ""
-
-msgid "Maximum 16 characters"
-msgstr ""
-
-msgid "Must be two or more characters"
-msgstr ""
-
-msgid "Names can't contain 'riot'"
-msgstr ""
-
-msgid "This is a problem with Riot's servers"
-msgstr ""
-
-msgid "New Account"
-msgstr "LoL Nimi Kasutaja ID kaudu"
-
-msgid "Name Change"
-msgstr "Jälgi Nimemuutusi"
-
-msgid "Generator"
-msgstr "Generaator"
-
-msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
-
-msgid "Summoner name not in use"
-msgstr "Kasutajanimi"
-
-msgid "Account ID Lookup"
-msgstr "Kasutaja ID Leidja"
-
-msgid "Account ID"
-msgstr "Kasutaja ID Leidja"
-
-msgid "Lookup name by Account ID"
-msgstr "LoL Nimi Kasutaja ID kaudu"
-
-msgid "Invalid Account ID"
-msgstr "Otsi Kasutaja ID kaudu"
-
-msgid "Summoner Level High Scores"
-msgstr "Kasutajanimede Edetabel"
-
-msgid "All Upcoming Names"
-msgstr ""
-
-msgid "Recently Available Names"
-msgstr ""
-
-msgid "Two Letter Names"
-msgstr "LoL Nimed"
-
-msgid "Three Letter Names"
-msgstr ""
-
-msgid "Four Letter Names"
-msgstr "LoL Nimed"
-
-msgid "All Available Names"
-msgstr ""
-
-msgid "Lists"
-msgstr "Nimekirjad"
-
-msgid "No active game for %(name)s"
-msgstr ""
-
-msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
-
 msgid "LoL Names"
 msgstr "LoL Nimed"
 
 msgid "Checker"
 msgstr "Verifikaator"
 
+msgid "Lists"
+msgstr "Nimekirjad"
+
+msgid "Generator"
+msgstr "Generaator"
+
 msgid "Highscores"
 msgstr "Edetabel"
 
 msgid "Tools"
 msgstr "Tööriistad"
-
-msgid "Lookup Match Details"
-msgstr "Aktiivse Mängu Detailide Otsing"
-
-msgid "Track Name Changes"
-msgstr "Jälgi Nimemuutusi"
-
-msgid "Lookup Account ID"
-msgstr "LoL Kasutaja ID Leidja"
-
-msgid "Search by Account ID"
-msgstr "Otsi Kasutaja ID kaudu"
-
-msgid "Statistics"
-msgstr ""
-
-msgid "Summoner Levels"
-msgstr "Kasutajanimede Edetabel"
-
-msgid "Summoner Icons"
-msgstr "Kasutaja"
 
 msgid "FAQ"
 msgstr "Tihti Küsitud Küsimused"
@@ -230,15 +137,6 @@ msgstr "See lisab erimärgid nimedele ja testib nimede kättesaadavust."
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
 msgstr "Nimekiri kõigist erilistest suur- ja väiketähtedest, mis on League of Legends kasutajanimes lubatud ning näevad välja nagu tavalised tähed."
 
-msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
-
-msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
-
-msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
-
 msgid "Account ID Finder"
 msgstr "Kasutaja ID Leidja"
 
@@ -263,6 +161,9 @@ msgstr "Viimane mäng: %(date_game)s<br>Viimati aktiivne: %(date_active)s<br>"
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" ei ole kasutuses!</h4>"
 
+msgid "Search by Account ID"
+msgstr "Otsi Kasutaja ID kaudu"
+
 msgid "See what summoner name belongs to account ID %(account_id)s!"
 msgstr "Vaata, mis kasutajanimi kuulub kasutaja ID %(account_id)s!"
 
@@ -284,17 +185,14 @@ msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ei ole kasutuses!</h4>"
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
 msgstr "kõrgeim level league of legends, lol max lel mängus, edetabel, lol kõrgeim level, LoL, League of Legends,Nimed,top kasutajalevel, kõrgeim kasutajalevel, kasutaja level,Otsing,LoL Kasutajanimi,edetabel,kasutaja,kasutajaleveli edetabel"
 
-msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Top kasutajalevel League of Legendsis!"
+msgid "See the %(page_title)s!"
+msgstr "Vaata %(page_title)i!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Top kasutajalevel League of Legendsis!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
 msgstr "Jälgi, kellel on kõrgeim kasutajalevel League of Legendsis. Edetabelit saab vaadata ülemaailmselt või regiooni järgi. Vaata kasutajalevelite edetabelit."
-
-msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
 
 msgid "Summoner Name"
 msgstr "Kasutajanimi"
@@ -398,26 +296,17 @@ msgstr "Võiduprotsent/Kõik"
 msgid "Runes"
 msgstr "Ruunid"
 
-msgid "Summoner Icon Statistics"
-msgstr ""
+msgid "Useful League of Legends tools"
+msgstr "Kasulikud League of Legends tööriistad"
 
-msgid "Icon"
-msgstr ""
-
-msgid "Number"
-msgstr ""
-
-msgid "Usage"
-msgstr ""
-
-msgid "Summoner Level Statistics"
+msgid "Summoner Level High Scores"
 msgstr "Kasutajanimede Edetabel"
 
-msgid "Summoner level distribution by region"
-msgstr ""
+msgid "Lookup Active Game Details"
+msgstr "Aktiivse Mängu Detailide Otsing"
 
-msgid "Number of Summoners"
-msgstr ""
+msgid "Track Name Changes"
+msgstr "Jälgi Nimemuutusi"
 
 msgid "Track League of Legends name changes!"
 msgstr "Jälgi League of Legends nime muutusi!"
