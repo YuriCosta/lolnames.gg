@@ -12,22 +12,22 @@ msgid "Summoner name..."
 msgstr "Beschwörernamen"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Nicht zugelassener Name"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Nicht zu gelassenes Zeichen"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maximal 16 Zeichen"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Mindestens Zwei oder mehr Zeichen"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Dein Name darf nicht 'Riot' enthalten"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Es gibt ein Problem mit Riot's Servern"
 
 msgid "New Account"
 msgstr "LoL Name nach Konto-ID"
@@ -36,61 +36,61 @@ msgid "Name Change"
 msgstr "Namensänderungen verfolgen"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Keine verfügbaren Varianten für%(name) aus %(num_variants)s "
 
 msgid "Summoner name not in use"
-msgstr "Beschwörernamen"
+msgstr "Beschwörernamen nicht in Gebrauch"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "Konto ID Suche"
 
 msgid "Account ID"
-msgstr "Suche nach Account ID"
+msgstr "Konto ID"
 
 msgid "Lookup name by Account ID"
 msgstr "LoL Name nach Konto-ID"
 
 msgid "Invalid Account ID"
-msgstr "Suche nach Account ID"
+msgstr "Invalide Konto ID"
 
 msgid "Summoner Level High Scores"
-msgstr "Beschwörernamen Bestenliste"
+msgstr "Beschwörerlevel Bestenliste"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Alle bald wieder verfügbare Namen"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Kürzlich wieder verfügbare Namen"
 
 msgid "Two Letter Names"
-msgstr "LoL Beschwörernamen"
+msgstr "Zwei Zeichen Namen"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Drei Zeichen Namen"
 
 msgid "Four Letter Names"
 msgstr "LoL Beschwörernamen"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Alle verfügbaren Namen"
 
 msgid "Lists"
 msgstr "Listen"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Keine Spiele für %(name) gefunden"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Kein Beschwörer mit dem Namen: \"%(name)s\" in %(region)s."
 
 msgid "LoL Names"
 msgstr "LoL Beschwörernamen"
 
 msgid "Checker"
-msgstr ""
+msgstr "Checker"
 
 msgid "Highscores"
 msgstr "Bestenliste"
@@ -99,7 +99,7 @@ msgid "Tools"
 msgstr "Werkzeuge"
 
 msgid "Lookup Match Details"
-msgstr ""
+msgstr "Zeige Match Details"
 
 msgid "Track Name Changes"
 msgstr "Namensänderungen verfolgen"
@@ -111,16 +111,16 @@ msgid "Search by Account ID"
 msgstr "Suche nach Account ID"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiken"
 
 msgid "Summoner Levels"
-msgstr "Beschwörernamen Bestenliste"
+msgstr "Beschwörerlevel"
 
 msgid "Summoner Icons"
-msgstr "Beschwörernamen"
+msgstr "Beschwörersymbole"
 
 msgid "FAQ"
-msgstr ""
+msgstr "Häufig gestellte Fragen"
 
 msgid "Languages"
 msgstr "Sprachen"
@@ -153,12 +153,11 @@ msgid "Frequently Asked Questions"
 msgstr "Häufig gestellte Fragen"
 
 msgid "How frequently do the lists update?"
-msgstr "Wie häufig aktualisieren die Listen?"
+msgstr "Wie häufig aktualisieren sich die Listen?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr ""
-"Die Listen werden einmal pro Woche aktualisiert. Dies ist, weil es Hunderte "
-"von Tausenden von Anfragen braucht und muss zwischengespeichert werden."
+msgstr "Die Listen werden ca. jede Stunde aktualisiert. Ein kompletter Neuscan erfolgt jede Woche"
+
 
 msgid "Why can't I take a name on a new account?"
 msgstr "Warum kann ich einen Namen nicht auf ein neues Konto übernehmen?"
@@ -177,8 +176,8 @@ msgstr "Was ist, wenn das Konto gesperrt ist?"
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
 msgstr ""
 "Wenn das Konto gesperrt ist, kann es als frei mit einem grünen Hintergrund "
-"angezeigt werden, aber es bleibt unbegrenzt unmöglich, es sei denn, Riot "
-"ändert ihre Politik gegenüber gesperrte Konten."
+"angezeigt werden, aber der Name bleibt nicht verfügbar, es sei denn, Riot "
+"ändert ihre Politik gegenüber gesperrten Konten."
 
 msgid "How can I get a 2 letter name?"
 msgstr "Wie bekomme ich einen 2-Buchstaben-Namen?"
@@ -246,7 +245,7 @@ msgstr ""
 "verfügbar sind."
 
 msgid "LoL Name Generator"
-msgstr ""
+msgstr "LoL Namen Generator"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
 msgstr ""
@@ -271,16 +270,16 @@ msgstr ""
 "Beschwörernamen erlaubt sind und wie englische Buchstaben aussehen."
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
+msgstr "Kleinschreibweise : àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
+msgstr "Großschreibweise: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
+msgstr "Symbole: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Konto ID Sucher"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
 msgstr "Siehe %(name)s's Account ID und Beschwörer ID!"
@@ -289,7 +288,7 @@ msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr "Suchen Sie nach der Kontonummer eines Beschwörers und der Beschwörer-ID."
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "LoL Konto ID Sucher"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
 msgstr ""
@@ -326,28 +325,28 @@ msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(account_id)s\" ist nicht in Besitz!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr ""
+msgstr "höchste level league of legends, lol maximales Level im Spiel, Rekord, lol höchstes level, LoL, League of Legends, Namen, Top Beschwörernamen, höchstes Beschwörerlevel, Beschwörerlevel,Suche, LoL Beschwörernamen,Bestenliste,Beschwörer,Beschwörerlevel Bestenliste"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Das höchste Beschwörerlevel in League of Legends"
+msgstr "Das höchste Beschwörerlevel auf der Welt"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Das höchste Beschwörerlevel in League of Legends"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Verfolge wer das höchste Beschwörerlevel in League of Legends hat. Die Rekorde können weltweit oder sortiert nach Region dargestellt werden. Schau dir die Beschwörerlevel Bestenliste an."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Updates brauchen ein maximum von 10 Minuten um zu erscheinen. Guck dir die <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\"> Liste der bald wieder Verfügbaren Namen an</a>. "
 
 msgid "Summoner Name"
 msgstr "Beschwörernamen"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 msgid "Recheck"
 msgstr "Überprüfen Sie"
@@ -364,7 +363,7 @@ msgstr ""
 "generierte Listen und beliebte Suchvorgänge."
 
 msgid "LoL Name Checker"
-msgstr ""
+msgstr "LoL Namen Überprüfer"
 
 msgid "Finding a good username is hard, we make it easy! LoL Names GG provides a League of Legends name checker, a database of generated already available names and a list of upcoming names based off previous searches. LoL Names GG is the perfect place to get the best League of Legends summoner name. For example, view our list of three letter names or type in your dream League of Legends name and we'll let you know when it's available!"
 msgstr ""
@@ -441,7 +440,7 @@ msgid "New accounts or name change"
 msgstr "Neue Konten oder Namensänderung"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Aktives Spiel nachschauen"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr ""
@@ -452,7 +451,7 @@ msgid "Summoner"
 msgstr "Beschwörernamen"
 
 msgid "Champion"
-msgstr ""
+msgstr "Champion"
 
 msgid "Spells"
 msgstr "Zauber"
@@ -467,26 +466,25 @@ msgid "Runes"
 msgstr "Runen"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Beschwörersymbol Statistiken"
 
 msgid "Icon"
-msgstr ""
+msgstr "Symbol"
 
 msgid "Number"
-msgstr ""
+msgstr "Nummer"
 
 msgid "Usage"
-msgstr ""
+msgstr "Benutzung"
 
 msgid "Summoner Level Statistics"
-msgstr "Beschwörernamen Bestenliste"
+msgstr "Beschwörerlevel Bestenliste"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Beschwörerlevel zugehörigkeit nach Regionen"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Anzahl der Beschwörer"
 
 msgid "Track League of Legends name changes!"
 msgstr "Verfolge League of Legends Namensänderungen!"
-
