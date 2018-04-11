@@ -30,7 +30,7 @@ Click the link to the text file with the translations
 | nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | 0.00% |
 | pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | 80.43% |
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | 81.88% |
-| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | 0.00% |
+| ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | 100.00% |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | 57.97% |
 | sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | 49.28% |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | 82.61% |
@@ -74,3 +74,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Turkish - Beta
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
+  * Romanian - Teodor Libita
