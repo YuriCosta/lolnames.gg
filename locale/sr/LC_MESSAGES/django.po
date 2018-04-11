@@ -260,6 +260,15 @@ msgstr "Traži"
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr ""
 
+msgid "Click and bookmark to track"
+msgstr ""
+
+msgid "Summoner ID"
+msgstr "Summoner"
+
+msgid "Level"
+msgstr "Nivo"
+
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr ""
 
@@ -301,9 +310,6 @@ msgstr "Ime"
 
 msgid "Region"
 msgstr "Region"
-
-msgid "Level"
-msgstr "Nivo"
 
 msgid "Recheck"
 msgstr "Proveri opet"
@@ -421,4 +427,3 @@ msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "Prati promene imena u LOLu!"
-

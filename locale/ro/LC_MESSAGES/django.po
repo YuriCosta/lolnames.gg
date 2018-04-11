@@ -260,6 +260,15 @@ msgstr "Cauta"
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Ultimul joc: %(date_game)s<br> Activ acum: %(date_active)s<br>  "
 
+msgid "Click and bookmark to track"
+msgstr ""
+
+msgid "Summoner ID"
+msgstr "Summoner"
+
+msgid "Level"
+msgstr "Nivelul"
+
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" nu este folosit!</h4>"
 
@@ -285,7 +294,7 @@ msgid "highest level league of legends,lol max level in game,high score,lol high
 msgstr ""
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Vezi topul %(number) cu cele mai mari nivele din lume "
+msgstr "Vezi topul %(number)s cu cele mai mari nivele din lume "
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Cel mai mare level din League Of Legends"
@@ -301,9 +310,6 @@ msgstr "Nume de summoner"
 
 msgid "Region"
 msgstr "Regiunea"
-
-msgid "Level"
-msgstr "Nivelul"
 
 msgid "Recheck"
 msgstr "Reverificare"

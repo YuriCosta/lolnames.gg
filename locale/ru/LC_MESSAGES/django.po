@@ -260,6 +260,15 @@ msgstr ""
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr ""
 
+msgid "Click and bookmark to track"
+msgstr ""
+
+msgid "Summoner ID"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr ""
 
@@ -300,9 +309,6 @@ msgid "Summoner Name"
 msgstr ""
 
 msgid "Region"
-msgstr ""
-
-msgid "Level"
 msgstr ""
 
 msgid "Recheck"
@@ -421,4 +427,3 @@ msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "Часто задаваемые вопросы о правилах смены имен членов Лиги Легенд."
-

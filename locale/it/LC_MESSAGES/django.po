@@ -260,6 +260,15 @@ msgstr "Cerca"
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Ultima partita: %(date_game)s<br>Ultimo accesso: %(date_active)s<br>"
 
+msgid "Click and bookmark to track"
+msgstr ""
+
+msgid "Summoner ID"
+msgstr "Evocatore"
+
+msgid "Level"
+msgstr "Livello"
+
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
 msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" non è in uso!</h4>"
 
@@ -301,9 +310,6 @@ msgstr "Nome Evocatore"
 
 msgid "Region"
 msgstr "Regione"
-
-msgid "Level"
-msgstr "Livello"
 
 msgid "Recheck"
 msgstr "Verifica di nuovo"
@@ -421,5 +427,3 @@ msgstr ""
 
 msgid "Track League of Legends name changes!"
 msgstr "Tieni traccia dei cambi nome di League of Legends!"
-
-
