@@ -342,7 +342,7 @@ msgid "Add to Calendar"
 msgstr "Dodaj u kalendar"
 
 msgid "<h4 class=\"text-center\">%(name)s is probably available!</h4>"
-msgstr "<h4 class=\"text-center\">%(name) je verovatno dostupno!</h4>"
+msgstr "<h4 class=\"text-center\">%(name)s je verovatno dostupno!</h4>"
 
 msgid "If this name can't be taken now the account is almost certainly banned and the name will never expire."
 msgstr "Ako ne možete promeniti u ovo ime nalog je verovatno banovan i ime nikad neće biti dostupno"
@@ -351,7 +351,7 @@ msgid "Add Special Characters"
 msgstr "Dodaj kvačice na slova"
 
 msgid "<h4 class=\"text-center\">%(summoner_name)s is available!</h4> This name currently isn't used.<br> It is available for new accounts."
-msgstr "<h4 class=\"text-center\">%(summoner_name) je slobodno!</h4> Ovo ime se ne koristi.<br> Dostupno je ya nove naloge."
+msgstr "<h4 class=\"text-center\">%(summoner_name)s je slobodno!</h4> Ovo ime se ne koristi.<br> Dostupno je ya nove naloge."
 
 msgid "Lists of all the best summoner names!"
 msgstr "Liste najboljih imena"
@@ -363,7 +363,7 @@ msgid "Regularly updated, curated lists of the best currently available League o
 msgstr "Regularno ažurirane liste najboljih trenutno dostupnih LOL imena. Vučiću pederu"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr "POgledaj listu %(page_title) i kad će biti dostupni!"
+msgstr "POgledaj listu %(page_title)s i kad će biti dostupni!"
 
 msgid "Name"
 msgstr "Ime"
