@@ -65,7 +65,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * English - [LoLNamesGG](https://twitter.com/LoLNamesGG)
   * Portuguese - Anonymous
   * Italian - [OmegaDestroyer67](https://www.reddit.com/user/OmegaDestroyer67)
-  * French - [roisorcier](https://www.reddit.com/user/roisorcier)
+  * French - [roisorcier](https://www.reddit.com/user/roisorcier), [GABIG4B1](https://www.reddit.com/user/GABIG4B1)
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu)
   * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
