@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)s este disponibil!</h4> Last game: %(da
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)s va fi disponibil in %(days)s zile.</h4> Ultimul joc: %(date_last)s<br> Va dura %(months)s luni pentru a deveni disponibil<br> Data la care a devenit disponibil: (if inactive): %(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr "Adauga la calendar"
 

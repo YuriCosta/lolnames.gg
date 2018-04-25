@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)s ist verfügbar!</h4>Letztes Spiel: %(
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)s ist in %(days)s Tagen erhältlich.</h4>Letztes Spiel: %(date_last)s<br>Es dauert %(months)s Monate für die Reinigung<br>Aufräumdatum (wenn inaktiv): %(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr "Zum Kalendar hinzufügen"
 

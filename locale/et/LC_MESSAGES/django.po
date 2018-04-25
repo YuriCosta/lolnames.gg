@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)s on vaba!</h4> Viimane mäng: %(date_l
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)s on vaba %(days)s päeva pärast.</h4> Viimane mäng: %(date_last)s<br> Vabanemiseks läheb %(months)s kuud<br> Vabanemisaeg (kui mitteaktiivne): %(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr "Lisa kalendrisse"
 

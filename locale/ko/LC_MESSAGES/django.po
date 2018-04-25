@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)s을 사용할 수 있습니다!</h4>�
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)s은 %(days)s 일 동안 사용할 수 있습니다.</h4>마지막 경기 : %(date_last)s<br>정리에 %(months)s 개월이 걸립니다.<br>정리 날짜 (비활성 상태 인 경우) : %(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr ""
 

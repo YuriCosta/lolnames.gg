@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)sが利用可能です！</h4>前回の
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)sは%(days)s日後に入手可能です。</h4>前回の試合：%(date_last)s<br>クリーンアップには%(months)sヶ月かかります<br>クリーンアップの日付（非アクティブの場合）：%(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr ""
 

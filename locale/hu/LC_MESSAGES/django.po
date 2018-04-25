@@ -338,6 +338,9 @@ msgstr "<h4 class=\"text-center\">%(name)s elérhető!</h4> Utolsó meccs: %(dat
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr "<h4 class=\"text-center\">%(name)s elérhető lesz %(days)s napon belül.</h4> Utolsó meccs: %(date_last)s<br> %(months)s hónap kell, hogy elérhető legyen<br> Ha inaktív marad, akkor elérhető lesz: %(date_expire)s<br>"
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr "Naptárba"
 

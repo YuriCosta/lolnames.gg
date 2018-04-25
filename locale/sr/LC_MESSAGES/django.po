@@ -338,6 +338,9 @@ msgstr ""
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
 msgstr ""
 
+msgid "Current level:"
+msgstr ""
+
 msgid "Add to Calendar"
 msgstr "Dodaj u kalendar"
 
