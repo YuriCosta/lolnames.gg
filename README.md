@@ -75,4 +75,4 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
   * German - [fvcxy](https://www.reddit.com/user/fvcxy)
   * Romanian - [AngelJimi](https://www.youtube.com/channel/UC6Qfp0zLBK03eYPnXRL2Gug)
-  * Ducth - Stefan Schrauwen
+  * Dutch - Stefan Schrauwen
