@@ -29,10 +29,10 @@ Click the link to the text file with the translations
 | nl | [Dutch](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nl/LC_MESSAGES/django.po) | 100.00% |
 | nn | [Norwegian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/nn/LC_MESSAGES/django.po) | 0.00% |
 | pl | [Polish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pl/LC_MESSAGES/django.po) | 79.43% |
-| pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | 80.14% |
+| pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | 99.29% |
 | ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | 97.16% |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | 56.74% |
-| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | 48.94% |
+| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | 78.01% |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | 81.56% |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | 0.00% |
 | tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | 0.00% |
