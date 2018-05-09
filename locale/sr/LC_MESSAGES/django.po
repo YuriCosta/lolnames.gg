@@ -12,28 +12,28 @@ msgid "Summoner name..."
 msgstr "Ime"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Neprikladno ime"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Neprikladna slova/karakteri"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Najvise 16 karaktera"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Mora biti 2 ili vise karaktera"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Imena ne smeju sadrzati 'Riot'"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Ovo je problem sa Riotovim serverima"
 
 msgid "New Account"
-msgstr ""
+msgstr "Novi nalog"
 
 msgid "Name Change"
-msgstr "Prati promene imena!"
+msgstr "Promena imena!"
 
 msgid "Generator"
 msgstr "Generator"
@@ -45,46 +45,46 @@ msgid "Summoner name not in use"
 msgstr "Ime"
 
 msgid "Account ID Lookup"
-msgstr ""
+msgstr "Pretrage ID naloga"
 
 msgid "Account ID"
-msgstr ""
+msgstr "ID naloga"
 
 msgid "Lookup name by Account ID"
-msgstr ""
+msgstr "Pretrazi ime po IDu naloga"
 
 msgid "Invalid Account ID"
-msgstr ""
+msgstr "Neprikladan ID naloga"
 
 msgid "Summoner Level High Scores"
 msgstr "Najveći nivoi Summonera"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Sva uskoro dostupna imena"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Nedavno dostupna imena"
 
 msgid "Two Letter Names"
-msgstr "LOL Imena"
+msgstr "Im2 slova"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "3 slova"
 
 msgid "Four Letter Names"
 msgstr "LOL Imena"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Sva dostupna imena"
 
 msgid "Lists"
 msgstr "Liste"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Nema igre u toku za %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Ne postoji osoba s imenom \"%(name)s\" na regionu %(region)s "
 
 msgid "LoL Names"
 msgstr "LOL Imena"
@@ -105,13 +105,13 @@ msgid "Track Name Changes"
 msgstr "Prati promene imena!"
 
 msgid "Lookup Account ID"
-msgstr ""
+msgstr "Trazi ID naloga"
 
 msgid "Search by Account ID"
-msgstr ""
+msgstr "Trazi po IDu naloga"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 msgid "Summoner Levels"
 msgstr "Najveći nivoi Summonera"
@@ -126,7 +126,7 @@ msgid "Languages"
 msgstr "Jezici"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr ""
+msgstr "LoL,League of Legends,Imena,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
 
 msgid "Frequently Asked Questions about summoner names"
 msgstr "Nedavno postavljana pitanja za imena"
@@ -150,16 +150,16 @@ msgid "The lists will update about once every hour. A full rescan is done every 
 msgstr "Liste se ažuriraju svakih sat vremena. Potpun apdejt je jednom  nedeljno."
 
 msgid "Why can't I take a name on a new account?"
-msgstr ""
+msgstr "Zasto ne mogu uzeti ime na novom nalogu?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
-msgstr ""
+msgstr "Ako je ime vec uzeto mozes ga samo preuzeti promenom imena na vec postojecem nalogu. Ova imena su prikazana zelenom bojom. Ako ime nije zauzeto trenutno, mozes ga uzeti na novom nalogu. Ova imena su prikazana plavom bojom."
 
 msgid "What if the account is banned?"
-msgstr "šta ako je nalog banovan"
+msgstr "šta ako je nalog banovan?"
 
 msgid "If the account is banned it may be shown as being free with a green background, however it will remain unavailible indefinitely unless Riot changes their policy on banned accounts."
-msgstr ""
+msgstr "Ako je nalog banovan mozda ce biti prikazano da je slobodno sa zelenom pozadinom, ali je nemoguce uzeti to ime zauvek, osim ako Riot ne promeni politiku za banovane naloge"
 
 msgid "How can I get a 2 letter name?"
 msgstr "Kako da napravim ime od 2 slova?"
@@ -168,25 +168,25 @@ msgid "The minimum characters for a League of Legends name are 3. Put a space in
 msgstr "Staviš razmak između! Npr. \"GG\" = \"G G\""
 
 msgid "What timezone is used?"
-msgstr ""
+msgstr "Koja vremenska zona se koristi?"
 
 msgid "All timezones are in UTC. Use this <a href=\"https://www.timeanddate.com/worldclock/converter.html?iso=20170502T220000&p1=1440\" target=\"_blank\" rel=\"noopener\">timezone converter</a> to adjust them to your local time."
-msgstr ""
+msgstr "Sve zone su UTC"
 
 msgid "When exactly will the name become available?"
-msgstr ""
+msgstr "Kad ce tacno ime biti dostupno?"
 
 msgid "Normally names are cleaned up at midnight UTC. However, in some cases I've found it has taken 48 hours. Check every few hours on the day it is listed."
-msgstr ""
+msgstr "Obicno se imena ciste 00:00 UTC. Nekad moze potrajati i do 48 sati."
 
 msgid "Can you remove a name from a list for me?"
-msgstr ""
+msgstr "Mozete li skloniti ime iz liste za mene?"
 
 msgid "No. All the names are automatically scanned."
 msgstr "Ne. Sva imena su automatski skenirana"
 
 msgid "Where should I report an incorrect translation?"
-msgstr ""
+msgstr "Gde da prijavim los prevod?"
 
 msgid "Contact me here."
 msgstr "Kontaktiraj me ovde"
@@ -195,28 +195,28 @@ msgid "Where should I report a bug?"
 msgstr "Gde da prijavim grešku?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
-msgstr ""
+msgstr "Zasto nisu imena heroja pre Xayah i Rakan-a dostupna?"
 
 msgid "Riot has said they will no longer reserve names of new champions."
-msgstr ""
+msgstr "Riot kaze da nece vise rezervisati imena novih heroja"
 
 msgid "However they banned the accounts of the old names so they will never expire."
-msgstr ""
+msgstr "Ipak banovali su naloge starih imena pa nikad nece isteci"
 
 msgid "Disclaimer"
 msgstr "Upozorenje"
 
 msgid "Add special characters to '%(name)s' and see which are available!"
-msgstr ""
+msgstr "Dodaj specijalne karaktere na '%(name)s' da vidis koji su slobodni"
 
 msgid "The best League of Legends name generator! Use it to add special characters to any name and show which are available."
-msgstr ""
+msgstr "Najbolji LOL Generator! Koristi ga da dodas specijalne karaktere da vidis koje ime je slobodno"
 
 msgid "LoL Name Generator"
 msgstr "LoL generator imena"
 
 msgid "The best League of Legends summoner name generator. The generator will automatically add special characters to League of Legends names and check to see whether they're free."
-msgstr ""
+msgstr "Najbolji LOL generator imena. Ovaj generator ce automatski dodati specijalne karaktere u LOL imena i proveriti da li su takva dostupna"
 
 msgid "Go"
 msgstr "Kreni"
@@ -225,19 +225,19 @@ msgid "ERROR:"
 msgstr "Greška"
 
 msgid "This will add special characters to names and check to see if they're available."
-msgstr ""
+msgstr "Ovo ce dodati speciajlne karaktere u imena i proveriti njihovu dostupnost"
 
 msgid "A list of all uppercase and lowercase special characters that are allowed in League of Legends summoner names and look like english letters."
-msgstr ""
+msgstr "Lista malih i velikih karaktera koji su dozvoljeni u LOL imenima i izgledaju kao normalna slova"
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
+msgstr "Mala: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
+msgstr "Velika: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
+msgstr "Simboli: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
 msgstr ""
