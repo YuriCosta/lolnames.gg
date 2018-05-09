@@ -12,37 +12,37 @@ msgid "Summoner name..."
 msgstr "Nome de Invocador"
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Nome Inválido"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Caracteres Inválidos"
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Máximo 16 caracteres"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "É obrigatório ter 2 ou mais caracteres "
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Nomes não podem conter riot"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "Isso é um problema com os servidores da Riot"
 
 msgid "New Account"
-msgstr "LoL Nome pelo ID da conta"
+msgstr "Nova Conta"
 
 msgid "Name Change"
-msgstr "Siga Mudanças de nomes"
+msgstr "Mudança de nome"
 
 msgid "Generator"
 msgstr "Gerador"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Nenhum disponível "
 
 msgid "Summoner name not in use"
-msgstr "Nome de Invocador"
+msgstr "Nome de Invocador não está em uso "
 
 msgid "Account ID Lookup"
 msgstr "Finder ID de conta"
@@ -54,37 +54,37 @@ msgid "Lookup name by Account ID"
 msgstr "LoL Nome pelo ID da conta"
 
 msgid "Invalid Account ID"
-msgstr "Pesquisa por identificação da conta"
+msgstr "Identificação de conta invalida"
 
 msgid "Summoner Level High Scores"
 msgstr "Melhores pontuações de Invocador"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Todos os nomes que estão por vir"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Nomes recentemente disponíveis"
 
 msgid "Two Letter Names"
-msgstr "LoL Nomes"
+msgstr "Nomes de duas letras"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "Nomes de três letras"
 
 msgid "Four Letter Names"
-msgstr "LoL Nomes"
+msgstr "Nomes de quatro letras"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Todos os nomes disponíveis"
 
 msgid "Lists"
 msgstr "Listas"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Jogo não ativo para %(nome)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Sem invocador com o nome"
 
 msgid "LoL Names"
 msgstr "LoL Nomes"
@@ -111,13 +111,13 @@ msgid "Search by Account ID"
 msgstr "Pesquisa por identificação da conta"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 msgid "Summoner Levels"
 msgstr "Melhores pontuações de Invocador"
 
 msgid "Summoner Icons"
-msgstr "Invocador"
+msgstr "Icones de Invocador"
 
 msgid "FAQ"
 msgstr "FAQ"
@@ -147,10 +147,10 @@ msgid "How frequently do the lists update?"
 msgstr "Com que frequência as listas são atualizadas?"
 
 msgid "The lists will update about once every hour. A full rescan is done every week."
-msgstr "As listas são atualizadas a cada uma hora. Um escaneamento é feito toda semana ."
+msgstr "As listas são atualizadas a cada uma hora. Um rescaneamento completo é feito toda semana ."
 
 msgid "Why can't I take a name on a new account?"
-msgstr "Por que não posso colar um nome em uma nova conta?"
+msgstr "Por que não posso pegar um nome em uma nova conta?"
 
 msgid "If a name is already taken by an account you can only obtain it via a name change. These names are shown with a green background. If a name isn't taken by a current user you can take it on a brand new account. These names are shown with a blue background."
 msgstr "Se o nome já foi obtido por uma conta, você só pode obter ele via troca de nick. Esses nomes são mostrados em um fundo verde. Se um nome ainda não foi usado por um usuário, você pode pegar em uma conta nova, esses nomes são mostrados em um fundo azul"
@@ -231,13 +231,13 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Uma lista de todos os caracteres especiais maiúsculas e minúsculas que são permitidos nos nomes dos invocadores League of Legends e se parecem com letras inglesas."
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
+msgstr "	Minúsculo"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
+msgstr "Maiúsculo"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
+msgstr "Símbolos"
 
 msgid "Account ID Finder"
 msgstr "Finder ID de conta"
@@ -261,7 +261,7 @@ msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Último jogo: %(date_game)s<br>Último ativo: %(date_active)s<br>"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Clique e marque para tracejar"
 
 msgid "Summoner ID"
 msgstr "Invocador"
@@ -303,7 +303,7 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Acompanhe quem tem o melhor nível na League of Legends. As altas pontuações podem ser mostradas em todo o mundo ou ordenadas por região. Veja as tabelas de classificação do nível invocador."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Atualizações levarão no máximo 10 minutos para aparecer. Cheque aqui <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listas de nomes prestes a expirar.</a>."
 
 msgid "Summoner Name"
 msgstr "Nome de Invocador"
@@ -339,7 +339,7 @@ msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> La
 msgstr "<h4 class=\"text-center\">%(name)s está disponível em %(days)s dias.</h4>Último jogo: %(date_last)s<br>Demora %(months)s meses para limpeza<br>Data de limpeza (se inativo): %(date_expire)s<br>"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Nível atual"
 
 msgid "Add to Calendar"
 msgstr "Adicionar ao Calendário"
@@ -372,7 +372,7 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Type"
-msgstr "Atração"
+msgstr "Tipo"
 
 msgid "Availability (days)"
 msgstr "Disponibilidade (dias)"
@@ -408,25 +408,25 @@ msgid "Runes"
 msgstr "Runas"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Estastísticas de invocador"
 
 msgid "Icon"
-msgstr ""
+msgstr "Ícone"
 
 msgid "Number"
-msgstr ""
+msgstr "Número"
 
 msgid "Usage"
-msgstr ""
+msgstr "Uso"
 
 msgid "Summoner Level Statistics"
 msgstr "Melhores pontuações de Invocador"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Nível de invocador distribuido por região"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Número de Invocador"
 
 msgid "Track League of Legends name changes!"
-msgstr ""
+msgstr "Traceje mudanças de nomes no league of legends"
