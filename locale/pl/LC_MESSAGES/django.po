@@ -9,82 +9,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Summoner name..."
-msgstr "Nazwa przywoływacza"
+msgstr "Nazwa przywoływacza..."
 
 msgid "Invalid name"
-msgstr ""
+msgstr "Nieprawidłowa nazwa"
 
 msgid "Invalid characters: "
-msgstr ""
+msgstr "Nieprawidłowe znaki: "
 
 msgid "Maximum 16 characters"
-msgstr ""
+msgstr "Maksymalnie 16 znaków"
 
 msgid "Must be two or more characters"
-msgstr ""
+msgstr "Musi być dwa lub więcej znaki"
 
 msgid "Names can't contain 'riot'"
-msgstr ""
+msgstr "Nazwy nie mogą zawierać 'riot'"
 
 msgid "This is a problem with Riot's servers"
-msgstr ""
+msgstr "To jest problem z serwerami Riot"
 
 msgid "New Account"
-msgstr "Nazwa LoL według ID konta"
+msgstr "Nowe konto"
 
 msgid "Name Change"
-msgstr "Śledzenie zmian nazw"
+msgstr "Zmiana Nazwy"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Żadne dostępne dla %(name)s, spoza %(num_variants)s wariantów."
 
 msgid "Summoner name not in use"
-msgstr "Nazwa przywoływacza"
+msgstr "Nazwa przywoływacza nie jest używana"
 
 msgid "Account ID Lookup"
 msgstr "Wyszukiwarka ID konta"
 
 msgid "Account ID"
-msgstr "Wyszukiwarka ID konta"
+msgstr "ID konta"
 
 msgid "Lookup name by Account ID"
 msgstr "Nazwa LoL według ID konta"
 
 msgid "Invalid Account ID"
-msgstr "Wyszukaj według ID konta"
+msgstr "Nieprawidłowe ID Konta"
 
 msgid "Summoner Level High Scores"
 msgstr "Ranking poziomów przywoływacza"
 
 msgid "All Upcoming Names"
-msgstr ""
+msgstr "Wszystkie Nadchodzące Nazwy"
 
 msgid "Recently Available Names"
-msgstr ""
+msgstr "Ostatnio Dostępne Nazwy"
 
 msgid "Two Letter Names"
-msgstr "LoL Nazwy"
+msgstr "2-literowe Nazwy"
 
 msgid "Three Letter Names"
-msgstr ""
+msgstr "3-literowe Nazwy"
 
 msgid "Four Letter Names"
-msgstr "LoL Nazwy"
+msgstr "4-literowe Nazwy"
 
 msgid "All Available Names"
-msgstr ""
+msgstr "Wszystkie dostępne Nazwy"
 
 msgid "Lists"
 msgstr "Listy"
 
 msgid "No active game for %(name)s"
-msgstr ""
+msgstr "Brak aktywnej gry dla %(name)s"
 
 msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr ""
+msgstr "Brak nazwy przywoływacza z nazwą \"%(name)s\" na %(region)s"
 
 msgid "LoL Names"
 msgstr "LoL Nazwy"
@@ -99,7 +99,7 @@ msgid "Tools"
 msgstr "Przybory"
 
 msgid "Lookup Match Details"
-msgstr "Wyszukiwanie aktywnych szczegółów gry"
+msgstr "Wyszukiwanie szczegółów gry"
 
 msgid "Track Name Changes"
 msgstr "Śledzenie zmian nazw"
@@ -111,7 +111,7 @@ msgid "Search by Account ID"
 msgstr "Wyszukaj według ID konta"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statystyki"
 
 msgid "Summoner Levels"
 msgstr "Ranking poziomów przywoływacza"
@@ -120,7 +120,7 @@ msgid "Summoner Icons"
 msgstr "Przywoływacz"
 
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgid "Languages"
 msgstr "Języki"
@@ -231,13 +231,13 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Lista wszystkich wielkich i małych liter specjalnych, które są dozwolone w nazwach przywoływaczy League of Legends i wyglądają jak angielskie litery."
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr ""
+msgstr "Mała litera: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr ""
+msgstr "Wielka litera: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr ""
+msgstr "Symbole: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
 msgstr "Wyszukiwarka ID konta"
@@ -261,10 +261,10 @@ msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Ostatnia gra: %(date_game)s<br>Ostatnia aktywność: %(date_active)s<br>"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Kliknij i dodaj zakładkę, by śledzić"
 
 msgid "Summoner ID"
-msgstr "Przywoływacz"
+msgstr "ID przywoływacza"
 
 msgid "Level"
 msgstr "Poziom"
@@ -294,7 +294,7 @@ msgid "highest level league of legends,lol max level in game,high score,lol high
 msgstr "najwyższy poziom league of legends,lol maksymalny poziom w grze,rekord,lol najwyższy poziom,LoL,League of Legends,Nazwy,najwyższy poziom przywoływacza,poziom przywoływacza,Szukaj,LoL nazwa Przywoływacza,tablica wyników,Przywoływacz,tablica wyników poziomu przywoływacza"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "Najwyższy poziom przywoływacza w League of Legends!"
+msgstr "Zobacz najwyższe %(number)s poziomów na świecie!"
 
 msgid "The top summoner level in League of Legends!"
 msgstr "Najwyższy poziom przywoływacza w League of Legends!"
@@ -303,13 +303,13 @@ msgid "Track who has the highest summoner level in League of Legends. The high s
 msgstr "Śledź, kto ma najwyższy poziom przywoływacza w League of Legends. Najlepsze wyniki można pokazać jako ogólnoświatowe lub posortowane według regionu. Zobacz tabelę liderów poziomu przywoływacza."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Aktualizacje zajmą maksymalnie 10 min, by się pojawić. Sprawdź listy nadchodzących wygasających nazw: <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> lub <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">"
 
 msgid "Summoner Name"
 msgstr "Nazwa przywoływacza"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Recheck"
 msgstr "Sprawdź ponownie"
@@ -339,7 +339,7 @@ msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> La
 msgstr "<h4 class=\"text-center\">%(name)s będzie dostępna za %(days)s dni.</h4> Ostatnia gra: %(date_last)s<br> Zajmie to %(months)s miesięcy na czyszczenie<br> Data czyszczenia (jeśli nieaktywne): %(date_expire)s<br>"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Aktualny poziom:"
 
 msgid "Add to Calendar"
 msgstr "Dodaj do kalendarza"
@@ -408,25 +408,25 @@ msgid "Runes"
 msgstr "Runy"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Statystyki Ikon Przywoływacza"
 
 msgid "Icon"
-msgstr ""
+msgstr "Ikona"
 
 msgid "Number"
-msgstr ""
+msgstr "Numer"
 
 msgid "Usage"
-msgstr ""
+msgstr "Użycie"
 
 msgid "Summoner Level Statistics"
 msgstr "Ranking poziomów przywoływacza"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Rozmieszczenie poziomów przywoływacza"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Liczba Przywoływaczy"
 
 msgid "Track League of Legends name changes!"
 msgstr "Śledź zmiany nazw League of Legends!"
