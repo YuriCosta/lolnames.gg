@@ -249,19 +249,19 @@ msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr ""
 
 msgid "LoL Account ID Finder"
-msgstr ""
+msgstr "Pretraga ID-a naloga"
 
 msgid "Enter a summoner name and find their account ID. If they name change the account ID will remain the same."
-msgstr ""
+msgstr "Ukucaj ime summonera da vidis njihov ID naloga"
 
 msgid "Search"
 msgstr "Traži"
 
 msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
-msgstr ""
+msgstr "Poslednji gejm: %(date_game)s<br>Poslednji put aktivan: %(date_active)s<br>"
 
 msgid "Click and bookmark to track"
-msgstr ""
+msgstr "Klikni na bookmark da pratis"
 
 msgid "Summoner ID"
 msgstr "Summoner"
@@ -270,40 +270,40 @@ msgid "Level"
 msgstr "Nivo"
 
 msgid "<h4 class=\"text-center\">\"%(summoner_name)s\" is not in use!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(summoner_name)s\" se ne koristi!</h4>"
 
 msgid "See what summoner name belongs to account ID %(account_id)s!"
-msgstr ""
+msgstr "Pogledaj koje Summoner ime pripada account ID %(account_id)!"
 
 msgid "Search for a summoner name using an account ID."
-msgstr ""
+msgstr "Trazi ime koristeci ID Naloga"
 
 msgid "LoL Name by Account ID"
-msgstr ""
+msgstr "LoL ime po ID-u naloga"
 
 msgid "Look up a username using an account ID. Enter a summoner's account ID and find their username."
-msgstr ""
+msgstr "Trazi username koristeci ID naloga"
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
 msgstr ""
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" nije zauzeto!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr ""
+msgstr "Najveci nivo league of legends, lol max level u gejmu, high score, lol highest level, LOL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level tabela"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr ""
+msgstr "Pogledaj najvecih %(number) nivoa na svetu!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr ""
+msgstr "Najveci Level u LoLu "
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr ""
+msgstr "Prati ko ima najveci nivo u LoL-u. Visoki skorovi ce biti prikazani na svetskom nivou ili sortirano prema regionu. Pogledaj listu najvecih nivoa"
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
-msgstr ""
+msgstr "Potrebno je oko 10 minuta da se sajt osvezi. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 
 msgid "Summoner Name"
 msgstr "Ime"
@@ -321,7 +321,7 @@ msgid "See when the summoner name %(name)s is available!"
 msgstr "Pogledaj kada je ime slobodno!"
 
 msgid "The best League of Legends names. Inactive name checker, generated lists and popular searches."
-msgstr ""
+msgstr "Najbolja LOL imena. Provera neaktivnih imena, napravljene liste i popularne pretrage."
 
 msgid "LoL Name Checker"
 msgstr "LOL Provera imena"
@@ -333,13 +333,13 @@ msgid "Use this website to find when a summoner name will expire."
 msgstr "Koristi ovaj sajt da saznaš kad će ime da bude dostpuno"
 
 msgid "<h4 class=\"text-center\">%(name)s is available!</h4> Last game: %(date_last)s<br> It took %(months)s months for cleanup<br> Cleanup date was: %(date_expire)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name) je slobodno!</h4> Poslednja partija: %(date_last)s<br> Trebalo je %(months) meseci za ciscenje <br> Ime ocisceno %(date_expire)s"
 
 msgid "<h4 class=\"text-center\">%(name)s is available in %(days)s days.</h4> Last game: %(date_last)s<br> It takes %(months)s months for cleanup<br> Cleanup date (if inactive): %(date_expire)s<br>"
-msgstr ""
+msgstr "<h4 class=\"text-center\">%(name) je slobodno za %(days)s days.</h4> poslednji gejm: %(date_last)s<br> Treba %(months) meseci za oslobodjenje <br> Datum oslobodjenja (u slucaju neaktivnosti): %(date_expire)s<br>"
 
 msgid "Current level:"
-msgstr ""
+msgstr "Trenutni nivo"
 
 msgid "Add to Calendar"
 msgstr "Dodaj u kalendar"
@@ -384,7 +384,7 @@ msgid "New accounts or name change"
 msgstr "Novi nalog ili promena imena"
 
 msgid "Active Match Lookup"
-msgstr ""
+msgstr "Pregled meca uzivo"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
 msgstr "Ovu stranicu"
@@ -408,25 +408,25 @@ msgid "Runes"
 msgstr "Rune"
 
 msgid "Summoner Icon Statistics"
-msgstr ""
+msgstr "Statistike ikone"
 
 msgid "Icon"
-msgstr ""
+msgstr "Ikona"
 
 msgid "Number"
-msgstr ""
+msgstr "Broj"
 
 msgid "Usage"
-msgstr ""
+msgstr "Koriscenje"
 
 msgid "Summoner Level Statistics"
 msgstr "Najveći nivoi Summonera"
 
 msgid "Summoner level distribution by region"
-msgstr ""
+msgstr "Nivo summonera po regionu"
 
 msgid "Number of Summoners"
-msgstr ""
+msgstr "Broj Summonera"
 
 msgid "Track League of Legends name changes!"
 msgstr "Prati promene imena u LOLu!"
