@@ -39,7 +39,7 @@ msgid "Generator"
 msgstr "Generator"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr ""
+msgstr "Ne postoje slobodne opcije za ime %(name) od %(num_variants) kombinacija."
 
 msgid "Summoner name not in use"
 msgstr "Ime"
@@ -138,7 +138,7 @@ msgid "Close"
 msgstr "Zatvori"
 
 msgid "This section contains a wealth of information, related to <strong>LoL Names.GG</strong> and its use. If you cannot find an answer to your question, feel free to <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">contact me</a>."
-msgstr "Ova stranica sadrži gomilu informacija vezanu za <strong>LoL Names.GG</strong> i njegovu ulogu. Ako ne nađeš odgovor na pitanje, slobodno postavi jedno!"
+msgstr "Ova stranica sadrži gomilu informacija vezanu za <strong>LoL Names.GG</strong> i njegovu ulogu. Ako ne nađeš odgovor na pitanje, slobodno postavi jedno! Hitler je do jaja lik."
 
 msgid "Frequently Asked Questions"
 msgstr "Nedavno postavljana pitanja"
@@ -240,10 +240,10 @@ msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 msgstr "Simboli: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
-msgstr ""
+msgstr "Pretraga ID-a naloga"
 
 msgid "See %(name)s's Account ID and Summoner ID!"
-msgstr ""
+msgstr "Pogledaj ID naloga %(name)'!"
 
 msgid "Search for a summoner's Account ID and Summoner ID."
 msgstr ""
@@ -366,7 +366,7 @@ msgid "Regularly updated, curated lists of the best currently available League o
 msgstr "Regularno ažurirane liste najboljih trenutno dostupnih LOL imena. Vučiću pederu"
 
 msgid "See a list of %(page_title)s and when they're available!"
-msgstr "POgledaj listu %(page_title)s i kad će biti dostupni!"
+msgstr "Pogledaj listu %(page_title)s i kad će biti dostupni!"
 
 msgid "Name"
 msgstr "Ime"
@@ -387,7 +387,7 @@ msgid "Active Match Lookup"
 msgstr "Pregled meca uzivo"
 
 msgid "Use this page to search for the active match details for summoners currently in game."
-msgstr "Ovu stranicu"
+msgstr "Ovu stranicu koristi za statistike trenutnih partija"
 
 msgid "Summoner"
 msgstr "Summoner"

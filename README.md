@@ -32,7 +32,7 @@ Click the link to the text file with the translations
 | pt | [Portuguese](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/pt/LC_MESSAGES/django.po) | ➖ 99.29% |
 | ro | [Romanian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ro/LC_MESSAGES/django.po) | ➖ 97.16% |
 | ru | [Russian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/ru/LC_MESSAGES/django.po) | ➖ 56.74% |
-| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ➖ 96.45% |
+| sr | [Serbian](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sr/LC_MESSAGES/django.po) | ✔ 100.00% |
 | sv | [Swedish](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/sv/LC_MESSAGES/django.po) | ➖ 81.56% |
 | th | [Thai](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/th/LC_MESSAGES/django.po) | ❌ 0.00% |
 | tl | [Tagalog](https://raw.githubusercontent.com/hingston/lolnames.gg/master/locale/tl/LC_MESSAGES/django.po) | ❌ 0.00% |
@@ -69,7 +69,7 @@ Contributors will be listed here and on the website if you wish. A link to socia
   * Spanish - [AlanBitsch](https://www.reddit.com/user/AlanBitsch), [ferrytiuu](https://www.reddit.com/user/ferrytiuu)
   * Hungarian - [Gr0xFamous](https://www.reddit.com/user/Gr0xFamous)
   * Estonian - [shaw™](https://twitter.com/ShawiAE)
-  * Serbian - Новица Трифковић
+  * Serbian - [Novke](https://discord.gg/pqQEX6)
   * Swedish - [RS_Froggit](https://www.reddit.com/user/RS_Froggit)
   * Turkish - Beta
   * Polish - [adik1237272](https://www.reddit.com/user/adik1237272)
