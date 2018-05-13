@@ -39,7 +39,7 @@ msgid "Generator"
 msgstr "Gerador"
 
 msgid "None available for %(name)s, out of %(num_variants)s variants."
-msgstr "Nenhum disponível "
+msgstr "Nenhum %(name)s disponível de %(num_variants)s variações"
 
 msgid "Summoner name not in use"
 msgstr "Nome de Invocador não está em uso "
@@ -81,10 +81,10 @@ msgid "Lists"
 msgstr "Listas"
 
 msgid "No active game for %(name)s"
-msgstr "Jogo não ativo para %(nome)s"
+msgstr "Nenhum jogo ativo para %(nome)s"
 
-msgid "No summoner with name \"%(name)s\" on %(region)s."
-msgstr "Sem invocador com o nome"
+msgid "No summoner with name \"%(name)s\ on %(region)s."
+msgstr "Sem invocador com o nome \"%(name)s\ na região %(region)s."
 
 msgid "LoL Names"
 msgstr "LoL Nomes"
@@ -102,7 +102,7 @@ msgid "Lookup Match Details"
 msgstr "Pesquisar detalhes do jogo ativo"
 
 msgid "Track Name Changes"
-msgstr "Siga Mudanças de nomes"
+msgstr "Rastreie Mudanças de nomes"
 
 msgid "Lookup Account ID"
 msgstr "LoL Finder ID de conta"
@@ -126,10 +126,10 @@ msgid "Languages"
 msgstr "Idiomas"
 
 msgid "LoL,League of Legends,Names,Generator,Checker,lol inactive,lol name checker,league name checker,league of legends name checker,summoner name availability,league name availability,Search,LoL Summoner name,Summoner"
-msgstr "LoL, League of Legends, Nomes, Gerador, Verificador, lol Inativo, lol Verificador de nome, Verificador do nome da liga, League of Legends Verificador de nome, disponibilidade do nome do convocador, disponibilidade do nome da liga, Pesquisar, LoL Nome de Invocador, Invocador"
+msgstr "LoL,League of Legends,Nomes,Gerador,Verificador,lol Inativo,lol Verificador de nome,Verificador do nome da liga,League of Legends Verificador de nome,disponibilidade do nome do convocador,disponibilidade do nome da liga,Pesquisar,LoL Nome de Invocador,Invocador"
 
 msgid "Frequently Asked Questions about summoner names"
-msgstr "Perguntas freqüentes sobre nomes de invocadores"
+msgstr "Perguntas Frequentes sobre nomes de invocadores"
 
 msgid "FAQ questions about League of Legends summoner name change rules."
 msgstr "Perguntas frequentes sobre as regras de troca de nome de invocador no League of Legends."
@@ -141,7 +141,7 @@ msgid "This section contains a wealth of information, related to <strong>LoL Nam
 msgstr "Esta seção contém uma riqueza de informações, relacionadas a <strong>LoL Names.GG</strong> e seu uso. <a href=\"Se você não conseguir achar uma resposta para sua pergunta, sinta-se livre para <a href=\"https://www.reddit.com/message/compose/?to=LoLNamesGG\" target=\"_blank\" rel=\"noopener\">me contactar</a>."
 
 msgid "Frequently Asked Questions"
-msgstr "Perguntas freqüentes"
+msgstr "Perguntas frequentes"
 
 msgid "How frequently do the lists update?"
 msgstr "Com que frequência as listas são atualizadas?"
@@ -192,7 +192,7 @@ msgid "Contact me here."
 msgstr "Entre em contato comigo aqui."
 
 msgid "Where should I report a bug?"
-msgstr "Onde devo denunciar um bug?"
+msgstr "Onde devo reportar um bug?"
 
 msgid "Why are no pre Xayah and Rakan champion names allowed?"
 msgstr "Por que não são permitidos nomes de campeões pré Xayah e Rakan?"
@@ -231,13 +231,13 @@ msgid "A list of all uppercase and lowercase special characters that are allowed
 msgstr "Uma lista de todos os caracteres especiais maiúsculas e minúsculas que são permitidos nos nomes dos invocadores League of Legends e se parecem com letras inglesas."
 
 msgid "Lower case: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
-msgstr "	Minúsculo"
+msgstr "Minúsculo: àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿąćęıłńœśšźżžƒ"
 
 msgid "Upper case: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
-msgstr "Maiúsculo"
+msgstr "Maiúsculo: ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞŸĄĆĘIŁŃŒŚŠŹŻŽ"
 
 msgid "Symbols: ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
-msgstr "Símbolos"
+msgstr "Símbolos ª º ß ˆ ˇ ˉ ﬁ ﬂ µ μ"
 
 msgid "Account ID Finder"
 msgstr "Finder ID de conta"
@@ -261,7 +261,7 @@ msgid "Last game: %(date_game)s<br>Last active: %(date_active)s<br>"
 msgstr "Último jogo: %(date_game)s<br>Último ativo: %(date_active)s<br>"
 
 msgid "Click and bookmark to track"
-msgstr "Clique e marque para tracejar"
+msgstr "Clique e marque para rastrear"
 
 msgid "Summoner ID"
 msgstr "Invocador"
@@ -285,22 +285,22 @@ msgid "Look up a username using an account ID. Enter a summoner's account ID and
 msgstr "Procure um nome de usuário usando uma ID de conta. Insira a ID da conta de um invocador e encontre seu nome de usuário."
 
 msgid "<h4 class=\"text-center\">Account ID \"%(account_id)s\" was found!</h4> Last game: %(date_game)s<br> Last active: %(date_active)s<br> Current Name: %(name)s<br> Previous Names: <i>Coming soon!</i><br> Current level: %(level)s"
-msgstr ""
+msgstr "<h4 class=\"text-center\">ID da Conta \"%(account_id)s\" foi achado!</h4> Ultimo jogo: : %(date_game)s<br> Ultima atividade: %(date_active)s<br> Nome Atual: %(name)s<br> Nomes Anteriores: <i>Em Breve!</i><br> Level Atual: %(level)s"
 
 msgid "<h4 class=\"text-center\">\"%(account_id)s\" is not owned!</h4>"
-msgstr "<h4 class=\"text-center\">\"%(account_id)s\" não é de propriedade!</h4>"
+msgstr "<h4 class=\"text-center\">\"%(account_id)s\" não tem dono!</h4>"
 
 msgid "highest level league of legends,lol max level in game,high score,lol highest level,LoL,League of Legends,Names,top summoner level, highest summoner level,summoner level,Search,LoL Summoner name,leaderboard,Summoner,summoner level leaderboards"
-msgstr "Liga de legendas de nível mais alto, nível máximo de lol no jogo, pontuação alta, nível mais alto de lol, LoL, League of Legends, Names, nível de Invocador superior, nível de invocador mais alto, nível de invocador, Search, LoL Nome de Invocador, leaderboard, Invocador, Invocador level tabelas de classificação"
+msgstr "league of legends de nível mais alto,nível máximo de lol no jogo,pontuação alta,nível mais alto de lol,LoL,League of Legends,Names,nível de Invocador superior,nível de invocador mais alto,nível de invocador,Search,LoL Nome de Invocador,leaderboard,Invocador,leaderboard de nível de invocador"
 
 msgid "See the top %(number)s summoner levels in the world!"
-msgstr "O melhor nível de invocação na League of Legends!"
+msgstr "Ver os maiores %(number)s níveis de invocador do League of Legends!"
 
 msgid "The top summoner level in League of Legends!"
-msgstr "O melhor nível de invocação na League of Legends!"
+msgstr "O maior nível de invocação na League of Legends!"
 
 msgid "Track who has the highest summoner level in League of Legends. The high scores can be shown as world wide or sorted by region. See the summoner level leaderboards."
-msgstr "Acompanhe quem tem o melhor nível na League of Legends. As altas pontuações podem ser mostradas em todo o mundo ou ordenadas por região. Veja as tabelas de classificação do nível invocador."
+msgstr "Acompanhe quem tem o maior nível do League of Legends. As altas pontuações podem ser mostradas em todo o mundo ou ordenadas por região. Veja as tabelas de classificação do nível invocador."
 
 msgid "Updates will take a maximum of 10 minutes to appear. Check out the <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">lists of upcoming expiring names</a>."
 msgstr "Atualizações levarão no máximo 10 minutos para aparecer. Cheque aqui <a href=\"/%(LANGUAGE_CODE)s/\" target=\"_blank\" rel=\"noopener\">summoner name checker</a> or the <a href=\"/%(LANGUAGE_CODE)s/lists/\" target=\"_blank\" rel=\"noopener\">listas de nomes prestes a expirar.</a>."
@@ -429,4 +429,4 @@ msgid "Number of Summoners"
 msgstr "Número de Invocador"
 
 msgid "Track League of Legends name changes!"
-msgstr "Traceje mudanças de nomes no league of legends"
+msgstr "Rastreie mudanças de nomes no league of legends"
